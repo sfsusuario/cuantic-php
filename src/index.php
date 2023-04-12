@@ -2,19 +2,18 @@
 
 class CSVValidator {
     private $errors = [];
-    private $columns = [];
     private $sources = [
         "google forms", "facebook leads", "email response", "manual registration"
     ];
     private $counter = 0;
 
-    public function loadCSV($path) {
+    public function loadCSV($path, $destiny) {
         $reader = fopen($path, 'r');
+        $writter = fopen($destiny, 'w');
         $this->counter = 0;
         $this->errors = [];
 
         if($reader) {
-            $count = 0;
             while(true) {
                 ++$this->counter;
                 $line = fgetcsv($reader,10000,",");
@@ -22,18 +21,22 @@ class CSVValidator {
                     break;
                 }
                 if($this->counter == 1) {
-                    $this->columns = $line;
+                    fputcsv($writter, $line, ",");
                     continue;
                 }
-                $this->checkLine($line);
+                if($this->checkLine($line)) {
+                    fputcsv($writter, $line, ",");
+                }
             }
         }
-        echo json_encode($this->errors);
+        
         fclose($reader);
+        fclose($writter);
+        file_put_contents(".\\errors.json", json_encode($this->errors));
     }
 
     private function checkLine($line): bool {
-        $userName = $line[0];
+        $name = $line[0];
         $age = $line[1];
         $dni = $line[2];
         $source = $line[3];
@@ -67,15 +70,15 @@ class CSVValidator {
             $lineErrors["phone"] = $phone;
         }
 
+        if(!$this->checkUserName($name)) {
+            $lineErrors["name"] = $name;
+        }
+
         if(count($lineErrors) > 0) {
             $this->errors[$this->counter] = $lineErrors;
         }
 
         return !empty($lineErrors);
-    }
-
-    private function writeLine(string $string) {
-
     }
 
     private function checkNumber(int $val, int $min, int $max) {
@@ -87,30 +90,21 @@ class CSVValidator {
     }
 
     private function checkUserName(string $name) {
-        $nameParts = explode(" ", $name);
+        $regex = "/^([A-Za-z]+) ?([A-Za-z]\.)? ([A-Za-z]+)$/";
+        return preg_match($regex, $name);
     }
 
     private function checkTags(string $tags): bool {
-        $parts = explode("|", $tags);
-        $valid = true;
-        foreach($parts as $part) {
-            $match = preg_match('/^(\w*)$/', $part, $output_array);;
-            if(empty($output_array)) {
-                $valid = false;
-            }
-        }
-        return $valid;
+        $regex = "/^[\w]+(?:\|[\w]+)*$/";
+        return preg_match($regex, $tags);
     }
 
-    public function checkPhoneNumber(string $phone) {
-        $phone = str_replace("+54", "", $phone);
-        $phone = str_replace("-", "", $phone);
-        $phone = str_replace(" ", "", $phone);
-        $phone = str_replace("+", "", $phone);
+    private function checkPhoneNumber(string $phone) {
+        $phone = str_replace(["+54", "-", " ", "+"], "", $phone);
         return strlen($phone) == 11;
     }
 }
 
 $instance = new CSVValidator();
 
-$instance->loadCSV(".\\data.csv");
+$instance->loadCSV(".\\data.csv", ".\\final.csv");
