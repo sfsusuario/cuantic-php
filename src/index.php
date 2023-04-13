@@ -100,7 +100,7 @@ class CSVValidator {
 
     private function checkPhoneNumber(string $phone) {
         $phone = str_replace(["+54", "-", " ", "+"], "", $phone);
-        return strlen($phone) == 11;
+        return is_numeric($phone) && strlen($phone) == 11;
     }
 }
 
