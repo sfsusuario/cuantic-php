@@ -80,15 +80,15 @@ class CSVValidator {
         return empty($lineErrors);
     }
 
-    private function checkNumber(int $val, int $min, int $max) {
+    private function checkNumber(int $val, int $min, int $max): bool {
         return is_numeric($val) && $min <= $val && $max >= $val; 
     }
 
-    private function checkStringEnum(string $stringText) {
+    private function checkStringEnum(string $stringText): bool {
         return in_array(strtolower($stringText), $this->sources);
     }
 
-    private function checkUserName(string $name) {
+    private function checkUserName(string $name): bool {
         $regex = "/^([A-Za-z]+) ?([A-Za-z]\.)? ([A-Za-z]+)$/";
         return preg_match($regex, $name);
     }
@@ -98,7 +98,7 @@ class CSVValidator {
         return preg_match($regex, $tags);
     }
 
-    private function checkPhoneNumber(string $phone) {
+    private function checkPhoneNumber(string $phone): bool {
         $phone = str_replace(["+54", "-", " ", "+"], "", $phone);
         return is_numeric($phone) && strlen($phone) == 11;
     }
