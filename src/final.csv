@@ -1,419 +1,1383 @@
 name,age,dni,source,tags,phone,external_id
-"Shell Idou",23,45691912254,manual-registration,actionpending|remove_of_source|contactcenter_region4,"+54 2 79 2274 5904",39476
-" Sonny",59,62094536443,"Email response",any_applicant|any_applicant,"+54 1 73-6529 4104",51715
-"Beverie P.",81,19988966982,"Facebook Leads",case1|on_consideration,"+54 5 33 5876 29892",81973
-"Carmel Pritchett",58,25690837444,"facebok Leads",contactcenter_region4,"+54 2 76-2417 5665",95511
-" F. Briscoe",119,52416602737,"facebook leads",contactondemand|any_applicant,"+54 3-64 2632 28217",32769
-"Lotta Mas",15,36398160827,"google form",contactcenter_region4|contactcenter_region4,"+54 4 95 5095 7159",79144
-"Mildred Maryly",96,24697838675,"Facebook Leads",case1,"+54 6 13-7353 54544",32725
-"Lusa Janith",5,97933381661,"facebook leads",case1|source_dependant,"2 73 5557-15499",13562
-"Arabella Verina",19,782709618120,"Google forms",possible_buyer,"5 55 1334 8288",56245
-" Couture",60,93136537663,"Google forms",remove_of_source|remove_of_source23,"+54 5 66-1054 1008",80800
-Phyllys,82,43313287178,"Google forms",contactondemand|form_ui344|any_applicant,"5 89 2968 1259",18090
-"Willa Lacombe",2,24823486013,"Google forms",case1|call_again30|call_again,"5 43 9463-83698",56119
-" Denbrook",74,65129502244,"google Forms",treaty|most_interested,"6-51-1023 6355",63880
-"Eddy M. August",66,20425974716,"facebok Leads",techsource_29,"4 44-7899-6341",27266
-Zarla,73,41998156309,"Email RESPONSE",source_dependant17,"1 15-1413 5089",47160
-"Maire D. Merat",37,78289997635,"Manual registration",most_interested|contactondemand,"2 10 5653 24597",14207
-" N. Ellita",105,80100620500,"Email response",contactcenter_region3|client_only9|any_applicant26,"3 72-3353 5155",19404
-"Orelie Zsazsa",106,50224436151,manual-registration,case1|treaty26|contactcenter_region1,"1 77 7454 8859",84491
-" Rodmun",40,22963336808,"Email response",least_interested10|any_applicant,"4 71 4300-2947",31230
-"Glen Bette-Ann",120,27746585105,"facebook leads",contactcenter_region4|any_applicant|case121,"9 44-8831 3219",69954
-"Starlin Mohandas",71,55753061945,manual-registration,on_consideration|techsource_29,"3 11-6270 1870",61830
-Dana,24,44264899849,"Manual registration",most_interested10,"+54 8 57-7055 1194",87489
-"Ebony A. Prasad",41,37355211738,"google form",apply_0_cases8|source_dependant16|apply_0_cases22,"+54 5-83 6579 6922",81443
-"Cassy J. Plafker",67,5523892527,"Manual registration",actionable|apply_0_cases,"9 99-4025 1964",27906
-"Carena G. Carbo",76,52949328006,"google form",call_again|contactcenter_region4|contactcenter_region3,"+54 9 22 7315 7975",65876
-"Harri D. Ailee",9,88064664083,"facebok Leads",case1|case1,"9 60 3924-4136",49094
-"Truda Mount",98,38533697451,"facebok Leads",least_interested19|form_ui34415,"3 77 3261 5129",38984
-"Jessie A. Arick",102,1382693786,"Facebook Leads",actionable|contactcenter_region229,"+54 3 91-7548 1206",71604
-"Melloney R. Eddie",124,5777295456643,"google Forms",never_call|techsource_29|most_interested,"1-83-6297 4203",35293
-Merci,71,51178058468,"MANUAL REGistration",never_call,"7 32-6116-9677",34325
-"Lurline W. Toby",110,46455584460,"google form",most_interested,"8 37 7471 7050",38950
-"Julia L. Prospero",94,42514634807,"Google forms",rangeof_action26|contactcenter_region2,"+54 5 47 2960 35399",58272
-"Sharon Colvert",65,2039036823,"Facebook Leads",contactcenter_region48,"+54 3 13 4851 1755",70465
-"Jasmina L. Jehias",80,820816420,"facebook leads",treaty,"9 42 5500 6990",80577
-"Vitoria Ellerey",66,44495192587,manual-registration,contactondemand|techsource_296|contactcenter_region29,"1 73 7849 1695",15434
-Sabrina,53,54101338169,"Email response",contactcenter_region426|least_interested,"7 70-9551-5932",89629
-"Cecile A. Charleton",33,52121627031,"google form",contactcenter_region2,"1-12 7739 7230",87094
-"Eleanore I.",76,48935693511,"MANUAL REGistration",least_interested,"4 27 5525-2649",25670
-" T. Rudin",24,57717734623,"facebook leads",most_interested|special|limit,"2 49 1639 7760",89702
-" Adriana",39,19918251718,"Email response",techsource_29,"+54 9 76 9591 8367",93953
-"Cristie Besnard",112,70388771888,"google form",never_call,"2 93 7949 2611",20471
-"Drusi Vivi",118,63501316609,"Email RESPONSE",rangeof_action|limit|least_interested,"+54 3 17 2257 60514",96345
-"Miof Mela Reeve",116,89483518172,"Email RESPONSE",contactcenter_region2|call_again,"5 99 3771 7140",88676
-"Angelina Hanford",46,57939157396,"facebok Leads",rangeof_action|possible_buyer5,"+54 5 17 2427-1898",51335
-"Geralda Supple",117,73180855181,"google form",possible_buyer|actionable5,"1-80 2760 4731",65418
-"Dacie Ranzini",84,31836740824,"google form",contactcenter_region2,"4-67 3251-25368",62288
-" V. Keily",97,72332247975,"Facebook Leads",actionable29|special,"8 13 1948 9355",75009
-"Farah B. Gapin",74,83465695163,manual-registration,client_only,"9 17-2719 7542",55557
-"Kathryn R. Wyck",86,77273493838,"Manual registration",least_interested,"+54 6 44 4468 82758",74094
-"Vere Driskill",83,6749202094804,"Facebook Leads",most_interested|contactondemand17|least_interested,"+54 2 24-5319-7763",89598
-"Lydie Feldt",120,16187985533,manual-registration,never_call|case1|techsource_29,"5 69 1010 4049",21338
-"Sabrina Tobie",108,73129211117,"Facebook Leads",contactcenter_region313,"2 21 8908-29594",98499
-"Ann-Marie Efren",81,19019176173,"facebook leads",call_again,"6 36 4471 7239",55814
-"Joceline Trust",112,35049963566,"Manual registration",remove_of_source|limit|least_interested26,"+54 1 96-5503 80757",85235
-" R. Hewes",98,26514887475,"Email response",actionpending,"2 79 4621 6312",40553
-"Rhona J.",93,64557432455,"Email responce",possible_buyer|case16|never_call,"+54 8-96-5696 6193",45335
-"Madalyn Tremann",19,6253360086017,"google Forms",rangeof_action|case1|form_ui34428,"+54 8 85 5189-9552",24910
-" Khorma",1,54265759941,"Manual registration",source_dependant23|source_dependant,"3-75 2036 84661",57035
-"Ola Hedvah",89,79585015080,"Google forms",contactcenter_region326|contactcenter_region217,"+54 1 96 3966 98431",85539
-" B. Opal",43,2553991860095,"Google forms",treaty,"5 33 5933 7745",69552
-Janka,82,61390718640,"Manual registration",contactcenter_region3,"7 54-9257 1985",32173
-"Caty O. Chapen",22,3751603550,"Email RESPONSE",apply_0_cases25|apply_0_cases10|call_again,"9 61 1006 1434",51479
-"Joelie S. Shulman",0,57220046397,"Email RESPONSE",treaty,"3 12 2345-6139",97343
-"Zea Wilber",6,46927061659,"google form",contactcenter_region1|remove_of_source23|limit26,"5 72 4648-7121",35928
-"Elayne N. Rory",73,21621286141,"facebok Leads",source_dependant|contactondemand,"2 61 7059 9141",63562
-"Lise Nurse",92,81116178674,manual-registration,rangeof_action|case1,"1 78 4313 3869",31653
-"Maitilde E. Zaneta",86,28338213418,"google form",never_call19|case1|never_call,"+54 4 37 8148 7951",89580
-"Hedwig Lewison",57,15237088659,manual-registration,treaty,"5-29 6702 4838",24765
-"Rochell R. Irmgard",110,34335883859,"facebook leads",call_again28,"1 56 6946-75387",30179
-Prudence,19,15702990769,"Email RESPONSE",most_interested28|actionpending1|contactcenter_region2,"9 45-6906 3642",65734
-"Harriette V. Mersey",35,92768743909,"Google forms",on_consideration16|never_call|treaty,"5 67 6340 67849",96796
-"Lilah B. Petronille",5,33289810268,"Email RESPONSE",case1,"7-22 1940 17962",95737
-"Ericka F. Osher",84,7530536279217,"Email RESPONSE",contactcenter_region318|treaty|source_dependant,"+54 2 57 1476-5195",77578
-Muriel,110,30755627584,"Facebook Leads",least_interested,"+54 3 23 8230 3566",97995
-"Auroora M.",61,27434921368,"Google forms",source_dependant10,"8 55 8875 5684",84376
-"Collie J. Ginevra",71,61539372187,"google Forms",actionable|contactondemand,"5 34 3974-97752",99054
-"Adi Dieter",46,7120231593981,"google Forms",contactcenter_region2|treaty|actionable,"2-45 3947-5803",95277
-"Maribel Thorn",35,75654676698,manual-registration,most_interested|possible_buyer,"9-50-9571 1833",89185
-"Vernice Melda",51,21472545419,manual-registration,source_dependant|least_interested|contactondemand,"6 36 3029 6944",69182
-"Rae H. Tletski",20,5744363134271,"google form",treaty|contactcenter_region229|any_applicant,"7 32 7825 2712",56238
-"Sally Hecklau",63,82194829781,"google form",actionpending|special,"1 41 4434-5919",75070
-" Wait",13,73063528607,"google Forms",actionable26,"+54 9 15 9965 3919",19552
-" Sharp",72,12673618521,manual-registration,most_interested|source_dependant17,"1-24 4949 5528",90759
-"Kelcy Shiverick",0,34949980451,"MANUAL REGistration",limit|apply_0_cases28|contactcenter_region4,"7-57 6431-8388",76464
-"Marcia L. Emilio",0,63120361338,"Email response",contactondemand|rangeof_action|client_only,"1 88 8610 1325",91039
-" Paxon",19,70021068043,"Manual registration",contactcenter_region4|rangeof_action21,"6 13 4225 7751",60455
-"Desdemona Cohlier",103,71344979350,"google form",limit22|contactcenter_region417|techsource_29,"+54 4 77-2236-7634",85828
-"Georgina Carisa",42,28964675492,"Email responce",never_call,"4 79 1245 3791",51106
-"Reina N. Bergren",36,54172392288,"google Forms",on_consideration|least_interested8|least_interested,"+54 4-31 2493 60201",13228
-"Dorree Garland",18,69157792664,"facebook leads",contactcenter_region411,"5 78 9093 86398",11490
-"Sharla R. Hebbe",99,86161716994,"facebok Leads",actionable,"1 48 7861 7001",15823
-"Phelia J. Hunter",90,32458099951,"google form",on_consideration|contactondemand20|case1,"8-96-6237 1740",97236
-"Catarina Henryson",28,19208773782,manual-registration,contactcenter_region3|least_interested,"6 32-3213-7765",51187
-,97,933751203484,"facebook leads",treaty,"+54 6 26-9731 5241",82693
-"Juliet E. Janek",64,8217210276429,"facebook leads",techsource_2925|apply_0_cases,"5 24 1214-4401",50321
-"Olenka D. Cates",0,12687613825,"Email RESPONSE",remove_of_source,"+54 5 28 8045 2044",13121
-"Denise T. Baron",111,7567330177,"Manual registration",never_call|contactondemand,"7 38-7277 8600",37218
-" B. Gayn",32,37542804163,"Google forms",most_interested10,"6-27 3759 5261",83418
-"Sissie R. Audrye",7,59602812669,"google Forms",actionpending,"+54 9-73 1160 65204",53636
-"Kyla B.",81,47635275747,"Google forms",special,"+54 9 87 5115 9496",54003
-"Rodi Greenberg",55,84577489131,"facebok Leads",techsource_29|client_only,"9 35 4821-6047",12474
-"Brittaney Poland",25,6022302394123,"Email response",apply_0_cases,"+54 3-86 2841 9772",56687
-"Carmon Saffier",8,8726364758075,"Manual registration",techsource_29,"5 91 3653 5296",51280
-"Jacki Nysa",71,14662947179,manual-registration,limit2|remove_of_source,"+54 8 34 2234-7169",71118
-"Mair N.",4,24013945794,"MANUAL REGistration",least_interested5,"7 61 4255 5094",86269
-Jania,120,77541589554,"Email RESPONSE",limit26|case129,"5 71 1718 7883",97236
-"Doll Emmeline",51,45799903528,"google form",most_interested|never_call5|rangeof_action,"7 42 6212 4048",85221
-"Mari C. Friedlander",27,8341517142014,"Manual registration",on_consideration|source_dependant,"+54 8 37 4363 8912",10461
-"Rorie Guss",62,3977113323396,"google form",client_only|rangeof_action|special,"2-67-5664 6951",32230
-"Norina E. Sherrard",69,55427713896,manual-registration,contactcenter_region220,"7 16 9753 4395",96164
-"Fernande F. Vasileior",77,80003039900,"google form",limit23|limit|on_consideration,"3 77-7807 8018",16792
-"Madeleine Alasteir",79,98343635960,"Email responce",actionpending|source_dependant,"+54 4 59 6481 4883",67701
-"Geraldine Haldis",10,3786248743,"Google forms",least_interested21,"6 37 5617 4406",98855
-"Modesta S. Shayn",112,41678981034,"facebok Leads",contactcenter_region2|most_interested29|call_again3,"4 28 4912 6111",29260
-"Anna-Maria I. Charie",101,55893421515,"Facebook Leads",remove_of_source|least_interested3,"8 15 6376 9244",73977
-"Aurora M. Haag",54,95436127906,"google form",contactcenter_region2|case1,"5-85 3840 9466",94303
-"Margi Tenenbaum",83,5407379686566,"Email response",special|any_applicant|techsource_29,"1-56 7522-9305",36283
-"Nalani B. Wiatt",0,68889460041,"Facebook Leads",remove_of_source5,"+54 2-31 1000 7479",12299
-"Denise D. Danczyk",25,24975308839,"facebok Leads",on_consideration10|techsource_29,"+54 1-25 2170 1438",28457
-"Marika Malloy",82,21995932501,"Email responce",actionpending15|possible_buyer,"+54 5 70 6530 9040",35068
-"Blondy K. Burger",0,68889460041,"Facebook Leads",contactondemand7,"+54 2-31 1000 7479",39287
-" E. Justinn",99,74691305283,"facebook leads",call_again14|call_again7,"2 38-2283 6830",27592
-"Noni Quincey",39,51483668392,"Email responce",contactondemand|limit|actionable,"7 70 1025 5915",59224
-"Maurine P. Mosera",31,34297564945,"facebok Leads",limit|contactcenter_region4,"7 32 5129 9042",30048
-"Candi D.",84,43523315323,"Facebook Leads",contactondemand|case112,"8 84-8960-6985",70180
-"Cymbre H. Sculley",79,6118973376377,"Facebook Leads",apply_0_cases,"+54 9-86 7410 3029",74752
-"Terrie R.",58,50852333239,"Email response",limit|special|actionpending,"6-32 2064 6518",56686
-" Scoles",148,31845305422,"Email RESPONSE",case1|case1|call_again,"+54 8 39 6945 7047",99908
-"Wynnie I. Leor",48,57074728144,"Email response",contactcenter_region3|apply_0_cases18,"+54 7 54-4937-19186",10464
-"Belia W. Chu",62,74308768099,"facebok Leads",call_again,"+54 8-73-3026 2460",86935
-"Winnie Stortz",120,67432915602,"google form",contactcenter_region3,"4 80 1509 2743",12720
-"Jessamyn Raddi",17,25417718557,"Manual registration",never_call,"5 75 6575 25981",80383
-" Hines",91,71974967763,"Google forms",contactcenter_region3,"4 19 5585-91617",14478
-"Darline Latouche",42,40280887884,"facebok Leads",on_consideration|on_consideration,"5 29-5755 6016",91587
-"Britte O. Sebbie",93,89842317170,"Email responce",source_dependant|possible_buyer23,"5 15 8795 1072",80393
-"Kassia R. Sand",93,89842317170,manual-registration,contactcenter_region210,"5 15 8795 1072",27790
-"Megan Rilda",94,46759938563,"Email responce",any_applicant|rangeof_action26|limit,"+54 3 60 9239 9432",66315
-"Oona T. Mllly",78,68014828886,manual-registration,form_ui344|contactcenter_region2,"+54 1 38 3437-4830",84827
-Charlene,68,72313816342,"Google forms",client_only|limit15,"1 57 3257 3868",92676
-Martie,107,31018521261,"Google forms",most_interested|any_applicant|any_applicant,"7 40-7365 7438",43422
-" G. Kathy",42,27260992239,"facebook leads",actionable|least_interested,"5 77 8435-8944",79920
-"Wynn Danby",24,94145584180,"MANUAL REGistration",treaty|least_interested,"3 86 6465-37773",55207
-"Agatha N.",7,45568139318,"Google forms",apply_0_cases|treaty|contactcenter_region2,"3 90-9449-8539",52118
-"Chelsie B. Katerine",62,4732775117859,"facebok Leads",client_only29|treaty10|client_only,"+54 1-34-7644 7377",37704
-"Kelila W. Leanna",124,18678456448,"facebok Leads",contactcenter_region15|call_again12|special22,"1 59 3551 6520",10482
-"Moll Dickinson",78,93927772801,"Email RESPONSE",apply_0_cases,"+54 7 78 7734 25118",75529
-Mariette,10,11994940265,"facebook leads",form_ui344|any_applicant,"+54 6 60-3314 1810",60744
-"Eden O. Lipcombe",31,65909190230,"facebok Leads",source_dependant,"5 14 4979 8419",93372
-"Betty M. Veron",29,42390765823,manual-registration,on_consideration|least_interested8,"+54 4 75 3581 2646",49758
-"Evangeline C. Golda",121,8144739256765,manual-registration,remove_of_source|contactcenter_region325|contactcenter_region415,"6-94-1939 6050",47509
-"Lavina R. Bourne",32,78563457699,"google form",contactcenter_region1|actionpending|treaty26,"7-28 3800 5521",96555
-" N. Narda",57,29842934925,"MANUAL REGistration",rangeof_action|client_only2,"3 78-4845 1707",73541
-"Cherida Gerrie",124,64465416085,"google form",never_call,"4 86-9459 5412",64267
-"Lynnell V. Anne-Corinne",13,21633608502,"Manual registration",contactcenter_region1,"+54 2-60 7762 9776",98117
-"Merna Gavrila",1,37243158584,"facebok Leads",special|rangeof_action|actionable,"3 43-6172 4090",53503
-"Norine Maggio",20,15799872451,"Manual registration",rangeof_action3|form_ui344,"+54 6 43 7186 37126",91432
-" H. Reidar",40,92281799738,"Email RESPONSE",most_interested|most_interested|least_interested,"1 49 2175-2126",73542
-"Papagena Jean",40,27060981940,"facebok Leads",apply_0_cases6|contactondemand|form_ui344,"+54 3 58 6667 1012",32624
-"Felecia Deana",58,322911428,"Google forms",contactcenter_region2,"6 16 6664-62392",62298
-"Cristi Beutner",94,93761528666,"facebok Leads",special|rangeof_action,"+54 4 11 6328 9704",83486
-"Bobbi Maude",110,7876199547,"facebook leads",techsource_294,"2 56 2502-4745",42102
-" H. Bazar",33,41551190177,"Email RESPONSE",any_applicant|never_call23,"6 75 8110 2583",61841
-"Corina R. Lorilee",108,7935134347,"Google forms",rangeof_action|techsource_29,"9 45-8109 9739",61944
-"Catherine Dib",50,30950035096,"MANUAL REGistration",contactcenter_region2|call_again5,"5 19 8824-42655",45995
-"Gabie Kovacev",37,6646868629215,"google Forms",contactcenter_region3|source_dependant|limit29,"9-65 5873-9992",54313
-"Cristin Peck",37,6646868629215,"facebook leads",source_dependant,"9-65 5873-9992",70390
-"Charmine R. Thanasi",125,66842972673,"Email responce",client_only|call_again,"8 21-9509 9837",13684
-"Arabele Shaum",37,6646868629215,"Email response",form_ui344,"9-65 5873-9992",12137
-"Crystal Une",124,3251378648433,"Manual registration",any_applicant18|any_applicant,"6 14 8305-8811",82520
-"Jacinthe Zebulon",53,2450048615,"Facebook Leads",special,"8 64 7100-4270",80919
-"Barbara-Anne Mayfield",89,17852141046,"Manual registration",contactcenter_region1,"9 91-3008-6465",66503
-"Halli Alithia",103,41232083113,manual-registration,client_only|case128|any_applicant,"+54 8 50 6256 1498",12269
-"Maryjo V. Malcolm",83,99713268069,manual-registration,remove_of_source30|most_interested21,"+54 4-59 2408-6350",46042
-"Arlana K. Cartie",69,21303098900,"facebook leads",least_interested27|actionpending,"+54 7 22 4949 52508",62976
-"Carley Garnette",46,43126488748,"Email RESPONSE",most_interested|call_again,"9 76 6165 98327",13024
-"Lora C.",39,77660331311,"Facebook Leads",contactcenter_region212,"+54 1 70 9569-8962",81484
-"Fanya A. Johnny",84,15904640717,manual-registration,case1|source_dependant,"5 56 4115 7304",30492
-"Edy Kappel",53,2450048615,"MANUAL REGistration",case1,"8 64 7100-4270",13851
-"Marlie Menis",100,41277344763,"google Forms",client_only|remove_of_source,"+54 1 38 7439-38245",13268
-"Polly Obara",77,71144995666,"google form",apply_0_cases,"6 94 6051 2881",82756
-"Katrine Adal",35,82988346504,"Email responce",actionpending26|contactondemand,"+54 6 53 1179 4773",65632
-"Kassey Roselba",112,63036517347,"google form",apply_0_cases,"1 89 6370 3869",32685
-"Christel E. Valleau",114,8275664395834,manual-registration,most_interested|apply_0_cases|most_interested,"2 54 2218 3330",82182
-Henrietta,64,28584889743,"google form",call_again|remove_of_source,"3 59 8801 8776",51391
-"Sibel Casper",102,92085466867,"google form",case1|contactondemand,"2-55 8464-8153",99531
-"Karyn N. Thorny",66,14387914132,"Email responce",call_again8|case115|limit13,"7 91 1336 9467",64636
-"Betteanne Crenshaw",52,18176661674,"Email responce",on_consideration,"6 41 4242 3321",98223
-"Sibella Dimitri",0,51771730051,"Facebook Leads",contactcenter_region1,"+54 2 32-6203 6947",52777
-"Arielle R. Hescock",91,40314385344,manual-registration,on_consideration|contactcenter_region1|case1,"3 59-1259 1542",86758
-"Sallie E. Kletter",71,32983695935,"facebok Leads",call_again|actionpending21|client_only9,"3 63 1156-27203",56285
-" Ashwell",0,83345866502,"facebook leads",client_only|contactcenter_region1,"5-30 2764-3296",85655
-"Brunhilda M. Gensler",53,2450048615,"Email RESPONSE",on_consideration|call_again,"8 64 7100-4270",39780
-"Miquela N.",53,2450048615,"Manual registration",techsource_29,"8 64 7100-4270",64491
-"Griselda E. Horbal",24,51258963349,"google form",contactcenter_region2,"8 75 7509-6263",83184
-"Karel W. Salangi",65,22325888731,"facebok Leads",rangeof_action,"+54 9-21 4048-4224",79143
-"Corliss Jillane",119,22457766478,"facebok Leads",contactondemand|contactcenter_region2|any_applicant,"+54 7-77 6536 7212",17501
-"Vera Ida",48,95925766949,"facebok Leads",contactcenter_region319|remove_of_source|source_dependant,"+54 6 18 4804-8612",14829
-"Minnie H. Lynne",60,5423507117,"Google forms",limit22,"6 87 5445 7302",94382
-"Aryn P. Hoover",81,9989980031230,"Email RESPONSE",client_only21,"3 36 5903 3069",68792
-" J. Osman",94,73291114294,"Google forms",contactcenter_region4|form_ui3447,"3 20 2911 2176",81386
-"Koren Bow",0,43065651855,"facebook leads",source_dependant8,"1 45 3248 6411",63494
-Andrei,69,16058460611,"google Forms",contactcenter_region3|apply_0_cases|client_only9,"7 92-1016 2037",32219
-"Lisbeth W. Roxie",53,2450048615,"Email RESPONSE",contactcenter_region25,"8 64 7100-4270",65719
-"Gillian Trillby",86,97001824524,manual-registration,contactcenter_region4,"2 69 6390 4985",13077
-"Audrie C. Lipski",72,1785760576,"google form",form_ui344|rangeof_action5,"+54 4 32 4292 9357",26155
-"Linnet M. Claman",121,54157063097,"facebok Leads",limit|remove_of_source|contactondemand,"8 62 8554 4324",85984
-" G. Babcock",22,79139770211,"Facebook Leads",rangeof_action,"+54 7 22 6817 4092",87683
-"Stormie R. Hyacinthe",18,61543446017,"google form",client_only|actionpending,"8 64-7955-7355",42322
-" Phillips",88,17753809001,"Email response",on_consideration|treaty21,"2 12 6053 8283",50124
-"Claresta Cox",99,28241596839,manual-registration,most_interested|techsource_29|contactcenter_region1,"5 57 7816 2833",62577
-"Dyanne W. Lucas",64,54216233290,"Email responce",actionpending|apply_0_cases5|apply_0_cases,"+54 6 47 4186 4229",68206
-"Laina S. Gannes",84,18428141920,"Email responce",contactcenter_region2|apply_0_cases,"5 11-3646-3057",97583
-"Annabal G. Terryn",72,26772821099,"facebok Leads",limit|contactcenter_region2,"+54 8 15 9804 2609",83480
-"Shellie Liuka",69,79810376162,"facebok Leads",contactcenter_region24|form_ui344,"9-62 9692 6456",94262
-"Dale O. Donia",35,18045708270,"Manual registration",techsource_2925|form_ui344|contactcenter_region2,"+54 3 54 3048 87929",10076
-Annnora,50,19383548447,"facebook leads",contactcenter_region4,"4 46 5727 3571",52379
-"Anna-Diana A. Malcolm",72,26772821099,"Google forms",case1,"+54 8 15 9804 2609",75347
-"Clareta Carolann",88,73592888934,"facebok Leads",call_again|call_again|contactcenter_region3,"7 92 3212-1222",25767
-"Rubie C. Kroll",30,3947944389215,"Email response",treaty|treaty|special3,"1 14 5261 4417",95178
-"Anne-Corinne R. Sarena",40,47624668013,"Email response",call_again,"+54 1 59 7829 1230",35864
-"Katharyn L. Shantee",102,97342340435,manual-registration,least_interested|remove_of_source,"1 41-8043 4038",26689
-"Cathrine Costanza",31,30022333274,"facebok Leads",contactcenter_region31|remove_of_source|source_dependant,"1 90 8705 1137",88408
-" T. Smalley",20,23643779181,"Facebook Leads",actionpending|limit|least_interested,"+54 8 74 8149 9542",96909
-"Esther G. Melly",111,93446768123,manual-registration,least_interested,"+54 7 73 8541 7306",82171
-"Robbyn Demetris",54,30761470029,manual-registration,contactcenter_region426,"7 21-8401-6310",32749
-"Kacey Diana",0,40392994208,"Manual registration",apply_0_cases|actionable|limit18,"5 88 6968 9353",63565
-"Ruthy Aguie",122,41091292655,"Email responce",least_interested,"9 80-8626 5929",47140
-"Millicent Deeanne",119,71452106248,"Email responce",remove_of_source16|contactcenter_region1,"2 88 1350 3353",89950
-"Ellynn M. Odyssey",16,26812776382,"Google forms",remove_of_source3,"+54 3 89 7101 87184",70219
-"Debor H. Borreri",12,41722613809,"google form",on_consideration|actionpending25|call_again,"7 61 1676-1705",85243
-"Berthe J.",39,85686015701,"Manual registration",techsource_29,"+54 3 54 1634 4002",93539
-"Timi Cohette",45,71514462420,"google form",actionpending|limit,"2 24-7075 8359",58409
-"Doe M. Homerus",0,68638773249,"Facebook Leads",form_ui344,"5-51-7331 5533",65660
-"Eba Ardell",60,95299794750,"Email responce",contactondemand,"4-24 7481-8066",88226
-" Elurd",119,71452106248,"Manual registration",remove_of_source9|contactondemand|on_consideration,"2 88 1350 3353",74704
-" Orson",57,86628447663,"Email response",treaty24|limit|treaty,"+54 7 25 2286 9869",41677
-" Kerrison",28,42152344126,"facebok Leads",special25|never_call,"+54 2-21 6389 6760",17840
-"Bambie TEirtza",83,83363973289,"facebok Leads",possible_buyer1,"3 55-7036 6151",40159
-Cleopatra,109,89181178923,"Manual registration",special,"3 71 8396 6446",34551
-"Lethia Hardie",13,89558677442,manual-registration,actionpending,"8 64-8197 5001",24270
-"Maryellen Cletus",94,7786922706912,"google Forms",least_interested|techsource_2910,"4 15 2108 7696",38645
-"Emilee S. Lymann",103,13766988332,"facebok Leads",possible_buyer25|techsource_29,"2 75-7080 3436",31852
-"Francene Tad",100,72757035800,"facebok Leads",contactondemand,"2 73 3174 6836",10689
-"Ericha Noell",109,64188599034,"Email responce",client_only,"9-91 5962 4082",75073
-"Jana P. Tracy",34,7555545569,"Google forms",treaty20,"8 88 7003-6256",56147
-"Natalina Stockwell",13,90277613554,"Email responce",form_ui344|on_consideration,"+54 1 14 1716 1850",48886
-" F. Bogoch",1,28370336382,"MANUAL REGistration",client_only|rangeof_action,"3 23-5686 5241",70910
-"Kippie Karl",64,17230180635,manual-registration,source_dependant|limit19|on_consideration3,"3 12-9764 3865",82454
-Moyra,0,80599733366,"MANUAL REGistration",any_applicant11,"2 78 9341 9616",43883
-"Alfy G. Prima",34,53120941646,"facebook leads",most_interested|source_dependant|limit4,"+54 4 78 7932 13611",55746
-"Odette Nesline",102,30219388272,"facebok Leads",contactcenter_region2|remove_of_source|limit27,"7 79 2690 99846",79441
-"Hedy Fronia",23,98732804233,"Manual registration",client_only,"7-57-2835 55881",36339
-"Margie R. Alene",93,8142840632,"Facebook Leads",client_only,"2 18 5899 7714",14882
-"Gretna B. Khalid",102,51607550180,"google form",actionable,"+54 3-12 5900 9975",21050
-"Belle L. Hamid",109,980385321716,"facebook leads",never_call22|contactcenter_region39,"+54 1-88 9963-6451",62382
-"Arluene Korry",25,27871451077,manual-registration,contactcenter_region416,"6 79 3358 8919",27627
-"Emelda Zirkle",104,4480020073084,"google Forms",contactcenter_region4,"+54 4 15 8193 4194",20313
-"Blakelee Girard",93,9677632322,"google form",never_call|call_again,"+54 3 37 4714 4224",75023
-"Cherey J.",114,24779623721,"google Forms",any_applicant18|call_again17,"5-52 9956 9347",74785
-" Lilac",55,83230597751,"MANUAL REGistration",contactcenter_region417|contactcenter_region4|apply_0_cases,"8 33 1175 1588",67021
-"Dione H. Mushro",33,86182823201,"facebok Leads",treaty|case1,"3 57 6030-6781",73101
-"Karil W. Hermine",40,397793382,"Manual registration",apply_0_cases,"5 87 7672 4314",64917
-"Clare M. Osei",29,18992427044,"facebok Leads",rangeof_action|any_applicant|most_interested,"+54 1 74-1168-5322",86772
-"Candy Holleran",24,92403011935,"Email responce",form_ui34420|form_ui344|least_interested5,"2-41 2189 8910",52442
-"Odelinda Millhon",94,49296465076,"Email responce",any_applicant|form_ui344,"+54 8 10 7569 2614",90992
-"Ailene Gustavus",116,46849191153,"google form",call_again|client_only,"1 96 9202 6397",40525
-"Anne-Marie Drais",87,86568855369,"Facebook Leads",techsource_2914|special4|contactondemand13,"9 60 6767 7384",34303
-"Irena Killam",45,375456402,"Manual registration",source_dependant27|contactcenter_region3,"2 62-5761 8358",77605
-"Wendye B.",47,94348918544,"Google forms",contactcenter_region3,"6 38 8098-5777",62813
-"Janeen Anis",10,29557258088,"Email response",limit|rangeof_action21,"2 76-2569 63756",96301
-"Dorolisa F. Ottillia",148,26124197589,"Email RESPONSE",apply_0_cases,"9 38 2392 6467",28742
-" Vastah",102,32740885425,"google Forms",source_dependant|least_interested22|special,"+54 1 22 9584-6822",91559
-"Van Eddra",11,1650483650,"facebok Leads",contactcenter_region1|apply_0_cases|actionable,"8-63 4447 4229",91377
-"Netty D. Goldia",49,4933331929,"google Forms",actionable22,"1 11 3349 2660",57197
-Jordan,104,12136334330,"Email response",treaty|on_consideration,"2 15 4821-1021",76939
-"Nanete Takeshi",112,8722580685464,"facebok Leads",limit|never_call,"3 29 7893 9042",48821
-" M. Twitt",120,75663179553,"Facebook Leads",rangeof_action21|limit,"7-95 2418 3844",42163
-"Joan P. Timmie",35,5668293319041,"Facebook Leads",rangeof_action|special26,"8 48 2526-5068",12450
-"Francesca A. Root",5,55231144227,"MANUAL REGistration",contactcenter_region3|possible_buyer11,"+54 2 83-3329 54482",84351
-Teodora,89,21119771696,"Email response",form_ui3443,"+54 5 29 8676 6700",78521
-"Cari Salomo",123,24715271325,"Email responce",any_applicant7,"+54 6 94 2809 5751",76562
-"Reeta Colet",68,77172890526,"google form",contactcenter_region19|apply_0_cases|techsource_29,"2-89 6755 8485",10225
-"Laina M. Goodrich",107,3157987749318,"google form",never_call|treaty|limit,"6 95 1903 7365",19463
-"Mollie Ifill",29,32853591934,"MANUAL REGistration",techsource_29|possible_buyer6|possible_buyer24,"+54 3 50 8587 79767",74903
-"Katti Romine",48,73268182012,"facebok Leads",source_dependant11,"7 85-6803 5861",62299
-"Debee Idaline",132,87726322817,"MANUAL REGistration",case1|call_again17|special15,"4 35 5374 2797",19736
-" Kimmel",46,74650092998,"MANUAL REGistration",rangeof_action25|most_interested,"7-89 8972 6570",27157
-"Dian Knight",4,99866274809,"google form",techsource_29|form_ui344,"4 44 4173 8538",63991
-"Paulette Lyford",8,99476222383,"google form",rangeof_action,"2-76 8352 4318",11167
-"Zonnya M. Stephenson",114,46417501023,"Email responce",apply_0_cases|source_dependant27|contactcenter_region3,"8 67 6911-8312",47011
-"Jessy Dun",3,828281924360,"MANUAL REGistration",special2|special30|case1,"1 83-5228 1172",79610
-"Gert Newcomer",111,98255239043,"Email responce",contactcenter_region4,"+54 5-42-9971 2808",32682
-"Dolorita Krucik",123,2077465349,"MANUAL REGistration",rangeof_action,"2 72 7688 6799",83070
-"Ferdinande Eiger",33,76345478684,"google form",possible_buyer4|on_consideration|source_dependant,"5 31 7901 4691",38416
-"Ardelle Lorilyn",76,6721910890580,"Manual registration",limit10|case1,"7-31 1709 9418",38491
-"Lori Bertilla",1,5662168617,"Facebook Leads",source_dependant|actionpending|client_only,"3-41 7961 5356",37467
-"Penelope H. Licha",43,9337658574239,"Facebook Leads",contactcenter_region1|actionable,"7 19 6576 6748",49484
-"Halimeda M. Lib",19,9348018823123,"MANUAL REGistration",apply_0_cases,"+54 2 34 5458 9554",91456
-"Fae Ramsay",31,22493593616,"facebok Leads",any_applicant|least_interested,"8 59 8163 6926",23153
-"Yettie Zhang",86,3342812343,"google Forms",never_call,"+54 9 95 2386 9963",54729
-"Enid Yahiya",18,13310300455,manual-registration,possible_buyer,"3 19 2533-4317",84963
-" K. Ailbert",90,68880837052,"Facebook Leads",never_call27|special|rangeof_action,"8-94 1159 7616",56829
-Ebonee,69,39008887230,manual-registration,contactcenter_region220,"1 54 8845 80324",25095
-"Genvieve Jilly",114,66222108481,manual-registration,techsource_29|contactcenter_region4|apply_0_cases,"+54 2 55 4700 6045",65343
-"Rycca Imojean",78,51948000253,"Facebook Leads",contactcenter_region4,"+54 5-33 6833 63752",90670
-"Kara-Lynn I. Lauri",3,44201211604,"Google forms",possible_buyer,"1-76 9973 1417",67631
-"Idell M.",44,28321802358,"MANUAL REGistration",contactcenter_region3|contactondemand|possible_buyer13,"+54 1 70 8662-1152",93549
-" Kerwon",21,51537269517,"Facebook Leads",least_interested|contactondemand30|contactondemand,"+54 2 99 6829 6602",91796
-"Cate Kernan",36,63687225658,"google form",actionpending,"7 44 6925 7076",55620
-"Clareta Krakow",121,85555474797,"Email responce",call_again8|possible_buyer,"4 87 4225-8021",51172
-"Estrella C. Jacinthe",2,8635383458,"Email response",any_applicant20|actionable,"5 48 9818 50196",88475
-" Mignon",54,76636135431,"facebook leads",source_dependant,"4 10-8922 18966",72397
-"Gwynne Schecter",54,76636135431,"google Forms",most_interested,"4 10-8922 18966",73878
-"Yolanda Ballman",100,29927468660,"facebok Leads",least_interested|client_only,"3 89-8846 6671",51681
-"Sarene Kneeland",7,825126028,"Google forms",actionpending,"7 90 8935-6915",60317
-"Vinita I.",54,76636135431,"facebok Leads",form_ui34415|contactcenter_region1|contactcenter_region2,"4 10-8922 18966",94552
-"Calypso Diena",50,20063834913,"Google forms",contactcenter_region2,"+54 3 67-7430 80037",25067
-" B. Wiedmann",89,25453054342,"facebook leads",source_dependant17,"5 87 7800 4313",76041
-"Emmye B. Malory",92,97918051666,"facebok Leads",form_ui34418|treaty,"7 39-7111 6001",88337
-"Joyan F. Dannon",13,88914258206,"Facebook Leads",call_again|least_interested,"+54 2 33 5265 14183",16277
-"Christa A. Ober",13,98313715644,manual-registration,apply_0_cases|client_only|apply_0_cases,"4 23 3169 1118",88683
-"Cal L. Donella",13,88914258206,"facebook leads",actionable18|least_interested26|contactcenter_region4,"+54 2 33 5265 14183",61220
-"Sydney Krock",82,53876886950,"google form",actionable|contactcenter_region1|contactcenter_region3,"1-67 3633 1050",70251
-"Thekla Gorges",87,99422000523,manual-registration,limit,7-68-4336-4481,96268
-"Carmel R. Pickford",21,79804995698,manual-registration,source_dependant|least_interested|contactcenter_region1,"1 12-5709 1934",36039
-"Salome M. Umont",122,31032273074,"facebok Leads",case16|limit|form_ui344,"3-40 3523 2822",74653
-"Rosalie C. O'Carroll",29,37858408080,"Manual registration",special,"5 56-3513-1134",52723
-" U. Lalitta",50,26581072110,"Facebook Leads",limit|least_interested14|form_ui344,"+54 9 60 2814 5097",52083
-"Kaylyn S. Champagne",40,59233093723,manual-registration,remove_of_source|actionable10|limit,"1 74 4629-6425",37601
-"Martha E.",41,62381271403,"Email RESPONSE",contactcenter_region3|most_interested|actionable,"+54 3 63 5827 1301",93423
-"Robenia Merriam",68,5933179675289,"Email response",contactcenter_region1|source_dependant|actionpending,4-17-4091-7250,31121
-"Oona Stout",99,74355346849,"Email response",treaty|contactcenter_region3|any_applicant,"8 95 8190 93909",11395
-"Corrina Normand",97,2456569176120,"Google forms",contactcenter_region221|most_interested2,"+54 7-60-3933 3291",11422
-"Krissy Emalee",80,9790485953741,"Google forms",case1|actionable|client_only,"+54 3 34 7280-8827",98776
-" Lodovico",27,73119353237,"google Forms",contactondemand|least_interested,"+54 1 11 8201 3461",93423
-"Fredelia T. Joete",13,88914258206,"Email response",call_again6|contactondemand|contactondemand,"+54 2 33 5265 14183",46388
-"Korrie Hegarty",36,32585223739,"facebok Leads",limit,"5 31-1131 2030",45943
-"Lizzy B. Udella",50,14159877321,"facebok Leads",form_ui344|any_applicant4,"3-56 6808 4031",37246
-"Sandy Dustan",104,90484812735,"Google forms",actionable4|rangeof_action13|actionpending,"5 67 9795 99426",77076
-"Myrlene Heilner",107,7009066039631,"MANUAL REGistration",actionpending,"+54 7 94 1779 3913",31857
-"Gerri Philip",13,88914258206,"MANUAL REGistration",contactcenter_region3,"+54 2 33 5265 14183",19114
-Sonnie,65,16193696144,"Email response",any_applicant,"4-20 9946 59977",99437
-" D. Yuria",27,13563114315,"Email response",source_dependant|any_applicant,"+54 9 23-4434 5382",95052
-"Anstice D. Janetta",105,3158519770,"Email RESPONSE",contactcenter_region4,"8 99 8425 4535",86866
-" G. Shanahan",46,52302541355,"facebook leads",techsource_29|special|actionable,"8 72-3192 3916",14015
-"Cate Fogel",55,66771241354,"facebok Leads",case1,"1 19 2574 1404",47215
-"Keeley Rocher",75,6865605077,"Email RESPONSE",source_dependant|actionpending,"3 64 6071 3467",68734
-"Kania C. Macomber",13,88914258206,"Google forms",never_call|rangeof_action,"+54 2 33 5265 14183",26987
-"Anna-Maria Coulson",116,48000898205,"Email response",possible_buyer|limit16|call_again,"+54 3 10 3140 6852",17855
-"Annissa Tillfourd",77,85433024352,"facebok Leads",rangeof_action,"3 17 9476 9008",87830
-"Deedee Martsen",86,97235221827,"facebok Leads",contactcenter_region3,"8-80 6140 7757",52416
-"Debor Azaleah",85,9065887368,"Email response",any_applicant15|limit,"4 43 4569 5566",81074
-"Grier Asteria",56,90189576087,"Email responce",actionpending7,"8 37 2157 2159",92098
-"Yoko Adala",87,77984013388,"facebok Leads",contactcenter_region1|contactcenter_region124,"7-57 3419 7972",30901
-"Viki A. Emanuela",96,15218133397,"Email RESPONSE",contactcenter_region3,"1 48 8819-10955",63265
-"Pia S. Doane",23,68996314784,"google form",treaty|contactcenter_region2,"2 56 5906 7259",88407
-"Sarena Bullough",108,61738381622,"facebok Leads",any_applicant|any_applicant|remove_of_source23,"6 24 3296 1098",12244
-Gabriel,97,40868411694,"Manual registration",any_applicant,"+54 6 91 5062 7088",29031
-"Engracia Jeni",38,2655644547908,"Email response",special|contactcenter_region4,"2 67 3741 9106",74081
-"Shirline A. Zeba",36,1725011982897,"Facebook Leads",call_again12,"9 62 4219 1044",45596
-"Wrennie G. Swec",87,40524438937,"google form",most_interested|source_dependant,"+54 9-41 1117 3739",28166
-"Darbie Hourigan",14,84459547179,"Email responce",apply_0_cases,"+54 2-51 8617 2796",85569
-"Faustine T. Conlee",26,73935308305,"Facebook Leads",actionpending,"1 77 2053 57802",47205
-Jilly,103,62723629720,"Facebook Leads",client_only30|on_consideration|on_consideration,"+54 8 79 9139 4996",32085
-"Juliet Ogilvy",50,86829147361,"facebok Leads",most_interested,"3 83-8624 1446",68060
-Editha,106,1008521066728,"facebook leads",apply_0_cases|most_interested,"8 28 9530-7628",65907
-"Nicholle B. Grey",3,6512506985320,"MANUAL REGistration",on_consideration20|actionpending|techsource_2927,"9 43 8552-1968",50280
-"Zara A. Ambrosia",84,54093137748,"facebok Leads",never_call|form_ui344|actionpending,"3 96 9301 1269",20696
-"Serene Ola",90,3950250841777,"Facebook Leads",apply_0_cases|any_applicant,"9 12 6782-5702",65736
-Guinevere,92,72234454129,"facebook leads",special13|apply_0_cases|case1,"2 16 8722-4992",56272
-Gennie,93,49883589668,"facebok Leads",source_dependant4|apply_0_cases|any_applicant,"1 79 2940-6396",85927
-Jena,35,36154614996,"Manual registration",client_only|form_ui344,"8 81 2014 4559",16958
-"Mahala Steffy",81,16848452087,"facebok Leads",actionable|contactcenter_region111,"2 17 7227 6443",53017
-"Yvette Kandy",22,67360337527,"facebook leads",most_interested10|possible_buyer30|least_interested,"+54 1 66 5563-79687",15705
-"Jsandye Saeger",0,82744152134,"facebook leads",techsource_29,"4 98-6346 9797",55264
-"Elset Masera",12,4095533783358,"Email RESPONSE",contactcenter_region1,"8 64 2628 1199",98992
-"Johnette Rezzani",102,6935346620511,"Facebook Leads",any_applicant,"3-67 2588 9830",79669
-"Dasi C. Fu",103,66988513396,"google form",client_only|treaty14,"1 52 5356-7553",77850
-"Bonnee C. Anet",63,52479025054,"Facebook Leads",on_consideration,"7 32 1476 97949",20748
-"Vinni Elbertine",44,12446346137,"google form",any_applicant23,"2 22 1891-6738",46697
-"Kyrstin Glovsky",127,67249749154,"google Forms",contactcenter_region4,"+54 2 14 9278 2194",97354
-"Emelyne Ofilia",75,49129392038,"Email RESPONSE",source_dependant|never_call,"5 23 5258 18194",23052
-"Aeriell T. Dulcle",33,94658840078,"facebok Leads",techsource_29,"8 10 5706 9756",70824
-"Reina K. Davena",89,43915919412,"Email response",client_only,"6-24 1956 63508",37654
-"Laurel Harris",14,32646283784,manual-registration,actionpending|treaty19|least_interested,"1 93 3371 8891",59136
-"Colleen Pavkovic",79,14114658998,"Email response",contactcenter_region1|contactcenter_region22|treaty,"2-99-3168 91822",55630
-"Dede Staford",52,45729646182,"google form",special,"5 72-4391 8777",76410
-"Carena Yovonnda",85,792503954,"facebook leads",contactcenter_region1|apply_0_cases|possible_buyer,"+54 6 58 8110-8864",33872
-"Torie Galatia",102,15233360364,"facebok Leads",actionpending21,"+54 1 59 8492-3396",42224
-" Veronika",88,72492572446,"facebook leads",never_call|limit23|contactcenter_region49,"1 52 4625 6024",25036
-"Sofie Ratcliff",89,42923244455,"Email RESPONSE",call_again11|contactcenter_region2,"9 53-5781 70967",61512
-"Ursulina Jaime ",39,69861589545,"Email responce",actionpending|contactondemand|special,"5-99 2554 6375",55668
-"Esta Vadnee",84,3034056631108,"google Forms",on_consideration|form_ui344|contactcenter_region3,"+54 7 68-9806-6637",85966
-"Kalina F. Dorn",33,94658840078,"google form",never_call|any_applicant|source_dependant,"8 10 5706 9756",67844
-"Elora Sebbie",96,90576502461,"google form",contactondemand|contactcenter_region2|form_ui344,"2 95 9498 7369",20277
-"Corry Bergerac",101,11451368436,manual-registration,on_consideration|client_only3,"+54 7 77 3837 3612",95583
-"Anneliese B. Lisabeth",49,40814083515,"Manual registration",least_interested8,"1 71 2478 83791",46050
-"Annalise C. Ches",20,87188661934,"Email responce",actionable|contactcenter_region3,"+54 8 52 7248 7489",40628
-"Vanya C. Stephanie",120,47999017010,manual-registration,never_call|limit,"+54 3 42 9487 5708",80556
-"Odele V. Rosabel",0,56272557185,"Facebook Leads",rangeof_action14|remove_of_source,"+54 8 16 5314 7605",44776
-" Oca",123,26724305989,"MANUAL REGistration",contactcenter_region1,"8 31 8890 7425",96802
-"Mira Levinson",124,4597583413218,"Facebook Leads",most_interested|least_interested|never_call15,"+54 3-99 6184 2535",75607
-"Yetty Liederman",6,90061706062,"facebok Leads",client_only|on_consideration,"+54 9 32 6652 8814",68016
-"Stormy P. Bandeen",76,4353632684,"Google forms",source_dependant|client_only|rangeof_action,"+54 3-16 2710 6798",73662
-"Maridel Mulvihill",67,40092191786,"google form",contactcenter_region31|special|case1,"+54 4 23 4978-3601",27071
-"Mireielle Cesare",121,56406840139,"Facebook Leads",contactcenter_region2,"4 30 1255 21052",68175
-"Neille Uni",95,5462483611,"facebook leads",remove_of_source,"2 93 9621 6175",89358
-"Aloysia C. O'Callaghan",19,41062641672,"MANUAL REGistration",rangeof_action|call_again18|contactcenter_region3,"7 93 1245 7382",81220
-"Shellie Thorne",35,91270917825,"Email responce",contactcenter_region310|actionpending,"2 42 7793 5445",46050
-"Margarethe Radley",103,56641104778,"facebok Leads",special|special21,"+54 1 29 5658 9877",37477
-"Flor R. Shreve",95,5462483611,"Email response",actionable,"2 93 9621 6175",80484
-"Riva E. Philcox",95,5462483611,"Email RESPONSE",contactondemand,"2 93 9621 6175",53913
-"Genovera H. Brown",119,71966082211,"facebok Leads",contactondemand,"1 64 6915 1348",57777
-Clarette,33,67938850604,"MANUAL REGistration",techsource_29|limit|on_consideration,"2 69 4165 4969",78754
-"Bunnie Bonni",75,554027833801,"Email responce",contactcenter_region3,"1-26 9096 5479",52781
-"Darlleen Vahe",119,71966082211,"google form",actionable|contactondemand9,"1 64 6915 1348",45503
-"Babbette L. Corell",13,5419990590665,"Email RESPONSE",source_dependant,"9-90 5503-3716",79201
-"Mercy Shapiro",80,9639090103688,"Manual registration",actionable6,"6 81 4141 6711",63371
+"Elinore Riess",14,66342901365,"facebook leads",contactcenter_region2,"5 64 5502-1528",11643
+"Nance Welton",20,34198241144,"google Forms",actionpending,"5 81-7111 2843",55329
+"Cassandry Mureil",80,87875693377,"Email response",apply_0_cases11|form_ui34411|contactcenter_region31,"9-95 8682 6468",92682
+"Gisele Esmeralda",36,90411401041,"facebook leads",special|contactcenter_region3,"4 13 4274-9513",55329
+"Illa T. Orelu",51,95759648421,"google Forms",possible_buyer26,"+54 6 97 4664-9364",15858
+"Karla I. Engud",46,23897324127,"Google forms",contactcenter_region1|contactondemand,"+54 3 12 3500 5234",15092
+"Jennifer T. Costin",77,69828106875,"Email RESPONSE",possible_buyer29,"+54 7 30 7429 2562",56790
+"Arabela Ernestine",77,69828106875,"Google forms",possible_buyer|remove_of_source,"+54 7 30 7429 2562",60377
+"Cherri Sklar",91,65479258233,"facebook leads",source_dependant12|contactondemand|remove_of_source,"5-45 5926 8106",91953
+"Trixy Gillian",78,77082238888,"Facebook Leads",least_interested|least_interested|least_interested,"+54 9 77 6240-2068",77717
+"Sarajane B. Goines",83,51525833523,"google Forms",actionable7,"3 55 7054 2394",90375
+"Giana G. Rollo",62,83450038143,"facebook leads",least_interested|techsource_29,"7 67 3198-1232",72790
+"Corine Salsbury",48,58309602939,"Email RESPONSE",most_interested|remove_of_source4,"1 70 6264 5790",86983
+"Emmalee Merline",75,60272276370,"google Forms",source_dependant14|most_interested16,"+54 1 24 9041 5457",72117
+"Mathilde Z. Meingolda",1,61468385980,"Email response",techsource_29,"1 83 6450-8129",43450
+"Chrystel G. Wandie",84,38816751078,"Facebook Leads",case117|most_interested|contactondemand1,"3 71 7315-1563",67085
+"Martica T. Sacci",59,64241062007,"Manual registration",techsource_29|rangeof_action|contactcenter_region2,"4 48 1744 6808",52795
+"Franky Linzer",93,49602165736,"Email RESPONSE",least_interested|special,"5 57 7437 4896",97711
+"Alis T. Alberta",87,88759253738,"Facebook Leads",contactcenter_region1|any_applicant11,"1 27 4903 9000",76131
+"Tony D. Gillespie",8,76384215495,"facebook leads",contactcenter_region2|special|techsource_29,"3 62 3447 7255",61632
+"Isis Wilhide",77,69828106875,"facebook leads",any_applicant|contactcenter_region430,"+54 7 30 7429 2562",87912
+"Raven Letta",76,66450226087,"Facebook Leads",apply_0_cases1,"9 99-5586-1821",15092
+"Eveline I. Donal",23,57435940169,"Email response",any_applicant26|contactcenter_region3|limit,"9 56 4227 1312",97456
+"Kaycee Teerell",72,51997812481,"Facebook Leads",least_interested30|least_interested,"1 31 5166 9385",23343
+"Kevina H. Paloma",94,99517277314,"facebook leads",limit13|call_again7|rangeof_action,"2 14 4551 9377",80431
+"Fernandina Fablan",113,93012368495,"Email response",on_consideration19|any_applicant5,"5-93 2121 2264",19831
+"Andee H. Aleece",77,69828106875,"facebook leads",remove_of_source|techsource_29,"+54 7 30 7429 2562",38148
+"Virgie Pansy",99,38449348321,"google Forms",least_interested|never_call|client_only,"7 78 1888 2228",88064
+"Nydia Metcalf",55,33088925939,"facebook leads",least_interested,"6 30 4248 5876",80843
+"Amelia R. Josler",39,34379672230,"Google forms",source_dependant,"6 92 9335 7696",46709
+"Kimberly D. Wahkuna",32,93858468564,"google Forms",contactcenter_region18|limit|techsource_29,"8-92 5780 8712",29203
+"Iormina Batista",49,23104637634,"google Forms",any_applicant|contactondemand25|remove_of_source13,"4-41-8558 2795",13102
+"Erena Melia",116,77262986260,"facebook leads",contactondemand,"+54 9 50 5707 6721",19831
+"Gaylene R. Cecile",102,17461010187,"facebook leads",client_only|contactcenter_region4|client_only,"6 37 2633 9292",25625
+"Felicia Fernand",87,98460239193,"Google forms",contactcenter_region16|never_call|contactcenter_region1,"8 14 8375 6277",68427
+"Merrili D. Blumenfeld",72,17330093446,"facebook leads",contactcenter_region3,"+54 4 24 7830 8362",31603
+"Pat S. Sib",12,52022149573,"Manual registration",actionable,"1 60 7612 8658",68850
+"Alejandrina Klingel",118,67110498096,"Manual registration",most_interested|any_applicant,"3 89-8564-6422",54381
+"Natalie Dripps",3,92351937840,"google Forms",any_applicant|special,"9-47 2879-6638",47987
+"Casey T. Dielu",84,89160198815,"Email response",treaty15,"9-55 7330 4888",82513
+"Stoddard Maurizio",2,55489522756,"facebook leads",remove_of_source,"5-77 1361 7227",95427
+"Peggie Jackie",77,88837942507,"google Forms",possible_buyer|actionpending|contactcenter_region36,"8 28 5610 1319",55384
+"Collette R. Nela",51,44998480952,"Manual registration",contactondemand|rangeof_action12,"5 78 1671 5588",75176
+"Elwira Dugan",36,87178300261,"MANUAL REGistration",any_applicant10,"4-66-8000 7624",62192
+"Reena Rambort",30,12021466345,"facebook leads",possible_buyer|contactondemand|contactcenter_region214,"+54 6 90 1229 3955",38416
+"Tony Selby",41,26509823150,"Google forms",actionable|client_only14|contactcenter_region322,"7 81 4722 8059",49926
+"Leelah Ailey",32,93858468564,"google Forms",limit,"8-92 5780 8712",71224
+"Juana A. Lynett",32,93858468564,"MANUAL REGistration",remove_of_source|techsource_2910|never_call,"8-92 5780 8712",31526
+"Kai G. Estus",34,33782640949,"Google forms",treaty15|contactcenter_region121|on_consideration,"+54 7 60 1510-6816",84130
+"De Alano",112,70388771888,"facebook leads",on_consideration|call_again|case1,"2 93 7949 2611",96244
+"Gaye R. Canon",67,72384159212,"Manual registration",actionable5|most_interested,"+54 8-85-9925 2441",83746
+"Wylma Glynda",2,90749363267,"Email RESPONSE",limit27|actionpending|on_consideration,"3 76 8745-1391",35310
+"Almeria P. Ilyse",30,67559569943,"google Forms",contactcenter_region4|treaty,"2 93 4276 9770",85394
+"Philis T. Lynnworth",62,28320891706,"MANUAL REGistration",actionable,"3 76 5991 2611",45943
+"Reba Woodhouse",117,27997906032,"MANUAL REGistration",any_applicant|source_dependant4,"9 19 4239 4976",59598
+"Katey J. Danit",116,34148032826,"Email response",source_dependant|any_applicant,"+54 5 97 4118 7097",73179
+"Lizette A. Madra",40,23581090762,"MANUAL REGistration",possible_buyer6|on_consideration1|any_applicant5,"+54 8 70 3784 3242",61883
+"Magdalene G. Cedell",54,14685672870,"facebook leads",contactcenter_region411|contactcenter_region4,"9 44 6453 7812",40198
+"Filippa M. Curren",1,64444371504,"Google forms",contactcenter_region47|form_ui344|on_consideration24,"+54 7-68 4320-6603",43894
+"Alis Palumbo",47,51580602300,"Email RESPONSE",any_applicant|form_ui344,"9 78 1396 6998",25625
+"Cathrine Dennett",121,99771550204,"Facebook Leads",source_dependant|call_again10|apply_0_cases3,"+54 6 24 5046 7780",46049
+"Esther Gernhard",51,89045218426,"facebook leads",contactcenter_region3,"+54 2 10 4517-1791",83011
+"Kaye Clapp",109,84439494857,"Facebook Leads",form_ui344|techsource_29,"8 24 8468 3052",15853
+"Dredi Cate",50,27944256732,"Email response",apply_0_cases|most_interested7,"1 71 1328 3175",77369
+"Petronilla K. Verneuil",48,80355471135,"Facebook Leads",least_interested|contactondemand26|client_only,"1 29 1342 8558",43862
+"Celeste Celle",105,20312480442,"Google forms",client_only|limit28|actionable,"9-21 4077 5685",91236
+"Frankie Emsmus",29,59344134477,"facebook leads",form_ui3449|never_call13,"4-41 3912 6376",94527
+"Addie K. Erinna",62,87272207223,"MANUAL REGistration",apply_0_cases,"1-34 9094 4194",30510
+"Cassey Primaveras",83,88208701764,"facebook leads",source_dependant4|contactcenter_region324|any_applicant,"1 88-7257 9319",52542
+"Jacinthe H. Minier",7,22632273286,"Facebook Leads",never_call30|contactcenter_region2|case130,"6-90 4023 4563",84837
+"Murielle C. Aufmann",68,34470482155,"Email RESPONSE",special,"+54 1 85 8262 2716",56208
+"Minetta O. Zebada",22,44776936396,"Email response",actionpending|contactondemand17|actionpending,"6 49-7507 3663",72180
+"Allsun K. Haywood",74,48151840325,"facebook leads",techsource_29|case120|actionpending3,"4-10 4554 6706",95719
+"Seana D. Quartet",89,71226508682,"Google forms",contactcenter_region3,"2 80 7248 8859",76263
+"Sephira Debbee",84,79153236499,"MANUAL REGistration",least_interested|on_consideration|never_call8,"+54 4 47 5100 9447",57976
+"Meagan F. Hobbs",45,73053185888,"facebook leads",contactondemand|call_again17|any_applicant,"4-49 5930 5803",32652
+"Manya Rebe",23,67745039287,"facebook leads",special|form_ui3442,"5 75-6507 3446",44356
+"Tammy Leese",72,80134533322,"Google forms",on_consideration18|rangeof_action5|most_interested,"6 25-2633-4882",35510
+"Sheeree Taryne",79,65982589834,"facebook leads",remove_of_source|case114,"+54 2 62-6117 9327",89319
+"Catha Symer",79,19189598830,"Manual registration",never_call20,"8 63 7462 5339",76164
+"Colline E. Ardenia",57,23280815978,"MANUAL REGistration",actionpending|actionable|any_applicant,"6 30 6562 6456",50407
+"Dolley E. Tabber",92,39621038640,"Email response",techsource_2926|never_call8|actionable,"3 69-1221 8311",62049
+"Cilka Nikolia",2,68994057233,"Google forms",rangeof_action|call_again|rangeof_action,"9 39 8969 6234",57565
+"Glad Ashleigh",19,56824101214,"Email response",possible_buyer22|remove_of_source|actionpending,"+54 7 42 5699 5227",33142
+"Tiphani Scevour",103,22541245201,"Google forms",possible_buyer|on_consideration,"5 74 2012 5834",17661
+"Madalyn Thirion",8,23973958166,"Manual registration",rangeof_action30|contactcenter_region1,"9-13 6981-4705",65627
+"Avis Aramen",27,29648602288,"facebook leads",on_consideration24|actionable,"2 49-6675-4171",83526
+"Brandise Joyan",10,81684084604,"facebook leads",call_again|contactcenter_region2,"1 21 6227 7038",80382
+"Cristi Bili",93,61846851788,"google Forms",possible_buyer|form_ui34429,"9 52 3139 1427",69405
+"Eada K. Adley",91,74474343270,"MANUAL REGistration",form_ui344,"+54 2 88 3276 7129",64174
+"Kellina Velick",60,89154873555,"Facebook Leads",techsource_299,"+54 7 86 8599 2041",87195
+"Emmie M. Ailbert",84,99568532238,"MANUAL REGistration",possible_buyer11|source_dependant,"+54 8 55 9058 5623",55549
+"Leanna Queri",72,76493725952,"Manual registration",contactcenter_region3|never_call|actionpending,"6 46 7980-3371",50902
+"Sharon Eskil",86,14710710740,"Manual registration",rangeof_action10,"7-16 3947 2859",78823
+"Benedikta Berenice",35,58039099051,"facebook leads",apply_0_cases|least_interested15|apply_0_cases,"+54 9 88 6914-7173",26167
+"Evonne N. Stavro",46,86512765695,"Email response",case1,"+54 7 15 3189 4858",92884
+"Joeann B. Vyner",85,96096420765,"facebook leads",contactcenter_region2,"+54 6 66 9690 3269",87240
+"Malina C. Deragon",90,53853973493,"Email response",case111,"8 88 5060 5000",23538
+"Leah Sibylle",7,39069514356,"Google forms",most_interested18|remove_of_source5,"1 50 3192 3996",93125
+"Esmaria J. Daigle",117,20745767347,"Email RESPONSE",any_applicant|contactcenter_region4,"3 75 7463-6170",80837
+"Rebekkah Emma",3,61055613798,"facebook leads",source_dependant,"1 89 6679-3180",55551
+"Alicea B. Sherard",100,81635944309,"Email response",contactondemand|never_call,"+54 9 69 3433 9322",33140
+"Morgana P. Pietrek",70,88854881661,"facebook leads",contactcenter_region2|call_again|treaty,"9 59 2063-7300",86701
+"Stevena Evania",101,82538606283,"Email response",source_dependant7,"2 51-9931 6824",69411
+"Gabriel Renee",22,62482824466,"MANUAL REGistration",special|actionable5,"+54 6 86 4681 1579",65795
+"Willamina Inglebert",104,66091504995,"Email response",client_only|treaty,"4 97-8233-4240",15746
+"Emelyne Feodor",26,85515679151,"Email RESPONSE",actionpending22,"1 67 1108 6547",56717
+"Zelda Mungo",117,53573051990,"Email response",rangeof_action10,"+54 4 52-9954 6720",30434
+"Jodi Snapp",85,36553421511,"Facebook Leads",limit4|case111|most_interested,"5 44 8365 6336",88222
+"Cindee Frissell",48,32376255874,"Google forms",contactondemand|actionable|any_applicant,"1 58 6140 4593",20551
+"Carolann Tryck",17,84394070069,"Email RESPONSE",possible_buyer12,"+54 5 93 3952 6915",41131
+"Hayley W. Abdulla",58,81041956133,"Google forms",actionable,"3-74 3432 3103",12519
+"Katine Dolph",87,43053689553,"google Forms",on_consideration|client_only12,"9 22-3652-4853",11755
+"Valencia G. Corso",109,71419304398,"Manual registration",most_interested22|source_dependant2|remove_of_source,"+54 1-94 8914-4478",20932
+"Evelina S. Ola",61,24535921883,"Manual registration",contactcenter_region1,"3 25 6579 2217",48198
+"Alaine Merrel",4,18882126311,"Email RESPONSE",remove_of_source|rangeof_action22,"+54 7 78 5723 5222",30316
+"Maisey A. Henry",105,99492855922,"Manual registration",client_only|limit5,"+54 2 15 4978 8925",43690
+"Livvie Dex",68,78582835428,"Google forms",special|limit|treaty,"2 51 8182-9895",74658
+"Franni R. Melamed",74,87989958100,"Email RESPONSE",contactondemand|special2,"5 54 1498 3953",60636
+"Alyda Alcot",107,78197829182,"facebook leads",special|remove_of_source|rangeof_action,"+54 9 39 5281 8501",48201
+"Shelby Meri",124,50278285520,"Google forms",contactcenter_region3|apply_0_cases,"1 61-5181 1051",69960
+"Jeanna Barnaba",31,33899848946,"Google forms",apply_0_cases,"8 19 3254-7814",56131
+"Carmita Josee",92,21169502565,"facebook leads",rangeof_action|client_only,"+54 2 39 8260 4151",50759
+"Aurelie Orabel",28,58814361324,"Facebook Leads",any_applicant19,"+54 7 10 2686 3898",46049
+"Ree Thedric",79,82661636234,"Facebook Leads",client_only,"3 50 8662 4049",90979
+"Lucy Kreitman",5,79634118147,"Google forms",contactcenter_region323,"6 21 1164 5731",53432
+"Bathsheba Bonaparte",43,37770107740,"Email RESPONSE",possible_buyer,"+54 7-82 4214 1156",45849
+"Rochella H. Plafker",106,36825891236,"Manual registration",remove_of_source6,"4 56 9850 9712",70817
+"Wendy Horsey",17,18550987831,"Email response",contactcenter_region3,"1 21 7198-2159",78817
+"Gilli Zins",30,60259961549,"facebook leads",contactcenter_region15|remove_of_source|limit,"1 48 1433-2053",14673
+"Dot Hakon",20,38534003840,"Google forms",client_only|actionpending23|possible_buyer,"3 47-6008 4912",48842
+"Bethany S. Walli",18,70678041098,"MANUAL REGistration",form_ui344|form_ui344,"6 28 3737 6857",55354
+"Sibilla Charlene",39,22308871684,"Email response",possible_buyer,"8 19 9698 2004",65882
+"Sheela Hitt",15,32663845365,"Email response",actionable|contactcenter_region4,"5 23 4335-3533",10446
+"Priscella T. Laurence",101,28254195175,"Email response",on_consideration|contactcenter_region4,"6 28 6200 7340",68754
+"Lena A. Seaman",51,23524718077,"google Forms",contactcenter_region2|remove_of_source12|case1,"6 19 8188 1569",59704
+"Nicole G. Stormie",59,70557248104,"Email RESPONSE",limit|form_ui344,"+54 2 34 4670 5518",42046
+"Edee Flanigan",107,62248591449,"MANUAL REGistration",contactcenter_region3,"5 99 2928 4475",92995
+"Pavla R. Burg",96,97420043989,"Email RESPONSE",client_only|treaty,"+54 6-32 8009-3975",26255
+"Pavla Trilby",115,49538218173,"facebook leads",treaty13|special17,"4-64-5358 7772",61198
+"Ofilia H. Fontana",16,68483985564,"Facebook Leads",actionpending|actionable,"+54 1 25 8501-5809",38769
+"Mellicent Silma",98,83715865321,"Manual registration",treaty|never_call|least_interested,"+54 3 70 1605 3433",64472
+"Bobbi Jacobson",84,84386723390,"Google forms",contactcenter_region2|contactondemand23,"3-45 3554-3089",77986
+"Kaia U. Sharia",112,34027319527,"Email response",rangeof_action|most_interested,"5 81 1989 3862",26305
+"Florette Dillie",82,33861385248,"facebook leads",call_again15|rangeof_action,"2 30 3501 9288",38523
+"Abbe S. Aminta",86,39258131086,"Facebook Leads",source_dependant|rangeof_action,"+54 4 55 7302 4667",62058
+"Concettina Wilek",6,11155853154,"MANUAL REGistration",actionpending|on_consideration|apply_0_cases,"5 96 8369 1068",81691
+"Carole Schou",89,54551382592,"Google forms",least_interested,"+54 7 26-8542 9603",57381
+"Tiffany C. Jacquelin",117,28211809213,"google Forms",techsource_29|on_consideration,"4 18 7252 9910",10142
+"Val G. Friedly",107,29599208943,"facebook leads",actionable|any_applicant,"5 45 2435 4247",89870
+"Eadie B. Wilber",39,97999528578,"MANUAL REGistration",least_interested23|least_interested|actionpending,"3 87 4528-6142",77269
+"Monique Fenwick",68,55915650407,"Manual registration",contactcenter_region1|contactcenter_region329|least_interested,"3 23 5746 8117",37754
+"Garnette Marilla",9,68449264426,"Google forms",contactcenter_region2|on_consideration|any_applicant,"7-80 1036 6580",18639
+"Ddene Ara",36,53281441324,"Google forms",techsource_29|contactcenter_region3|any_applicant9,"+54 9 71 1836 1502",35009
+"Allie Macy",62,60010574623,"Google forms",remove_of_source|special|actionpending,"1 54 1922 5292",12400
+"Nichole Faires",6,22423883967,"Email RESPONSE",contactondemand|possible_buyer10,"+54 3 80 1517 4879",78704
+"Devinne Drugi",119,65539300826,"google Forms",apply_0_cases,"4-37 7412-4755",27031
+"Sammy Robinetta",46,57939157396,"MANUAL REGistration",rangeof_action|treaty|source_dependant12,"+54 5 17 2427-1898",15860
+"Darleen Hendel",10,39853030875,"Email RESPONSE",any_applicant19|case1|contactcenter_region2,"+54 5 83-1541 1053",59068
+"Rivkah Herr",5,40600451368,"facebook leads",contactcenter_region2,"+54 1 54 4546 2451",31018
+"Aprilette Nesline",35,72539758517,"facebook leads",least_interested25|source_dependant|limit,"6 54-8232 5407",59102
+"Cordelia Estis",78,38780489890,"Facebook Leads",techsource_29|techsource_29,"8-86 6676 1339",68184
+"Anthea O. Adila",108,68345803981,"google Forms",any_applicant30,"1 48 8916 4317",21404
+"Iormina Patrizius",112,77558425208,"Manual registration",remove_of_source,"7 13 4417 4591",21909
+"Hedy Flosi",33,87452750761,"Google forms",actionpending13|client_only14|never_call,"+54 1 98 8364 8437",35275
+"Ethelda R. Alisia",64,49717975443,"Facebook Leads",case1,"9-79 4505-8546",43873
+"Tybi H. Groome",46,57939157396,"Google forms",any_applicant|never_call,"+54 5 17 2427-1898",23862
+"Harrietta M. Brownson",114,34953531233,"Email RESPONSE",call_again,"6 41 3309 7490",98484
+"Teddie Ulane",122,98551926557,"google Forms",never_call|actionable6|least_interested,"8-39 7040 2786",28876
+"Harmonia Lynnelle",101,80768795533,"Email RESPONSE",special|special,"1-39 2327 2229",31470
+"Karalee Chelton",59,47153115582,"Email response",possible_buyer|techsource_291,"4 49 2495 7502",21750
+"Prissie Lavine",48,13795424072,"MANUAL REGistration",contactondemand7,"+54 9 87 5247 9756",24375
+"Aubrey Marvin",66,71798834029,"facebook leads",contactcenter_region4|techsource_29|limit,"2 65 6214-2281",27744
+"Joannes V. Kleeman",31,43675993158,"Email response",call_again|case1|actionable18,"8 49 4450 9309",61359
+"Kamillah M. Loise",58,86863799824,"facebook leads",rangeof_action|rangeof_action|on_consideration13,"+54 9 48 4573-6890",88086
+"Farra Vergil",46,57939157396,"google Forms",on_consideration25,"+54 5 17 2427-1898",15705
+"Suzette M. Luciana",31,81715077233,"google Forms",possible_buyer|case15,"4 47 6927 5447",41237
+"Charin Bigford",48,80350320667,"google Forms",any_applicant|on_consideration28,"1 87 7910 2817",63266
+"Aidan Piotr",27,71157962325,"Email response",least_interested30|client_only|call_again,"9 13 3123 1535",23769
+"Lynda F. Jaclin",115,89840909620,"facebook leads",case1|on_consideration13|most_interested,"4 58 8310 7455",25291
+"Jewelle Krigsman",114,92490760037,"Google forms",actionable|never_call,"9 65 6604 2830",11898
+"Mamie Humberto",46,57939157396,"Email response",special25|contactondemand|least_interested1,"+54 5 17 2427-1898",14310
+"Arlee S. Denten",121,98952371947,"Manual registration",apply_0_cases|call_again10|case118,"8 50 1493 7764",86193
+"Blinny Washington",2,68073435282,"Email response",source_dependant29|rangeof_action,"4 32 9680 6633",70817
+"Carolynn U. Clarette",120,16187985533,"Email RESPONSE",form_ui344,"5 69 1010 4049",83866
+"Cathee Palermo",103,47460053598,"Email RESPONSE",contactcenter_region1|techsource_29,"1 59 3496 1209",49090
+"Ludovika Forta",42,56551013988,"MANUAL REGistration",contactcenter_region3|most_interested|techsource_2917,"8 98 7142 9363",42020
+"Kerrin Andrei",77,69503006732,"Manual registration",client_only22|most_interested,"+54 6 92 9947 2286",31945
+"Laural O. Parris",78,27053767782,"Email RESPONSE",contactondemand|contactcenter_region38,"8 25-3787 5801",75408
+"Ulrikaumeko Lemmuela",115,91821554047,"facebook leads",never_call|form_ui344|rangeof_action,"3 24 9475 7377",97181
+"Sybille J. Bick",93,65336419226,"google Forms",rangeof_action|remove_of_source|contactcenter_region2,"2 60 7031 7019",62746
+"Daffy Tadich",76,55492330305,"Google forms",call_again25,"9 57 5163 1100",50861
+"Shelby Schacker",44,99911714776,"facebook leads",contactondemand|on_consideration|client_only,"2 21 9560-8531",49766
+"Minnie Colner",7,98506764988,"Manual registration",case15|remove_of_source|rangeof_action9,"8 32 1300 5906",82556
+"Frieda Starinsky",117,43215283097,"Facebook Leads",techsource_29,"+54 6 27-3782 8189",17786
+"Janis Jane",13,96165411111,"Google forms",client_only17|limit,"8 18 9040 5998",58254
+"Elie Saw",31,83174665958,"Email response",actionpending|apply_0_cases|apply_0_cases21,"+54 5-36 9476 9668",64713
+"Zulema F. Sudderth",63,30329961297,"MANUAL REGistration",source_dependant21|contactondemand,"9 56-4343 1105",16896
+"Susanetta Hamel",119,30534866410,"MANUAL REGistration",contactcenter_region3|rangeof_action,"6 67 1860 7349",29727
+"Kaleena Prudie",41,81052158456,"google Forms",form_ui344,"+54 6 68 2162 2431",39297
+"Cindee S. Genevieve",102,19181549373,"Email response",form_ui344,"5 52 5844 5434",72417
+"Millie Lamson",78,31395150090,"Email response",case1|actionable,"+54 7 14 5961 6294",86194
+"Maitilde Sasnett",111,35027915594,"facebook leads",techsource_298,"8 65 4528 6805",46100
+"Judie Jacobs",114,28058420611,"Facebook Leads",source_dependant|contactcenter_region3|special,"9 11 1775-6541",22556
+"Imogen Gillie",83,63814419809,"Manual registration",any_applicant19|actionpending|limit20,"4 81 5976 3612",64713
+"Shina M. Devitt",28,25258060815,"Manual registration",possible_buyer|contactcenter_region221|actionpending9,"+54 7-34 9817-2274",36156
+"Elbertine Kinnard",37,74299295617,"MANUAL REGistration",call_again|actionable|remove_of_source,"+54 7 59-6056 2554",28216
+"Ashlee O. Andrei",114,83516802466,"facebook leads",contactcenter_region41,"5 50 6888 2499",86102
+"Carley M. Jenny",122,47216387419,"Email response",rangeof_action15|contactcenter_region4|special,"1 55 5499 6761",99607
+"Brynna Link",1,47602684923,"facebook leads",rangeof_action12|contactcenter_region2|limit4,"4 69 4750 5439",74873
+"Jacenta G. Waylan",114,65065875543,"Google forms",any_applicant|techsource_2928|special,"9 10 3526 6933",18431
+"Giuditta Dorsman",39,36280756410,"MANUAL REGistration",contactcenter_region4|contactcenter_region1,"+54 1 76 1407 5496",98835
+"Claudia Oatis",85,67954938860,"Manual registration",any_applicant12|special17,"+54 8-63-6417 5748",28943
+"Cordelia C. Geanine",21,84540870913,"MANUAL REGistration",contactondemand|limit,"+54 6 82 5079 6416",68301
+"Ula Elihu",105,47781943935,"Manual registration",contactondemand|special3|any_applicant,"9-87 6747 8550",36789
+"Nissy Porett",49,50347304498,"Manual registration",special|actionpending27|client_only,"7 71 6101 4740",75803
+"Marylin K. Kamal",123,33256541370,"MANUAL REGistration",client_only16|form_ui344|actionpending,"2 67-9271 1130",83362
+"Renate Llywellyn",117,31043525665,"MANUAL REGistration",any_applicant|actionpending,"+54 2 38 4574 6843",47843
+"Elaina Lehet",20,94707610011,"MANUAL REGistration",techsource_298|techsource_29|contactondemand,"6 74-3451 1881",46899
+"Lilia Tol",40,58955265036,"google Forms",any_applicant|any_applicant|contactcenter_region422,"3 22-6361 1185",91653
+"Fernanda J. Luedtke",43,89242486230,"google Forms",rangeof_action,"+54 2 54 7257 8379",50943
+"Rosanna Chavey",112,49853071671,"Email response",actionable,"+54 4-81 4948 5660",35984
+"Buffy Firmin",15,72839026214,"Email response",possible_buyer|any_applicant13,"+54 9 76 3567 4379",71142
+"Zea Crain",103,37106295861,"Email RESPONSE",least_interested,"6 90 3211 6067",29555
+"Kakalina Cleo",40,91522434860,"Email response",case122|remove_of_source26|contactcenter_region3,"1 73 6092 8812",50730
+"Nydia Neva",74,88539614917,"MANUAL REGistration",form_ui344|techsource_29|special,"3 58 8688 3697",88950
+"Ophelia S. Clareta",88,56416756558,"MANUAL REGistration",techsource_2919|actionable,"8 20 7023 2367",87738
+"Phillis A. Carpio",117,65013747287,"google Forms",least_interested|actionpending3|form_ui344,"8 71 9341 5238",63878
+"Aeriel Buford",22,55795666217,"facebook leads",on_consideration5|contactcenter_region3,"3 71 1199 9655",93060
+"Mellicent M. Alberto",47,31790749814,"MANUAL REGistration",possible_buyer,"8 27 4566 5088",74873
+"Loella Jordanson",78,70711759187,"Email RESPONSE",contactcenter_region1|least_interested,"2 16 2306-1453",88417
+"Ardith Tammany",56,75530484537,"Google forms",limit12|client_only,"+54 4 27-1680 9905",13710
+"Tommie Sanderson",4,52846526961,"facebook leads",remove_of_source21|contactcenter_region42|never_call,"+54 8 43-5234 9611",56763
+"Layne D. Yamauchi",103,47460053598,"facebook leads",remove_of_source|actionpending|never_call12,"1 59 3496 1209",52583
+"Layney S. Bolton",30,89300286655,"MANUAL REGistration",contactcenter_region310|any_applicant|any_applicant24,"+54 1 55-2308 1943",22663
+"Hanna Vera",28,59198272529,"Manual registration",source_dependant11|techsource_29|most_interested,"7 82 3336 4812",56763
+"Tessie L. Skippy",103,47460053598,"Email response",contactondemand|apply_0_cases,"1 59 3496 1209",28991
+"Dayna R. Anatola",65,73513543570,"Google forms",case1|case1|client_only6,"+54 3 10 5235 6898",36287
+"Gisela Yalonda",28,96396197369,"Email response",apply_0_cases8|apply_0_cases,"+54 5 49 5844 9259",61298
+"Leyla Dayle",64,14187865360,"google Forms",special20,"9 62 1102 9147",66901
+"Mindy Franck",102,27560416884,"Facebook Leads",treaty,"6 37 1781 4076",42083
+"Neilla Norvun",82,52186192543,"Manual registration",on_consideration|contactcenter_region2,"8 39 8290 5410",93260
+"Cicily Bosson",2,17185637138,"MANUAL REGistration",on_consideration|contactcenter_region3|least_interested,"+54 6 54 7324 7280",23322
+"Moreen Gilbertine",70,34827609384,"Facebook Leads",rangeof_action2|contactcenter_region129,"4 72 2476 8575",24918
+"Mei Shere",103,47460053598,"Manual registration",most_interested,"1 59 3496 1209",85935
+"Liana F. Celestyna",72,25121018818,"Facebook Leads",limit,"2 63 7313-2064",93786
+"Minda A. Lubin",32,74033091019,"Email RESPONSE",limit,"4 29 6661 3695",20893
+"Dorotea Dav",23,18330647334,"Email response",form_ui344|source_dependant|most_interested,"2-43 3639-3776",50569
+"Marna H. Diandra",85,71976359568,"Email response",limit10|treaty|never_call,"9 66-4880-2699",29686
+"Andriana Krauss",97,50373832173,"Google forms",special,"8 93 6955 7057",89084
+"Gwynne Sosthina",40,55563985775,"Email RESPONSE",any_applicant4|contactcenter_region2,"4 21 4950 9663",91695
+"Janith Morse",103,24033402615,"Google forms",most_interested|contactcenter_region3,"5 46 7330 3487",57190
+"Mandi Mather",66,35755022837,"Google forms",source_dependant|remove_of_source,"7 86 5192-7432",84109
+"Erminie Abad",8,62445289982,"google Forms",contactcenter_region4|any_applicant,"8-89-1499 5271",10317
+"Monique K. Hoppe",85,55347020418,"MANUAL REGistration",case1|any_applicant|on_consideration,"3 35 3851-6679",54256
+"Missy J. Finbur",102,71171226039,"MANUAL REGistration",actionable7,"6 98 5875 5881",79676
+"Faythe Lew",21,13320097699,"Email RESPONSE",contactcenter_region3,"9-59-9373 8678",48582
+"Linzy Thorin",15,51989426814,"Google forms",never_call|apply_0_cases|limit3,"+54 7 77 1733 2617",30684
+"Fania F. Quillon",8,28030591368,"google Forms",any_applicant,"+54 8 23 9297 7328",87965
+"Myriam Dibrin",1,82958177139,"Email RESPONSE",contactcenter_region3,"2 83 8763-1639",95920
+"Gale Urania",3,69776263934,"Facebook Leads",remove_of_source,"3 37 2679 9860",46216
+"Mercie Sharl",81,74412022847,"Email RESPONSE",source_dependant|client_only6,"1 22 9924 5151",58230
+"Carmon Thierry",123,37972675971,"Email RESPONSE",never_call|form_ui344,"7 67-2714-8911",57545
+"Yoshi J. Gary",55,80819394345,"Google forms",techsource_29|actionpending|call_again,"+54 4 94 5063 5567",28991
+"Natalya Edla",44,56609567938,"Manual registration",most_interested23|most_interested|contactcenter_region428,"7 98 2559 7895",37223
+"Lanita Rooney",13,86505520477,"Google forms",apply_0_cases22,"1 59-2095-8908",96796
+"Ynes Phi",4,49079061510,"Email response",never_call,"5 50 3984-8577",64227
+"Meggy Vivien",79,89172570887,"Email response",contactcenter_region26|contactcenter_region4|treaty,"1 72 9319 9762",93462
+"Livvy Nigel",105,96365073017,"Facebook Leads",rangeof_action|actionpending,"2 86 2348 2936",99576
+"Valaree Postman",80,56661091875,"Email response",most_interested30|special|form_ui344,"3 19 6716 5960",55192
+"Rosmunda Gio",15,38246923212,"Manual registration",least_interested|rangeof_action10|case1,"7 36-7214 5268",44273
+"Claresta Elsy",36,72199436327,"google Forms",on_consideration2|actionable20|never_call,"3-85 9425 9971",60795
+"Willyt Anabelle",16,42310502484,"Email response",possible_buyer20|rangeof_action|contactcenter_region4,"5 73 8821 1556",88216
+"Latisha R. Rape",94,76132711029,"Email response",special|never_call|contactondemand,"3 10-4436 8277",36333
+"Karia Allene",51,82197325324,"google Forms",contactcenter_region4,"+54 6 50 1121 7991",22212
+"Freddi C. Kwon",93,25345786532,"Email response",form_ui34421|contactcenter_region3,"2-11-5048 2608",30941
+"Terrijo Orr",3,57606326704,"MANUAL REGistration",rangeof_action18|most_interested|call_again26,"+54 2 66 3891 2405",77578
+"Aubine M. Galang",6,33656422046,"Manual registration",techsource_29,"6 57 5040 8759",67017
+"Margaux Telfore",76,65023989117,"facebook leads",possible_buyer|contactcenter_region4|limit,"2-22 8325-9621",79188
+"Bliss Ana",26,93335189758,"google Forms",remove_of_source|remove_of_source|actionable27,"2-16-8461 8513",16529
+"Cindee Nahamas",38,47536670492,"Email RESPONSE",any_applicant,"4 80 4653 2024",54674
+"Maribeth B. Cummings",39,14058832629,"MANUAL REGistration",techsource_29|actionpending,"1 91 2920 1358",54547
+"Modesta Danzig",94,71195584670,"Manual registration",contactcenter_region1|contactcenter_region4|contactcenter_region25,"5 15 9101 8260",61432
+"Elke B. MacMahon",35,67569380023,"Facebook Leads",least_interested|form_ui344|never_call,"1 57 1931 8865",51663
+"Vivi B. Bertrand",107,15780837514,"Email response",call_again|contactcenter_region4|limit30,"5-97 2347 6328",66543
+"Karissa H. Fonseca",103,47460053598,"Google forms",never_call,"1 59 3496 1209",69846
+"Brianna Artina",16,35083821738,"Facebook Leads",case1|least_interested|techsource_29,"8 51-7596-8749",61584
+"Jesse Litha",105,88481435839,"Email response",actionable|apply_0_cases30|limit5,"+54 5 83 8456 7045",46656
+"Alice R. Nadab",22,11282444538,"Email RESPONSE",contactcenter_region210|never_call,"6 54 3835 8484",96242
+"Tana Russ",2,60173115714,"Facebook Leads",form_ui344|limit12|actionpending,"3-29 9421 6496",43951
+"Devora S. Ranita",51,21472545419,"MANUAL REGistration",actionable|rangeof_action|remove_of_source,"6 36 3029 6944",77799
+"Vivien R. Harcourt",43,94799685374,"Facebook Leads",rangeof_action|techsource_29,"+54 7-84-2501-2280",99201
+"Dru Pesek",38,35389836100,"Manual registration",rangeof_action28|actionable|limit,"1 74 1181-6543",66015
+"Celeste Y. Luing",39,95190499267,"Facebook Leads",call_again,"6 53 6537-2459",78187
+"Lyndell Yance",44,15660864162,"Facebook Leads",actionpending|form_ui344|remove_of_source,"+54 7 42 9974 3821",93948
+"Ninnetta C. Supen",38,39744048905,"Facebook Leads",remove_of_source|contactcenter_region4,"1 86 7677 8396",95775
+"Mamie Aurore",67,90724224770,"Email response",remove_of_source|case122|never_call28,"+54 4 74 6496 3004",49154
+"Brande F. Lyndes",2,55562792497,"Email RESPONSE",remove_of_source,"7 38-2516 5078",54191
+"Georgeta C. Ferdy",12,62519475115,"google Forms",case127,"2 40 4187 7347",49644
+"Una R. Sheedy",113,19801420799,"Email RESPONSE",on_consideration|possible_buyer,"7 69 1357 8014",95367
+"Barbara Q. Ryle",22,45894844848,"Email RESPONSE",on_consideration|possible_buyer17|contactcenter_region2,"9 22 9788 1781",33726
+"Meghann Oakley",122,56703910855,"Google forms",never_call|techsource_29|techsource_29,"3 49 5520-8291",12685
+"Elisabet Carolus",115,64824295825,"facebook leads",never_call,"6-73 5647 9887",50454
+"Fanny S. Gunar",13,29299274139,"facebook leads",actionable|most_interested,"6 84 8894 8206",82836
+"Pegeen R. Gundry",96,59830065513,"Google forms",treaty9|never_call,"9-88 9132-4558",98394
+"Sabra K. Madaras",105,84278228456,"facebook leads",possible_buyer|call_again|special20,"+54 3 55 7522 4760",51790
+"Trude Viridissa",42,20167933600,"Facebook Leads",most_interested7|never_call13,"+54 6 80 5690 2253",24352
+"Harriette H. Eldorado",12,95315346737,"Email response",remove_of_source5,"8 20 9558 2480",56727
+"Kimberli Garling",62,96192150259,"facebook leads",techsource_29|rangeof_action,"7 99 6062 1570",69765
+"Cathleen Sissel",81,99155418173,"Email RESPONSE",rangeof_action23|special,"2 31 4996-2749",38683
+"Mamie Roselyn",42,97864992508,"Email response",contactcenter_region3|apply_0_cases,"+54 7-80 3723-3037",36936
+"Lida Angelia",119,28245239888,"Manual registration",contactcenter_region4|apply_0_cases,"+54 9 11 1594-8610",24161
+"Leigh A. Elodie",68,62118225650,"Email response",contactcenter_region3,"5 96 8077 8338",55519
+"Eliza J. Calore",105,39086981798,"Google forms",techsource_29,"6 46 5394 4699",59827
+"Alli E. Pack",16,14666594276,"Facebook Leads",contactcenter_region430,"1 38 9003 8252",26176
+"Alvinia Thaine",61,38896498726,"MANUAL REGistration",form_ui344|any_applicant|source_dependant,"+54 1 19 4658 7156",63180
+"Randi N. Beare",50,61172445356,"Facebook Leads",contactcenter_region2|rangeof_action,"+54 9 30 9843-2200",47276
+"Shana Abdul",19,70259181876,"google Forms",contactcenter_region321|client_only|rangeof_action,"+54 6 24 2216 8031",17751
+"Jayme Ansela",106,74579384239,"Email response",any_applicant|contactondemand23|any_applicant28,"6 93 1806 1103",22226
+"Joete L. Jary",48,18214533402,"Email RESPONSE",remove_of_source17|source_dependant,"+54 3 54 2887 9027",68613
+"Belinda Gertie",108,12688434856,"facebook leads",contactcenter_region32|case1|least_interested22,"+54 6-20 1607-1331",13024
+"Tasia Krebs",51,21472545419,"MANUAL REGistration",contactcenter_region3|rangeof_action,"6 36 3029 6944",59347
+"Karlotte F. Augusto",82,23262504519,"Email RESPONSE",contactcenter_region4|actionable,"7 95 9735 7927",70169
+"Jenilee Kirby",32,86421438501,"google Forms",actionable|remove_of_source,"6 32 5204-3160",35528
+"Verena Schmidt",66,39398580964,"google Forms",techsource_2922|form_ui344|limit2,"1 99 7916-8892",33716
+"Wynn F. Lapides",60,35919677459,"Facebook Leads",treaty13,"4 30 3506-1720",61492
+"Ardenia Comfort",6,33646227396,"google Forms",most_interested29|on_consideration,"8 53 4495 6367",49835
+"Vivie Isis",43,26708726352,"Google forms",special|apply_0_cases19|limit,"8-13 5047 7907",24260
+"Pru Eads",65,95912014831,"Email RESPONSE",form_ui344|form_ui3444,"1 13 2698 4846",68599
+"Heather R. Dorcea",70,44518670858,"Facebook Leads",contactcenter_region1|client_only|form_ui344,"+54 6-73-6889 3077",75026
+"Benni M. Talbot",49,96251719377,"facebook leads",techsource_29|source_dependant|client_only,"+54 3-91 3959-6443",99163
+"Malorie Burbank",109,69589857277,"MANUAL REGistration",actionable,"2 93 3821 5741",16470
+"Sada Wit",8,14932168655,"facebook leads",contactcenter_region2,"+54 8 12 2211 8912",20435
+"Angy Titos",79,94476660412,"MANUAL REGistration",on_consideration|techsource_29|apply_0_cases,"+54 7 13-1446-4409",13513
+"Bambie T. Faruq",11,91098398141,"MANUAL REGistration",techsource_2928|limit|contactcenter_region2,"3 64 5727 7772",51274
+"Cassaundra B. Unni",35,14747276856,"Manual registration",possible_buyer|apply_0_cases28|actionable,"9-29-5993 6722",97849
+"Leeanne P. Reeba",77,42536401566,"Email response",client_only20|rangeof_action13|treaty4,"4-93 8312 5161",11595
+"Erinna B. Tiphane",59,39928274603,"Email response",actionable|contactondemand,"1 61 8787 5757",64808
+"Winonah G. Roderic",60,69030477104,"google Forms",contactondemand|client_only|on_consideration,"+54 8 32 5376 6186",11804
+"Elfrida Rett",82,30869400457,"Manual registration",contactcenter_region13|actionable|limit,"5 79 2076-7601",82185
+"Janessa Herta",72,99422970203,"Google forms",contactcenter_region4,"8 10 1927 4545",61033
+"Willy Mya",12,18200789593,"Google forms",client_only|never_call4|special20,"+54 9 67 9420-9346",61432
+"Ericha Odelinda",10,83217970878,"facebook leads",least_interested19|possible_buyer18,"+54 3 75 9891-5638",28990
+"Pierette Levania",24,91809252482,"google Forms",source_dependant22|contactondemand|apply_0_cases,"7 49-8501 6616",41393
+"Lillis Hinkel",107,65737014470,"Email response",limit,"9-59-3795 3877",17693
+"Lani Philana",29,47370345404,"Email RESPONSE",remove_of_source,"9 40-9265-1489",10790
+"Meridith Saree",106,64908141394,"Manual registration",techsource_29|any_applicant|case1,"+54 3 30 3555 5610",63510
+"Jonell Norse",92,97343488042,"Facebook Leads",contactcenter_region328|techsource_29,"3 42 8077 8004",86473
+"Dahlia A. Hodge",60,93895141490,"google Forms",client_only,"2 24 7124 3674",82685
+"Hermine Peyter",19,98369998344,"MANUAL REGistration",apply_0_cases,"1 24 4992 4828",94743
+"Kayley Emsmus",44,33336140025,"MANUAL REGistration",contactcenter_region35,"+54 9 26 3101-1486",60033
+"Ardith D. Dolley",38,48810136543,"Email RESPONSE",never_call28,"2 43 1522 9547",90106
+"Eugenie T. Minerva",59,93953469223,"MANUAL REGistration",treaty|client_only|source_dependant,"6 88 3721 2319",75673
+"Vera Schnell",24,19455965146,"Email response",rangeof_action,"+54 2 17 3474-8005",83332
+"Norri W. Cruz",52,54294900903,"google Forms",treaty|remove_of_source,"+54 3 54 6469-6981",75250
+"Korney Dene",30,54695313870,"MANUAL REGistration",case114|source_dependant1|source_dependant17,"+54 4 83 4737-6344",12930
+"Glenda Herbie",102,14632572967,"Email RESPONSE",never_call1,"+54 8 19 9474 3818",49126
+"Alena T. Psyche",98,19493867173,"Facebook Leads",client_only,"+54 9 74 5069 2520",20412
+"Carmen G. Selia",122,55091887721,"google Forms",client_only,"6 37 3549 1460",85396
+"Brandise Fredette",50,89280163920,"Email response",techsource_29|on_consideration,"7 97-1349 7400",70711
+"Zonda Dachi",107,16613296029,"Manual registration",contactondemand|case1,"+54 2 17-2748-9597",92705
+"Lily C. Chet",60,14565750053,"Facebook Leads",client_only|on_consideration29|apply_0_cases,"4 56 7364-4572",48368
+"Bernardine Quiteris",9,56693616500,"google Forms",limit,"7-39 1697 6226",30622
+"Gertrud Angelica",26,93446660589,"Google forms",possible_buyer14|contactcenter_region1,"+54 5 33 5236 4370",66157
+"Libbie L. Adamik",70,38016288530,"google Forms",apply_0_cases|contactcenter_region4,"3 74 3900 4974",93894
+"Imojean Dillie",73,73653038955,"Manual registration",actionpending|contactcenter_region416,"9 53 1879 2311",73624
+"Ruthy Tannenbaum",21,17461310369,"google Forms",never_call1|any_applicant,"2 59 6340 5857",75648
+"Eulalie Feola",70,44518670858,"google Forms",actionpending|apply_0_cases,"+54 6-73-6889 3077",32194
+"Meggie Gittle",23,66422975651,"Email response",call_again19|limit|least_interested22,"3 65 3423 2468",44296
+"Lotty Howlan",59,56969562574,"Facebook Leads",never_call|rangeof_action,"7 27 1679 6888",13786
+"Wilone W. Wandy",51,42650740565,"Email response",client_only|actionable11,"1 74 9878-9197",67622
+"Ashli Langley",49,34093481726,"Google forms",actionpending,"8 98 4199 5457",49000
+"Jeri Ulah",91,84187270733,"google Forms",limit|on_consideration,"7 54 8878 5114",55218
+"Oona Wixted",116,63531790570,"facebook leads",apply_0_cases|treaty24,"3 15 9745 2429",31813
+"Evangelin P. Musa",74,43914569576,"Google forms",limit|contactcenter_region3,"+54 4 70 5901 2820",95082
+"Em Lowenstein",26,85944003426,"Manual registration",form_ui344|contactcenter_region4,"5 98 2785 7543",12066
+"Alice M. Trow",89,72182209611,"Facebook Leads",contactcenter_region4,"6-29 9032 7708",75855
+"Laurie W. Torray",91,72727291633,"MANUAL REGistration",techsource_2911|apply_0_cases|apply_0_cases,"5-17 7924 9139",92106
+"Eleni Arlinda",113,39848652228,"MANUAL REGistration",contactcenter_region48|apply_0_cases3|most_interested,"6 11-4356 7980",70890
+"Susette September",32,25671731828,"facebook leads",actionpending,"+54 4 95 5338 1712",50830
+"Isa H. Obidiah",48,80317810961,"Facebook Leads",client_only,"8 68 5623 9671",73561
+"Essa Fulcher",70,44518670858,"Email RESPONSE",special|apply_0_cases24,"+54 6-73-6889 3077",19699
+"Geralda Borrell",56,34389387760,"Manual registration",special|possible_buyer,"+54 4 22 8375 4589",47145
+"Yvette Cailly",114,44859310400,"Manual registration",case1,"1 40 3405 6888",25253
+"Vanna W. Salot",33,58810662049,"Email RESPONSE",limit,"+54 7-63 7352 8994",32456
+"Loni N. Lonna",3,87874957157,"Manual registration",possible_buyer1|any_applicant|any_applicant20,"7 69 4502 4382",72410
+"Guenevere Burris",74,57382426025,"Manual registration",client_only,"+54 6-61 7377 2637",97623
+"Malory M. Aime",118,37715968691,"facebook leads",form_ui344,"4 15 7282 4717",59873
+"Gusella J. Dewitt",49,99451975707,"google Forms",source_dependant,"7-40 2746 3248",13741
+"Althea M. Chadbourne",102,22569570828,"MANUAL REGistration",contactcenter_region1|on_consideration,"9-96 1441 3545",27946
+"Alyss Ashia",103,39413621918,"MANUAL REGistration",contactcenter_region112,"2 23 5860 4813",48490
+"Zorana K. Ricca",49,97935307877,"Email response",source_dependant,"2-33 3679-1157",11575
+"Roselle C. Aires",40,76798204581,"Email RESPONSE",contactcenter_region49,"4 83 6689 4177",41751
+"Cassie Richman",101,58054152787,"Google forms",contactondemand21,"+54 9-56 6244 3530",96832
+"Josselyn Held",37,54167328780,"google Forms",rangeof_action27|source_dependant,"+54 3 92-7026-8531",70842
+"Cassie Benedick",1,57045009355,"Email RESPONSE",never_call,"+54 7-88 1619 1452",40165
+"Carrie K. Neils",66,91794423920,"Email response",treaty21|actionable|special5,"+54 7 83 1021 7324",64555
+"Ardys Jilleen",28,75076608499,"Google forms",actionpending,"2 89 1498 7269",43713
+"Rita R. Roby",70,44518670858,"Facebook Leads",most_interested|limit|never_call20,"+54 6-73-6889 3077",21949
+"Brenna D. Maryjo",85,52887613183,"Google forms",call_again,"1 84-6879-5536",11465
+"Selinda T. Shugart",13,76561790581,"Manual registration",contactcenter_region1|rangeof_action,"8 12 2133-2150",41393
+"Jacklin E. Gilmore",111,57662866302,"google Forms",actionpending|form_ui344|source_dependant,"3-21 5980 2775",62210
+"Malia P. Elijah",100,63614619776,"MANUAL REGistration",case1|actionpending|contactondemand,"6 80 7284 5328",15702
+"Izabel Fine",109,29021268878,"Email RESPONSE",any_applicant30,"3 76 7639 2196",88675
+"Eleanore Simeon",39,35312810839,"Email RESPONSE",contactcenter_region32|techsource_29,"6 98 5777 1009",10454
+"Ginnie Gardell",22,19943413979,"Google forms",client_only2|contactcenter_region218,"6 72 9313 5298",38342
+"Ysabel L. Merriott",63,14490392278,"facebook leads",call_again|special28,"7 78-4807 6978",59622
+"Chrissy Garvin",39,20003468694,"Google forms",contactondemand,"+54 8 74 3572 3734",44464
+"Tuesday P. Padgett",13,79133243984,"Manual registration",techsource_292,"1 77 3701 6253",47946
+"Melba B. Newby",118,76782823769,"Manual registration",treaty|apply_0_cases|least_interested10,"8 90 3904 6234",24471
+"Carrie Bergstein",34,38962342034,"Google forms",form_ui344|actionpending|techsource_29,"4-42 2731 3965",97573
+"Stephenie S. Spain",109,90850975569,"Facebook Leads",on_consideration14|apply_0_cases,"4-19 2149-5208",75511
+"Ingaborg McKenzie",43,61490414911,"Email response",any_applicant|techsource_29|possible_buyer,"4 49 2511-8723",82027
+"Kiah Behrens",108,85587066152,"facebook leads",rangeof_action|on_consideration,"+54 3-19 1724 7645",30207
+"Carlin I. Fabyola",7,23711792196,"Manual registration",treaty,"9 57 5279 7551",85086
+"Pippy I. Ivens",98,65171090416,"MANUAL REGistration",call_again|actionable,"5-96 3823 5096",10473
+"Talyah P. Tresa",117,26312038552,"google Forms",techsource_297|rangeof_action14,"7 89-6090 5817",89908
+"Kristi Oni",49,19692199519,"Email RESPONSE",client_only19|techsource_29,"1 24-9207 5278",13379
+"Malinda C. Laura",81,68262728504,"Google forms",on_consideration|form_ui344|apply_0_cases,"3 93 7671 6523",83966
+"Arabela Celinda",85,86400182105,"Manual registration",possible_buyer|source_dependant,"5 20 5732 9566",35676
+"Donica C. Burtie",38,76131106510,"facebook leads",client_only,"2-20-7443 3066",31079
+"Pattie B. Sarazen",86,19206820495,"Facebook Leads",contactcenter_region4|techsource_29|most_interested,"7 70-6202 6119",85535
+"Rickie Kilbride",83,49057231283,"google Forms",rangeof_action17|case1|techsource_29,"9 47 3503 5094",34004
+"Sindee Tarsuss",97,37745795240,"MANUAL REGistration",client_only13,"+54 2 30 4015 2173",11905
+"Avie G. Saimon",108,33030960887,"google Forms",limit|treaty,"2-77 2882-5817",89859
+"Aileen Abbie",111,27649985564,"Manual registration",actionable|limit|most_interested27,"6 78 9690 7139",74519
+"Lethia Erminna",2,11837185675,"Email response",client_only|least_interested3,"1-75 8385-5403",87614
+"Adda Dolhenty",57,80216981041,"Google forms",contactcenter_region2|least_interested,"6 32 6700 6767",66378
+"Veronica Stickney",74,56067729467,"Manual registration",contactcenter_region2|on_consideration,"6 50 2172 9561",83801
+"Blakelee Tamra",100,79914051776,"Manual registration",client_only,"8 30-8669 7413",29023
+"Paula P. Moffitt",102,65504323964,"Email response",apply_0_cases|never_call,"2 41 7803 4618",25980
+"Manon D. Harcourt",42,32013117662,"Google forms",contactcenter_region330|treaty,"1 30 4803 3372",34782
+"Nalani C. Upali",120,26938033389,"facebook leads",techsource_2913|form_ui344|case1,"4 90 3730 2226",35016
+"Darlene A. LeRoy",9,77318859397,"Facebook Leads",form_ui344|remove_of_source3,"+54 1 86 2065 2169",33745
+"Stesha N. Shaya",76,11792301716,"MANUAL REGistration",never_call27,"+54 6 87 5598 2789",88670
+"Stefa Bresee",17,52902578772,"Email RESPONSE",apply_0_cases|rangeof_action2|case121,"+54 6 80-1783 7883",52154
+"Kit Moskow",55,96571554002,"Facebook Leads",on_consideration27|actionable10,"3 31-6831 9890",43035
+"Elaine Valerio",110,82486199625,"Facebook Leads",contactcenter_region130,"8-48 8727 1151",76864
+"Annabel Kurland",122,52854605153,"google Forms",most_interested29,"9 30 9111 4796",20811
+"Angelique Campney",93,66658551481,"Email RESPONSE",remove_of_source16|limit|case1,"+54 5 41 9340 7480",46114
+"Pierrette B. Atronna",22,57447287723,"Manual registration",treaty20,"6 22 1672 1442",30494
+"Maud Lyon",120,61961249507,"facebook leads",techsource_29|any_applicant17|contactcenter_region22,"9 46 7394 4160",76412
+"Nydia Kirbee",122,16184688635,"facebook leads",contactcenter_region46|remove_of_source|case11,"+54 3 19 6929 1810",62321
+"Mehetabel Shanahan",3,45311732493,"google Forms",contactcenter_region1|case1,"8-68 9731 7715",15934
+"Glynis J. Wadlinger",49,54089126421,"Email response",client_only3,"4 31 3535 6836",24233
+"Barbaraanne Eisenhart",66,81154203689,"facebook leads",contactcenter_region429,"9-94 2251-2888",47407
+"Gillie Lawson",117,70630588909,"google Forms",call_again|treaty|contactcenter_region3,"7 60 2625 1696",86450
+"Nelle Tracee",19,99161891995,"Email response",client_only,"+54 7 84 5005 2436",59964
+"Rivi Wilfreda",76,22550943880,"google Forms",actionable,"6 33 2670 3874",55460
+"Erika Bailey",11,83177375747,"Email RESPONSE",source_dependant29|on_consideration,"3 46-8431 1972",35578
+"Ilka Vickey",48,54562255433,"MANUAL REGistration",treaty,"+54 8 59 8363 2596",47847
+"Happy E. Gavrah",41,81497786275,"facebook leads",contactcenter_region4|apply_0_cases,"5 20 8178 7049",95513
+"Violetta Tare",40,45586527986,"google Forms",treaty,"2 65-4165 7047",19841
+"Penelopa Marks",72,68098002526,"facebook leads",treaty22|on_consideration,"7-46 4932 8070",41940
+"Pegeen R. Mastat",116,44193142785,"Facebook Leads",possible_buyer|actionable,"4 33 4234 8702",54288
+"Roberta H. Tracay",118,92513570134,"google Forms",most_interested9|possible_buyer,"6 95 2720 1883",46817
+"Courtney C. Wojcik",98,99636747523,"facebook leads",most_interested|any_applicant|special,"4 19 5334-6209",40281
+"Lyn Hezekiah",103,66689173384,"MANUAL REGistration",rangeof_action22,"+54 2 60-5017 3697",16504
+"Blancha B. Giffard",68,25378533460,"Facebook Leads",techsource_29,"9-51 2901 1595",16898
+"Ophelie M. Giverin",78,26091262188,"Email response",contactcenter_region1|most_interested,"3 88 7160 5212",48508
+"Betta V. Thorvald",87,88091263536,"Facebook Leads",most_interested|possible_buyer|rangeof_action19,"6 65 1822 5234",88358
+"Shena Z. Havstad",73,39581878129,"Facebook Leads",contactondemand|special|contactcenter_region3,"3 59 7096 9741",66629
+"Ellen Calvert",75,83679559109,"Manual registration",apply_0_cases,"9 60 8957 1897",67647
+"Tommi K. Kronfeld",41,76033030969,"Google forms",any_applicant|source_dependant,"+54 1 70-9133 1417",35578
+"Cherry Demodena",117,96656190694,"Email RESPONSE",treaty9|remove_of_source|rangeof_action,"5 55 1517 2945",29054
+"Lezlie S. Ehrman",27,39602028423,"Google forms",special,"6 56 1079 1062",62311
+"Reba S. Loise",111,57662866302,"Email response",treaty22,"3-21 5980 2775",71760
+"Gilli Albertina",114,36213844784,"Email RESPONSE",remove_of_source|never_call16,"+54 6 41 4752 5109",79926
+"Kissie R. Nahshon",90,79085665705,"Manual registration",rangeof_action,"6 60 8270 7232",53568
+"Marijo B. Amos",41,47980277748,"MANUAL REGistration",most_interested|remove_of_source30,"+54 1 45 3905 5263",93482
+"Van Melany",56,11771513977,"Email response",possible_buyer,"3 93 6154 7664",33121
+"Debby Shanta",108,93621952041,"Email RESPONSE",case1|source_dependant11|contactondemand,"+54 9 27 7628 8269",95322
+"Penny Jocelyn",16,58142770309,"google Forms",contactcenter_region2|limit12|contactcenter_region414,"1 20 8105 1113",78910
+"Katusha H. Avram",3,18893949357,"Email RESPONSE",contactcenter_region4,"+54 3 25 8925 3763",82194
+"Kelci C. Kubiak",8,94149104572,"facebook leads",call_again20|any_applicant,"7 50 8420 9388",70889
+"Jodie K. Healion",84,32055932690,"Google forms",on_consideration|possible_buyer,"+54 8 26 3748 6333",24551
+"Batsheva Wiley",46,39571876563,"facebook leads",call_again|least_interested|limit28,"9 24 8559 5968",22024
+"Joye A. Trammel",110,39937376628,"MANUAL REGistration",case122,"9 51 3226 7096",95188
+"Albertine Kapoor",12,20184314708,"facebook leads",apply_0_cases,"6 98-3954 1653",18864
+"Rosemaria Hoskinson",44,22143583098,"Manual registration",contactcenter_region2|call_again|actionable29,"5-94-4126 2482",81957
+"Morgana Avron",4,63760731051,"google Forms",treaty,"4-80 7777 7804",82633
+"Aggi Kathy",46,54689848376,"Email RESPONSE",rangeof_action,"6-15 2913 2430",80676
+"Siusan Grata",25,25160885159,"Manual registration",never_call,"+54 2-97 4707 6530",22465
+"Lena Ware",113,54939009028,"Google forms",special|call_again,"+54 4 53 8039 7506",99127
+"Ivory C. Boelter",50,25771469263,"Google forms",rangeof_action,"+54 8 61 8929 9826",68753
+"Zaneta G. Latouche",42,40280887884,"Google forms",contactcenter_region2,"5 29-5755 6016",96895
+"Staci Krutz",112,31874987627,"Email response",remove_of_source|most_interested|most_interested,"6-37 9880 6604",93482
+"Michaelina Quillon",59,97758211058,"Email RESPONSE",remove_of_source,"9 51 4198 2308",98864
+"Marquita Gefell",36,76273957233,"Manual registration",source_dependant|call_again|techsource_29,"2 64 2962-6273",33217
+"Blythe Calen",17,33638671200,"Facebook Leads",contactcenter_region3|limit|call_again,"+54 6 32-9013 3323",49164
+"Darya Cotsen",115,11905180195,"MANUAL REGistration",client_only17|most_interested10,"+54 3 68 4944 9146",76093
+"Vanessa Klos",88,95068294246,"google Forms",remove_of_source27|contactcenter_region4|limit,"+54 3 72 1456 9402",30664
+"Shelbi Littell",114,59123340347,"Email response",contactcenter_region3|contactondemand|call_again,"+54 7 27-4115 1447",40553
+"Sonni H. Oribelle",84,20528767013,"google Forms",techsource_29,"+54 2 50 7205 1290",71389
+"Joana Twelve",73,67374823105,"Google forms",contactcenter_region1|on_consideration,"2 61-1661 7384",49590
+"Madelyn Merta",6,32004455495,"Manual registration",contactcenter_region3|on_consideration|most_interested,"8 15 5498 1007",29264
+"Clementine C. Lymn",80,81444683277,"Email RESPONSE",contactcenter_region3,"1 21 3200 7574",70180
+"Gabriel Kinata",57,91172489486,"Google forms",client_only|contactondemand,"8 92 4025 7112",46252
+"Genni Chelsie",97,89887173531,"MANUAL REGistration",contactcenter_region3|limit2,"8 16 7550 4802",48552
+"Evita A. Germaun",4,75201560973,"Email RESPONSE",any_applicant16|actionable|contactondemand,"+54 7-43 9919 2598",15619
+"Haley Meingolda",100,68173710827,"google Forms",most_interested23|case1|call_again30,"2 66 4894-9106",92616
+"Wendye Dacey",88,26125391069,"Facebook Leads",actionable,"9 73-4336 8255",45274
+"Gert Lemon",57,24830891879,"facebook leads",techsource_29|contactcenter_region3|actionpending,"6 30 3525 5137",49440
+"Andriana Wilt",115,54660159679,"facebook leads",contactcenter_region3|techsource_29|client_only9,"6 17 6565 1969",89144
+"Gale Yale",69,13304575910,"Email RESPONSE",any_applicant,"+54 1 72 4511-9184",73096
+"Sharyl V. Reba",118,96906640354,"MANUAL REGistration",rangeof_action|contactcenter_region1,"1 37 2034 6782",87219
+"Suzi Lynnworth",61,29056275481,"MANUAL REGistration",most_interested2|call_again6|never_call,"4 55-2453 8058",77922
+"Latrena D. Busey",10,88126272035,"Google forms",rangeof_action|apply_0_cases28|call_again,"1 70 4726 3818",28052
+"Reggi I. Stclair",60,66231572579,"Google forms",contactondemand|client_only29|most_interested4,"3 62 2602 9695",89144
+"Blanch E. Gredel",48,27043377532,"google Forms",limit|remove_of_source14|possible_buyer,"8 57-2776 5510",67119
+"Kirstyn E. Jochebed",17,31183161766,"Manual registration",contactcenter_region118|any_applicant10,"2 89 2135 8876",48675
+"Jannelle Pearce",5,27177827224,"google Forms",contactcenter_region2,"+54 1 10-6389 9807",27764
+"Tarah Burd",12,84158559610,"Email RESPONSE",contactondemand,"1 56 6566 2699",43107
+"Maggee G. Hartzel",123,39273789674,"Google forms",limit|never_call|possible_buyer,"7 76 9334 1548",58613
+"Shandee K. Manthei",75,31724676420,"Facebook Leads",actionpending|limit23,"5 91 1845 6721",42223
+"Bianca Lonee",46,56144947143,"Manual registration",form_ui344|contactcenter_region1|contactcenter_region4,"+54 6 71 6504 6701",26506
+"Gwyn Gabrielle",23,95615468576,"Facebook Leads",call_again,"+54 2 15-7742-3474",64102
+"Adria Morrell",115,23673803065,"MANUAL REGistration",source_dependant,"7 23 6679-2630",14638
+"Myrlene C. Danuloff",44,57070910904,"MANUAL REGistration",most_interested,"6-12 5102 3699",49928
+"Kristal M. Joshua",28,54133520932,"Email response",never_call23|possible_buyer19|actionpending,"7-18 6257 7190",73194
+"Callie Dael",123,21938353009,"facebook leads",any_applicant|actionable,"6 21 7299 6711",67805
+"Charin B. Lillie",82,17443835761,"Manual registration",special|case125|any_applicant,"5-16 9738 9081",76084
+"Verla Huesman",39,44524079435,"Email RESPONSE",actionable|contactcenter_region4|least_interested8,"+54 3 17-6101 3111",56145
+"Romonda M. Hanleigh",58,84002236604,"google Forms",techsource_29|contactondemand|techsource_29,"5 29 8592 3270",98007
+"Whitney M. Filmer",120,69179345793,"google Forms",techsource_29,"7 23 2517 1263",31484
+"Inge Hussey",73,95787384174,"google Forms",special|source_dependant17|call_again16,"+54 2-83 9810 7118",35174
+"Lorie Lalla",103,18119804051,"Google forms",possible_buyer,"+54 3 24 4345 6113",87509
+"Nolana Bonnette",80,68794474478,"MANUAL REGistration",contactcenter_region2|never_call20|limit9,"8 18 6578 1117",68951
+"Henrietta Stu",83,66208901946,"google Forms",actionable|treaty,"8 35-8362 1194",41497
+"Dian M. Bohannon",114,84038958979,"Google forms",client_only,"2 35 5367 5009",95905
+"Rosene S. Massey",117,21079547378,"Facebook Leads",least_interested4|rangeof_action,"6-54-8867 2521",42934
+"Rebeka Micky",104,95422385843,"Manual registration",possible_buyer,"2 10 2029 4219",30548
+"Melita Zimmermann",61,40417571659,"Manual registration",source_dependant12,"+54 4 76 8977 1286",92626
+"Ekaterina V. Odyssey",110,39112441443,"Facebook Leads",treaty,"3 63-8856 4526",56569
+"Doralyn E. Gilman",25,32275062881,"Facebook Leads",treaty6|apply_0_cases21|special,"6 22 6735 4272",76351
+"Dorree B. Changaris",94,81113896770,"Email RESPONSE",special|never_call,"5 33-4704 9958",58279
+"Carlin Kylstra",66,26003163294,"Email RESPONSE",on_consideration10,"+54 6 31-1699 4259",23463
+"Devora I. Fakieh",28,55040002652,"Manual registration",contactcenter_region130|actionable26|client_only,"9 94 4798 9149",62614
+"Oralla A. Neom",88,18551399425,"Google forms",least_interested23,"6 36 6134-4682",97876
+"Kameko N. Pappano",61,49118169042,"facebook leads",possible_buyer|contactcenter_region1|treaty,"4 12 1846 8898",38817
+"Dyanne R. Venus",40,47872326734,"Google forms",techsource_29|contactcenter_region4,"+54 4-71 3725 5993",66924
+"Hollie Rochette",111,67214411227,"Facebook Leads",any_applicant|least_interested4,"+54 4 14 4325 6359",66978
+"Lotta C. Ailbert",32,82489034835,"Google forms",contactcenter_region4|case1|case1,"+54 7 33-8069 3485",99774
+"Coretta Spence",93,36010375627,"Manual registration",least_interested|special|rangeof_action,"9-21 3368-9148",62879
+"Evelina Atalanti",3,45268718885,"Manual registration",rangeof_action,"+54 6-42 8727 3021",97724
+"Taryn N. Thierry",4,59218086724,"Email response",rangeof_action,"1-50 5815-5442",90663
+"Amil Farmelo",57,93091926754,"Manual registration",source_dependant,"6 93 5241 6789",77788
+"Lebbie Lammond",4,56447126608,"google Forms",possible_buyer30|on_consideration|apply_0_cases21,"1 37 4621 1751",91482
+"Claudetta F. Bruni",74,61714262012,"google Forms",techsource_2914|least_interested,"4 30 2872-7355",93182
+"Roselia E. Vivyan",32,93736522574,"google Forms",case1,"+54 3 89-3776 3514",80078
+"Eleonora Ivana",59,80915144739,"MANUAL REGistration",client_only,"7-65 7105 7055",10993
+"Tabitha Guevara",118,12312285659,"Email RESPONSE",special,"2 21-9138-8086",13380
+"Gilbertine Terza",12,53315570456,"Manual registration",most_interested|case1|remove_of_source2,"+54 5 94 3627 8958",38112
+"Winifred Schechter",82,23426852258,"google Forms",case1,"9 75-3722 5531",15213
+"Carmita T. Strade",76,96470030294,"facebook leads",source_dependant|limit|call_again,"+54 7 47 8856-4600",12720
+"Chelsey D. Glassman",72,17401045770,"Email RESPONSE",least_interested9|possible_buyer|never_call,"+54 9 29 8637 2723",42567
+"Cecily A. Gelb",109,49240984226,"Facebook Leads",contactcenter_region1|on_consideration,"+54 1 58-5545 8905",54049
+"Amata F. Beckerman",93,89842317170,"facebook leads",techsource_29|on_consideration|actionable,"5 15 8795 1072",91114
+"Carlotta Ledah",10,66214091141,"Email response",case1|possible_buyer,"1 54 9680-5896",20510
+"Jolynn N. Rozella",6,83688177503,"facebook leads",case1|possible_buyer,"4 29 9747 7036",55854
+"Lorry Coridon",96,27439606210,"MANUAL REGistration",contactondemand|case1|remove_of_source,"+54 9 26 9229 3054",71178
+"Idalina Runkle",47,32361859385,"google Forms",never_call|apply_0_cases,"6 16 5739-1114",86249
+"Heath J. Mohammed",93,89842317170,"Facebook Leads",actionable|on_consideration14|treaty14,"5 15 8795 1072",70934
+"Babita H. Minetta",33,41551190177,"Email response",never_call|rangeof_action11|remove_of_source,"6 75 8110 2583",84106
+"Candide A. Ozan",23,24426579429,"Email RESPONSE",most_interested,"6 12 4844 5336",71033
+"Frayda P. Garrity",98,93605050633,"facebook leads",on_consideration|case1,"9 16 4379 7485",89928
+"Elyssa O. Shaughnessy",22,99448148714,"Manual registration",source_dependant28|most_interested,"2 59 1715 2372",27209
+"Tara Marge",33,41551190177,"Facebook Leads",on_consideration|form_ui344|most_interested27,"6 75 8110 2583",32329
+"Annadiane F. Rochemont",39,32396577047,"Google forms",least_interested|any_applicant,"2 15 3409 2900",16061
+"Jenn B. Oralle",1,60216672500,"MANUAL REGistration",least_interested25,"+54 7-65 6144 2341",56615
+"Nara Tacita",73,36576834720,"Email response",never_call|most_interested|apply_0_cases,"9 18 3600 8515",21239
+"Kare Y. Sherurd",36,36181983513,"google Forms",treaty|contactcenter_region3,"4 79 7224 6894",54049
+"Dael T. Thin",33,41551190177,"google Forms",call_again|on_consideration,"6 75 8110 2583",98223
+"Freddie Chrissie",114,94862162908,"MANUAL REGistration",remove_of_source13|contactcenter_region2|least_interested,"6 47 9015 3133",86596
+"Dacia Alica",46,50586609948,"facebook leads",least_interested|contactcenter_region1,"+54 7 93 1110 5727",57715
+"Kayle G. Dahlstrom",6,25377755509,"MANUAL REGistration",call_again11|contactcenter_region4|case1,"8 85 7934-8239",16882
+"Dede R. Mateo",65,87363331852,"Manual registration",techsource_29|contactcenter_region1|apply_0_cases,"4-13 7715-7618",95390
+"Christean Levan",96,85168646590,"Manual registration",source_dependant5|never_call,"4-54 8277 6141",15567
+"Winnah F. Clareta",65,33655346343,"Facebook Leads",actionable|contactcenter_region2,"2 58 7109 8928",55231
+"Kristine E. Katee",100,68349626059,"Email response",rangeof_action|rangeof_action|remove_of_source,"+54 5 11 2775 8431",74443
+"Nonnah Shama",17,90925505606,"facebook leads",case1|on_consideration3,"3 20 4442 2866",25948
+"Paule Brasca",81,39668146311,"Manual registration",special,"7-48-2638 4552",49353
+"Cicily Eisen",58,60601137852,"Email RESPONSE",apply_0_cases,"7 79 9953 6704",29199
+"Leonore P. Ramsden",42,91005957734,"Email response",contactondemand|actionpending|source_dependant,"8 45 6653 5218",26454
+"Neile Jarrid",121,40176894392,"Email RESPONSE",special13|client_only|any_applicant,"4 24 1037-5565",44014
+"Dita Polk",123,40449834566,"Manual registration",remove_of_source,"8 66-1281 3118",90623
+"Etta Ranzini",16,79552395336,"Email RESPONSE",most_interested21|least_interested4,"4 80 9227 3472",63519
+"Deeann Gromme",29,67139139371,"MANUAL REGistration",techsource_29|source_dependant18|any_applicant,"8 85 1422-3288",66709
+"Rikki Christiano",3,88524236580,"google Forms",possible_buyer|contactcenter_region2|contactcenter_region3,"4 64 6746 5169",99165
+"Cristy Selhorst",65,34115251701,"Email RESPONSE",treaty6,"5 46 1149 4026",69496
+"Laina Pigeon",18,17636839100,"facebook leads",techsource_29|most_interested,"4 76 3639 8647",68664
+"Marilyn Michelle",92,65046976842,"google Forms",form_ui344,"+54 2 13 4756 7185",40592
+"Reeva A. Colley",65,15165397905,"Facebook Leads",never_call17|least_interested,"3 33 8012 8056",41327
+"Gypsy N. Garlanda",25,24141023186,"Email response",contactondemand|source_dependant|contactcenter_region23,"3 24 4962 7088",80534
+"Elenore I. Sloane",109,50851408700,"Email RESPONSE",treaty1|possible_buyer|apply_0_cases13,"8 52 3143 9603",69626
+"Cindra Sunshine",46,94625329697,"Manual registration",remove_of_source9|call_again24|rangeof_action,"+54 6 16 7073 8054",62150
+"Evangelina A. Nikoletta",41,87591334756,"Email response",rangeof_action|apply_0_cases|any_applicant,"+54 4 69 1420-1810",62766
+"Lina Gonzales",17,50087476002,"Facebook Leads",most_interested|form_ui3445|special,"5 20 7303 2808",59526
+"Rici B. Neumeyer",52,65146970055,"MANUAL REGistration",contactondemand11|client_only|any_applicant,"+54 6 93-4348 8223",31185
+"Janeta Ewens",13,21411915797,"google Forms",actionable20,"+54 2 29 1773-9034",41468
+"Jasmin Cima",78,70293654012,"Google forms",client_only|least_interested,"3 80 2274 7421",69272
+"Esther Bartram",82,89743631606,"MANUAL REGistration",client_only18,"9 99 8017 5028",59240
+"Lilly Obaza",81,84256093789,"Manual registration",least_interested|form_ui344,"4-38 6309 5929",57438
+"Devora Lanna",1,53814538736,"MANUAL REGistration",any_applicant18|form_ui344|client_only,"+54 7 82 6758 4283",73538
+"Bryana Graves",64,19865699200,"Facebook Leads",never_call|on_consideration18|least_interested18,"5 68 9418 4269",95098
+"Bessie Bugbee",122,17278866899,"Email RESPONSE",on_consideration24|source_dependant,"9 44-6751 1995",98277
+"Gabi S. Aleksandr",75,32235716419,"google Forms",techsource_29|limit25,"9 83 7874 9400",28274
+"Margaretha T. Kleon",12,33067941568,"Email response",treaty,"+54 5 22 5333 5914",69900
+"Vernice S. Raseda",63,29199930810,"MANUAL REGistration",source_dependant7,"9 38 2122 8657",97307
+"Terese Sirotek",42,17489242498,"facebook leads",never_call|source_dependant16,"2 99 3066-8891",27305
+"Sibel O. Rotberg",61,66261248432,"google Forms",form_ui34417|apply_0_cases24|actionable27,"+54 3 76 4348-5399",97283
+"Geri B. Aida",64,32306461236,"Facebook Leads",form_ui34427,"6-38 6728 8429",48712
+"Clea Gusella",63,72458019864,"MANUAL REGistration",actionpending|case1|apply_0_cases5,"+54 6-64 5718 7313",32734
+"Liane Nava",82,44158522092,"Email response",possible_buyer12,"7 88-1192 4660",90088
+"Adey Gebelein",123,61428410705,"Google forms",rangeof_action6|contactcenter_region317|on_consideration7,"+54 4 87 3980 8722",17341
+"Ardis T. Hastings",76,53189076649,"Manual registration",never_call|possible_buyer,"7 10 4977 6048",60535
+"Leah Johannah",117,62146497579,"MANUAL REGistration",on_consideration11|client_only|actionpending,"9 95 7529 6092",55457
+"Mireielle Yonit",124,21568576885,"Facebook Leads",never_call|limit|on_consideration15,"+54 6 14-1455 5885",92340
+"Enrichetta Efthim",37,56847510120,"google Forms",most_interested,"+54 5-91 7093 3156",92350
+"Madalena Krefetz",45,78389121198,"Google forms",actionable|on_consideration|contactcenter_region117,"9 86 2605-3111",99555
+"Trudey Inglis",79,18476587768,"google Forms",form_ui3447|remove_of_source|actionable,"+54 7 86-7853 9931",89690
+"Verena E. Fortna",63,20194747505,"facebook leads",any_applicant27|techsource_29|most_interested,"7-62 6590 2876",12330
+"Peggy Quillan",119,72271614220,"Email RESPONSE",call_again16|on_consideration24|possible_buyer11,"3 62-8807 5413",23780
+"Marlena Kurr",99,45354205571,"google Forms",techsource_2910|most_interested,"6 13 7496 7403",34060
+"Amil Teddie",59,81744348221,"Google forms",treaty|contactcenter_region4|client_only,"+54 3 55-7270-8566",68830
+"Maureen S. Medwin",6,15668796949,"facebook leads",limit|actionable|techsource_29,"+54 8-24-3455 3635",77065
+"Aurie B. Philine",83,94802591513,"Email RESPONSE",contactcenter_region3|treaty,"9 39 1268-1849",47889
+"Leyla V. Malinowski",72,84999619969,"MANUAL REGistration",treaty|actionpending|contactcenter_region211,"+54 1 73 4294 8556",97346
+"Illa Faust",79,49980282204,"facebook leads",possible_buyer,"+54 3 68 6219 6396",42387
+"Fanni J. Berthold",105,77041700248,"MANUAL REGistration",source_dependant|case1,"7 64 2652 5713",41281
+"Bird Perkin",112,20527872820,"Email RESPONSE",actionable20|actionpending,"7 60 6495 3203",55094
+"Anjela Clerissa",105,49852632344,"google Forms",contactcenter_region4,"8 73 6401 2852",47185
+"Benetta Lehman",78,15951509344,"Google forms",on_consideration,"2 99 1283 4796",11459
+"Orel H. Bodi",60,84498163906,"Email response",source_dependant|treaty5|special16,"4-19 9556 4010",74505
+"Malissa Conrad",21,67806923638,"Manual registration",client_only|contactcenter_region4,"9 73 6017 3885",26276
+"Helli Terzas",13,36179694942,"google Forms",special20,"2 46 3014-5217",13831
+"Rachael Arianne",103,38869280513,"Email response",limit12|case11|actionpending6,"+54 2 31-6533 7693",87615
+"Patti C. Nightingale",95,21439070539,"google Forms",client_only|most_interested,"+54 5 48-1472 8327",32976
+"Ericha Schwarz",8,25544900532,"Manual registration",on_consideration|on_consideration,"+54 1 82-9408-4108",17998
+"Orelia M. Lockwood",47,59267278735,"Email response",possible_buyer|source_dependant|never_call,"+54 7 40 2706 7495",22721
+"Kassi G. Browne",59,84860962547,"Google forms",actionable,"9-52 5060-4149",70366
+"Dodie D. Stagg",64,32720776949,"Manual registration",call_again|client_only,"+54 6 42 2506 6916",33925
+"Kori W. Darmit",42,42108582346,"Facebook Leads",call_again|contactcenter_region2,"8 62-1536-1870",18845
+"Rozanne Duarte",42,30164441987,"Manual registration",apply_0_cases,"2 71 1067 2983",19120
+"Wendi Germayne",82,46842279582,"MANUAL REGistration",techsource_29|most_interested|contactcenter_region26,"+54 2 46 8447 9414",31328
+"Cristina Leesen",84,67131983059,"MANUAL REGistration",contactcenter_region3|treaty,"4-34 5029 1364",89081
+"Jeanelle Giddings",121,29354423219,"MANUAL REGistration",contactcenter_region113,"3-32 7022 5806",50658
+"Guenevere A. Ashman",120,44240923542,"facebook leads",actionpending11|remove_of_source19|client_only,"6 47 9430-3315",93526
+"Marissa Kyla",9,29354341931,"Google forms",actionable|never_call,"5 52-5172-4281",96966
+"Bethany Phila",72,16094325829,"MANUAL REGistration",client_only|contactcenter_region37|treaty,"1 11 9330 9152",32976
+"Gennie W. Burrows",86,27889651673,"Google forms",rangeof_action17|apply_0_cases,"8 14 8551 9552",46276
+"Selle V. Teagan",44,52531974410,"google Forms",least_interested4|techsource_29,"8 94-2445 2881",67145
+"Aida Middleton",32,12501700345,"Email response",actionable|contactcenter_region3|case1,"7-36 3708 9296",80251
+"Tonie Meier",122,41464767387,"google Forms",contactcenter_region4,"2 17 3159 4391",24059
+"Adrian H. Halfon",55,96543195736,"Email RESPONSE",actionpending28|on_consideration4|possible_buyer4,"+54 5 95 9245 5848",63746
+"Hertha M. Yetac",111,44574422887,"MANUAL REGistration",apply_0_cases28,"3 61-8427 4558",20725
+"Meridith K. Kauffman",115,86055387565,"Facebook Leads",special18|actionpending11,"+54 4 83 1820 3574",47673
+"Coriss G. Gabey",84,71002161039,"MANUAL REGistration",contactcenter_region1|rangeof_action,"3 55 9539 8501",22692
+"Sharity Asp",99,18289363382,"Manual registration",limit17|never_call5|apply_0_cases,"2 82 6432 8577",66931
+"Max G. Bud",108,59358023572,"Facebook Leads",contactcenter_region2|apply_0_cases|actionable24,"8 75 7191-2355",93826
+"Petra Cyd",81,90863355091,"MANUAL REGistration",limit|contactcenter_region1|client_only,"5 58 6734-8479",84569
+"Philippine Brieta",117,62941451504,"Manual registration",possible_buyer29,"5 12 1524-8537",79143
+"Debby Seppala",7,52420597442,"MANUAL REGistration",possible_buyer26|never_call21,"1-64-6646 1403",50580
+"Elfie D. Carlen",87,15088188418,"google Forms",remove_of_source20|contactcenter_region4,"7-18 9947 3946",74321
+"Sophronia Brott",15,73097792957,"google Forms",contactondemand|case1,"+54 8 25 1666 6594",54135
+"Tamqrah Schwitzer",32,58071549096,"MANUAL REGistration",treaty7|on_consideration,"+54 8 69-5468-4398",34357
+"Con Rayna",122,70775588624,"MANUAL REGistration",least_interested|least_interested|actionpending,"+54 5 87 5286 4845",64504
+"Raynell R. Lucho",28,33413204790,"Email RESPONSE",contactcenter_region318,"6 86-3187 2023",49503
+"Renate Horatio",11,98670992027,"google Forms",source_dependant|remove_of_source|case1,"9 36-6848 8401",69556
+"Jacqui Lewls",48,78672405878,"Email response",contactondemand,"+54 6 59 1424 5228",73547
+"Danica Lal",63,40225819208,"MANUAL REGistration",on_consideration|possible_buyer,"+54 7 31 2632 5491",11934
+"Marcela Emelia",98,96330787311,"Manual registration",contactcenter_region1|form_ui344|on_consideration,"8 89 2693 5204",62607
+"Joletta Vonnie",98,17916712823,"google Forms",case1,"1 83 7400 5541",74293
+"Theresita Kawasaki",45,26685951126,"Email response",contactondemand|contactcenter_region1,"+54 4 67 5954 4782",15398
+"Georgetta Jordanna",11,48498727183,"facebook leads",contactondemand,4-38-9537-4539,95252
+"Doll Lubow",34,52443080527,"facebook leads",actionable|client_only29,"9 61 2325 3663",90859
+"Maddy Austina",76,70399141428,"Manual registration",limit|apply_0_cases30,"+54 1-87 2062 7930",87616
+"Jennine Tilford",75,22838135052,"Manual registration",most_interested,"6 44 5269 7462",38554
+"Kirstin F. Schmitt",1,71661127667,"Facebook Leads",contactcenter_region2,"1 77 7882 2436",18845
+"Elsbeth C. Dippold",66,19619476885,"Email RESPONSE",rangeof_action|form_ui344|case1,"5 52 5301-6450",12022
+"Felipa Kleper",99,41988584687,"Email response",contactcenter_region2,"2-83 8869-9167",31580
+"Maria Lorenzana",21,95984565789,"Email RESPONSE",any_applicant|never_call|remove_of_source13,"5-73 2648 4177",35107
+"Cathlene Wallinga",85,61699389890,"google Forms",client_only,"4 83-5510 6824",48814
+"Cherri R. Halie",23,81703476886,"google Forms",any_applicant|least_interested9,"1 96 2722 1560",51685
+"Kippie Kore",4,92869850530,"google Forms",techsource_29|most_interested|apply_0_cases24,"1 15 6410 9276",99966
+"Ronica Berardo",74,89294146779,"google Forms",remove_of_source|actionpending25,"3-19 7159-7701",38080
+"Magdalen P. Erdah",53,64314251238,"Email response",techsource_29|treaty12,"7 90 6640 2812",34357
+"Martina Nuri",40,14384444057,"MANUAL REGistration",techsource_29|actionpending|remove_of_source,"+54 2 22 9909 8582",89746
+"Lilas Emalia",7,76842522090,"Manual registration",treaty|rangeof_action,"8 94 5668 4592",50496
+"Rea Lieberman",24,44922476216,"Manual registration",special21,"9 82 4227-7307",72962
+"Sherrie Alard",61,85340808020,"facebook leads",special21|rangeof_action|call_again,"+54 4 15 6514 6005",76039
+"Belva Onstad",21,95984565789,"MANUAL REGistration",form_ui344|least_interested,"5-73 2648 4177",96033
+"Pammie Hobbs",37,64474285012,"Google forms",remove_of_source,"4 84 9720 9801",37015
+"Bari Thomsen",115,36783390574,"Manual registration",contactcenter_region3|call_again|least_interested,"1-37 9760 4057",53727
+"Tiffie Berkeley",69,97936218899,"MANUAL REGistration",special|actionable|on_consideration21,"+54 7 32 9395 2589",58440
+"Sybyl C. Gratt",4,92017337142,"MANUAL REGistration",contactcenter_region2|client_only,"7 35-1093 5695",81994
+"Yelena Thorlay",108,24095535047,"Google forms",call_again|contactcenter_region3|client_only16,"5 36 1513-4981",84024
+"Elysha Wilfreda",61,55145314882,"google Forms",contactondemand16|actionpending13|apply_0_cases,"+54 6 70 2393 7594",50310
+"Kali Yates",105,91016997893,"Email response",form_ui34423,"5-91-5889 8108",72962
+"Petrina Alinna",29,39926038747,"Email RESPONSE",contactcenter_region2,"+54 5 64 5060 1454",57522
+"Nadine E. Sloatman",38,12632619982,"facebook leads",any_applicant26,"1 73 4417 7291",46807
+"Zonda D. Mathis",121,96430032845,"facebook leads",form_ui344|most_interested,"+54 7 77 3174 4022",13335
+"Bunny I. Schach",93,63928201642,"MANUAL REGistration",any_applicant|actionpending|never_call,"6-42 6056 8675",74634
+"Melita Mortimer",47,22091262606,"google Forms",actionpending|form_ui344,"5 31 8619-3333",24416
+"Bobinette Juster",57,84530917792,"facebook leads",rangeof_action|never_call|most_interested,"+54 3 76 4018-5842",36821
+"Anna Albarran",21,95984565789,"Email response",never_call21,"5-73 2648 4177",65695
+"Bird J. Hadwyn",121,28510320520,"google Forms",apply_0_cases|call_again|contactcenter_region3,8-53-1353-9016,14791
+"Reyna Teferi",125,59552140406,"MANUAL REGistration",actionable27,"1 73 8886 1794",83443
+"Aridatha Tuchman",11,94313182957,"facebook leads",techsource_29,"8 32 2577 5931",76853
+"Genna E. Kassey",79,36332739141,"MANUAL REGistration",form_ui344|apply_0_cases|actionable,"6 26 6455 4141",17041
+"Terri T. Ineslta",14,54210089670,"Google forms",contactcenter_region2,"5 16 4640 3461",99867
+"Sileas Legge",111,52469672190,"Manual registration",rangeof_action|limit,"4 93 9547 6070",48368
+"Cornie Bailey",79,36332739141,"MANUAL REGistration",actionable,"6 26 6455 4141",40100
+"Caty Garibald",90,17147300519,"google Forms",special18|contactcenter_region1,"3 21 9161 4353",37826
+"Fae Cissiee",59,41584661020,"MANUAL REGistration",case1|client_only,"2 83-2721 9459",52036
+"Melina Mollie",29,76737226683,"Manual registration",least_interested|contactondemand,"2-92 6131 7124",41380
+"Rivkah Dikmen",42,56155472779,"MANUAL REGistration",source_dependant,"7 29 3903 2556",21010
+"Johnna Benedikt",106,77536526960,"Google forms",special|actionpending,"+54 9 81 4092 3261",13335
+"Phyllis Hadleigh",50,78714487687,"Facebook Leads",most_interested,"+54 5 92-1722 4531",99998
+"Hally Sida",20,68732287970,"MANUAL REGistration",special|contactondemand,"7 75 3449 2407",99363
+"Heidie Moncear",54,63226506470,"Google forms",apply_0_cases,"+54 3 60 1998 9170",93585
+"Jerrie Sadira",81,74076586550,"facebook leads",remove_of_source|most_interested,"9 90 1993-4703",61469
+"Kim Iormina",13,37341188656,"google Forms",apply_0_cases,"5 11-4447 4606",85243
+"Mellisa B. Orrin",54,19557172387,"Google forms",form_ui344|contactcenter_region115,"8 10 9196 6911",73362
+"Sephira S. Roid",18,37706875066,"Email response",techsource_29|contactcenter_region2|form_ui344,"3 12 5960-7982",32346
+"Brandy Agostino",26,84476324256,"google Forms",treaty4|contactcenter_region2|techsource_293,"2 13 6404 4016",19294
+"Jesse Chinua",89,76764558215,"facebook leads",contactondemand26,"6 49 8191 1908",59239
+"Priscilla Coulter",62,68248470756,"Email RESPONSE",least_interested1|contactcenter_region329|on_consideration,"3 32 7492 6952",43088
+"Trixi Larry",84,17532976799,"Email response",client_only|special8|apply_0_cases,"2 69 1162 3023",96543
+"Gypsy Laktasic",70,78931681720,"MANUAL REGistration",possible_buyer2|actionpending,"8-25 6248 9958",86784
+"Andriette Kenn",83,50671503082,"Email response",source_dependant,"+54 9 34 1740-6184",26742
+"Ginelle Federica",100,48565354768,"Email response",remove_of_source|contactcenter_region4,"6 95 4451 4101",71589
+"Adelina Rai",72,26772821099,"Email RESPONSE",contactcenter_region2,"+54 8 15 9804 2609",53867
+"Katya Gaspar",111,15091588548,"Manual registration",contactondemand7|special|source_dependant8,"4 12 4421 9250",65887
+"Othelia A. Eliathan",85,28954903931,"Email response",limit|special|contactcenter_region4,"6 64 2392-4893",65829
+"Elva T. Eleanor",22,40146799125,"Email RESPONSE",contactcenter_region2|any_applicant|contactcenter_region4,"+54 6-83 1485-5967",91432
+"Lilias D. Adamo",25,54005311218,"google Forms",contactcenter_region3|call_again|contactcenter_region2,"4 76 8945 5182",26871
+"Bev K. Sass",1,48960371469,"Google forms",contactcenter_region1,"7-64-5363 1139",76479
+"Cherlyn Jeanna",118,35641508069,"google Forms",rangeof_action|possible_buyer20,"4 46-8421 8157",86227
+"Eunice K. Laws",111,91446977328,"Google forms",least_interested,"3 78-1886 6133",14832
+"Hannie Weatherley",75,11705678193,"Email response",contactcenter_region3|rangeof_action,"+54 9 89-7820 6438",36745
+"Ethelind Aigneis",19,26938112988,"Manual registration",possible_buyer|call_again2,"1 64 4725 5071",28012
+"Datha W. Lathrop",113,36221870275,"Email response",form_ui344|least_interested,"8 13-1603 7044",68544
+"Lorain Eadwina",31,96606780549,"Google forms",treaty|most_interested,"6 90 8774 9971",39652
+"Sherill F. Polly",119,71452106248,"Email RESPONSE",special|contactcenter_region4|contactcenter_region2,"2 88 1350 3353",32909
+"Cosette R. Zulch",33,43269675510,"google Forms",actionpending|limit|any_applicant,"2 27 6619 1857",53783
+"Ruthe Chelsae",64,53824889645,"Email RESPONSE",possible_buyer,"9 54 9840 8860",95889
+"Suzann T. Hennie",76,46007094364,"Manual registration",rangeof_action1|techsource_29,"1 37 7360-4373",63800
+"Jacqui Loree",70,76991306252,"MANUAL REGistration",contactcenter_region427|special,"+54 1 89-8963 4487",45613
+"Vannie T. Petes",103,88868731971,"Manual registration",techsource_29,"+54 5-79 2603-2882",25303
+"Stepha Mariken",117,74557589559,"google Forms",apply_0_cases|client_only,"4 45-6427 1766",45684
+"Keelia M. Wyler",20,33069078535,"Email response",client_only|call_again,"2-66 9974 3449",88713
+"Aubrette H. Lietman",3,60947490155,"Manual registration",on_consideration15,"+54 9 87 6113 2596",42966
+"Electra Nobe",25,65242577629,"Email RESPONSE",most_interested|contactondemand,"8 42 6354 8247",71790
+"Claudia D. Rudman",34,83787875806,"Email response",contactcenter_region3,"5 48-6837 3309",96318
+"Lotty Albertine",111,96324861406,"google Forms",possible_buyer,"6 69 8825-3066",67361
+"Tatum M. Kennedy",84,28198028003,"MANUAL REGistration",apply_0_cases|limit5,"1 88 9116 4848",19009
+"Grethel C. Delilah",100,36603994054,"MANUAL REGistration",source_dependant,"+54 7 46 2481 9707",57234
+"Adela R. Frederic",42,77634846519,"MANUAL REGistration",never_call|on_consideration|actionable27,"+54 1 98 6825 5031",22989
+"Mirna Buehler",24,27416236580,"Email RESPONSE",least_interested|contactcenter_region2|apply_0_cases,"9 41 7978 7966",44593
+"Jonell Melisenda",121,25897508352,"MANUAL REGistration",contactcenter_region3,"+54 2-42 7900 9627",69811
+"Rania A. Julian",111,32855559003,"Email RESPONSE",call_again28,"+54 7 46-9366 8792",49541
+"Matilde Brana",1,77619798548,"Email RESPONSE",remove_of_source|most_interested,"+54 5 60 7188 3647",85802
+"Jammie B. Sherwood",109,61822785266,"Email RESPONSE",techsource_2914|contactcenter_region3,"+54 7-25 2348-4100",98601
+"Dalia Courcy",63,28933433207,"Facebook Leads",possible_buyer|on_consideration|most_interested3,"3 41 9429 2405",76322
+"Minette H. Pierette",55,99086147049,"Manual registration",client_only,"1 85 2445 1282",95579
+"Manda Michey",46,70642016838,"MANUAL REGistration",least_interested|contactcenter_region3|call_again,"+54 8 30 4566-4298",84857
+"Wally C. Gold",116,21656193178,"Email response",any_applicant23|any_applicant,"3 88 2744 6715",95913
+"Antonietta C. Sabir",21,77426024731,"google Forms",case17|special9,"+54 6 88 3538 1004",65616
+"Kirsteni Joshi",65,24728129850,"Facebook Leads",contactcenter_region328|techsource_29|limit,"7 77-8391-2598",32398
+"Simonne E. Hirsh",7,73513241651,"Manual registration",techsource_29,"4 87 1089 3805",51313
+"Kelly V. Hooper",25,55375412221,"MANUAL REGistration",contactcenter_region225,"+54 3 99 7519 8599",31463
+"Halette Tito",50,62337775743,"Google forms",contactondemand24,"7 31 1787-6988",54745
+"Sibelle Kaplan",53,17889983195,"facebook leads",remove_of_source|contactcenter_region2,"5 16 7257 3695",18396
+"Heidie T. Goss",33,96232959468,"MANUAL REGistration",call_again|actionable|contactcenter_region1,"+54 1 75 3566 6127",84217
+"Valene Alyse",101,71221559196,"Email response",least_interested27|source_dependant28|on_consideration18,"+54 6 17 9126 4802",17869
+"Chanda O. Stanhope",116,85654578907,"facebook leads",never_call7|remove_of_source|never_call,"1 76 5931 8651",81951
+"Sissy Sharia",58,57696418797,"Facebook Leads",never_call,"+54 7 79 2470 1865",79087
+"Ashlen Crescentia",119,85171342793,"Email RESPONSE",actionable,"+54 5-89 4291 7669",88035
+"Linnet Gamal",113,61728730242,"Facebook Leads",rangeof_action27|actionpending|apply_0_cases2,"7 84 6436 6416",41880
+"Anabal Aldwon",116,64622996702,"Email RESPONSE",rangeof_action22,"8 99-1788 6896",28534
+"Brigida Chesney",119,71452106248,"Email response",apply_0_cases22|special|contactcenter_region44,"2 88 1350 3353",45023
+"Thomasin J. Jeannine",15,98865373139,"facebook leads",contactondemand,"5 68 2524 6787",75610
+"Andee Bobbee",117,87165164425,"MANUAL REGistration",possible_buyer|any_applicant26|rangeof_action,"6-89 1823 3158",16031
+"Katerine Keri",118,13733235832,"google Forms",special,"1 57-7871 3094",32106
+"Eleni Stanton",15,39800535864,"google Forms",least_interested29|contactcenter_region412|contactcenter_region1,"+54 8 27 1027 3360",24357
+"Rozele Worden",32,26633707029,"facebook leads",actionpending14|case1,"+54 8 26-3108-9089",24737
+"Rosalinda R. Luke",75,56940269353,"Google forms",source_dependant13,"+54 7-59 9183 4525",27576
+"Dasha Ingvar",117,68851681843,"Google forms",any_applicant|case1,"+54 2 51-3083 1550",10642
+"Judy T. Marlea",45,68750513375,"Manual registration",apply_0_cases|special|on_consideration,"6 95 9991 2226",32205
+"Maighdiln Katya",13,89558677442,"Email RESPONSE",on_consideration30|contactcenter_region4|apply_0_cases9,"8 64-8197 5001",24231
+"Tricia L. Francesca",122,29216658287,"Email RESPONSE",techsource_2913,"6-94 8191 7031",15082
+"Gladi Romelda",75,73437847728,"Google forms",any_applicant,"2 75 6385 1392",27346
+"Romola L. Krall",79,87205633105,"Google forms",any_applicant22|special|actionable,"2-11 9171 8497",99515
+"Georgia T. Proulx",13,89558677442,"Facebook Leads",client_only|source_dependant,"8 64-8197 5001",59032
+"Lucy C. Roda",62,62411692936,"google Forms",most_interested6|never_call|contactcenter_region1,"9-83 8000-8610",99813
+"Freida A. Lucita",10,45293920867,"Google forms",least_interested27,"+54 1 59-8832 7175",85774
+"Nanine Kristoffer",80,45991312110,"Facebook Leads",contactcenter_region425|never_call,"6 95-4770-2945",24482
+"Carry T. Crescentia",104,84841310728,"google Forms",contactcenter_region4|treaty30,"+54 5 45 1279 2743",74098
+"Ema Babby",23,38370799880,"facebook leads",contactcenter_region3|contactcenter_region2|any_applicant3,"4 99 6846 7509",47479
+"Tamara N. Dulsea",84,55820067495,"google Forms",most_interested13,"2 35 1985 8125",54498
+"Arleyne Xanthus",24,22174111931,"MANUAL REGistration",treaty2|contactcenter_region2|form_ui344,"+54 3-23 8701 4964",44056
+"Mathilde Barrington",2,73174364948,"Email response",least_interested4|on_consideration,"6 18-5532-7963",18360
+"Jorry B. Rivalee",114,80243286987,"google Forms",special,"+54 3 32-6505 2565",17382
+"Judie Furgeson",3,65519271784,"Email response",techsource_29,"6 76 3711 3533",38277
+"Augustina D. Tatiana",120,51506400524,"Facebook Leads",most_interested,"7 99-7536 1170",32809
+"Wilma Longfellow",14,46014807927,"Email response",least_interested|least_interested|actionpending,"+54 9 22 7273-5470",70521
+"Tillie Tennes",109,60530539011,"Facebook Leads",contactcenter_region319|form_ui344|least_interested,"5 16 6037 1082",57393
+"Teresita Ludlow",22,23436673167,"Email response",actionable|special10|most_interested6,"8 44-4394-4659",21544
+"Twila E. Martynne",83,65994353268,"Email RESPONSE",client_only,"9 70 8774 3509",96895
+"Sharla Roee",13,89558677442,"MANUAL REGistration",on_consideration,"8 64-8197 5001",89953
+"Dinny W. Alithea",18,58216887307,"facebook leads",apply_0_cases,"5 39 9574 9136",34846
+"Belita E. Friede",64,64976193480,"Email response",actionable|call_again12,"6 90 1101 1880",13818
+"Lind M. Telford",55,56928620360,"Email RESPONSE",never_call11|actionable7|contactcenter_region3,"8-15 7497 1521",77467
+"Nelia Reddy",118,74342624714,"Google forms",call_again22,"+54 7-72 7436 9237",44771
+"Michal Olshausen",27,40049103210,"facebook leads",least_interested,"7 84 3721 5228",73014
+"Meryl Azaria",118,50054006544,"facebook leads",actionable15,"+54 3 30 5195 6569",14479
+"Kyrstin Tal",84,46798503409,"Facebook Leads",treaty22|client_only|contactcenter_region4,"7 70 7033 6118",30723
+"Courtney Len",119,39919683717,"facebook leads",contactondemand3|remove_of_source,"4 66 5469 4334",10765
+"Geri Julius",32,91334037002,"google Forms",case1|possible_buyer16,"8 50 2848 9954",99565
+"Abra Dew",108,33585322702,"facebook leads",never_call|techsource_29,"9-66-6098 3200",77579
+"Elfie R. Brass",56,50756850224,"Facebook Leads",on_consideration|contactcenter_region118,"8 52 2988 7078",23887
+"Olivie S. Theresa",118,44665637986,"Facebook Leads",actionable28|contactcenter_region120|techsource_29,"4 89 8602 5612",60624
+"Clari T. Thurnau",122,33529092100,"Manual registration",rangeof_action,"6 89 8455 2873",58869
+"Joby Monteith",47,75975535237,"facebook leads",case1|most_interested,"1 46 1896 3193",98245
+"Amelia Dermott",10,59176602230,"Facebook Leads",actionable21|never_call14|techsource_29,"1 92 7252-1523",87587
+"Shannon Estevan",39,79503378320,"Manual registration",never_call,"2-78 8224 3748",89501
+"Tiffani B. Rani",124,63856062068,"Email RESPONSE",remove_of_source,"6 14 6380 1918",62590
+"Carline Roslyn",51,41370436359,"MANUAL REGistration",case1|treaty|case16,"+54 4 25 9532-3070",71322
+"Vally Engleman",21,12162502881,"facebook leads",case122|apply_0_cases|any_applicant,"4 63 4896 7757",83900
+"Theresina Koosis",16,18604935562,"MANUAL REGistration",on_consideration|any_applicant3|limit4,"+54 2 30-2055 7501",50311
+"Melinde Parrie",103,73411040538,"Facebook Leads",most_interested|call_again|never_call,"8 17 9843 6080",33702
+"Maryjane Amr",32,83806364442,"facebook leads",contactcenter_region3|limit|rangeof_action,"+54 8 42 6494-4619",51261
+"Nancey F. Joyann",100,57714541718,"google Forms",least_interested,"7 75 8144-8059",90552
+"Sheena C. Shah",45,41634355971,"Facebook Leads",contactcenter_region426|special|rangeof_action,"+54 9 43 7458 8927",44065
+"Roberta Bremer",13,89558677442,"google Forms",any_applicant,"8 64-8197 5001",21850
+"Lanny Bernete",100,64583013926,"Email RESPONSE",least_interested|remove_of_source,"+54 4 30 4282 3895",50604
+"Valaree K. Kay",38,79352519628,"Google forms",on_consideration,"+54 5-18-9299 8754",84146
+"Anett R. McArthur",36,90183691938,"google Forms",treaty|on_consideration|remove_of_source,"8 73 1542 6108",82683
+"Winona Ardene",74,45573231586,"Google forms",actionpending13|call_again1|contactcenter_region4,"5 28 3379 4843",93539
+"Barbey Gabriellia",33,67148846175,"Email response",possible_buyer27|form_ui3443,"+54 2 70 6017 7157",77483
+"Leshia Brigham",101,49813009188,"Manual registration",on_consideration16,"+54 1 73 1749 8245",93285
+"Brittaney Obe",30,31899045510,"facebook leads",least_interested16,"1 56 8091-6562",18208
+"Lucky Lenette",121,50834126130,"Facebook Leads",contactcenter_region1,"+54 5 44 9955 5262",38595
+"Lani Marte",12,75406164670,"Email RESPONSE",actionpending|any_applicant,"7-83 1385 4571",85123
+"Cosette Oneal",98,76161938617,"MANUAL REGistration",call_again|contactcenter_region314|contactondemand6,"2 20-6323 3047",93285
+"Ernaline S. Ronny",59,40103298292,"Email response",call_again|case1,"4 64 2359 3600",99764
+"Kendra Eulalie",55,94914518492,"Google forms",special2,"4 18 4493 5083",90508
+"Coraline C. Terrel",61,51948309844,"Google forms",any_applicant|contactondemand,"7 57 2381 3647",23173
+"Adrea Wilhelmine",82,46606190170,"Google forms",treaty|rangeof_action|limit,"7 14 9140 7670",24002
+"Elka T. Tarr",18,87352259021,"google Forms",case18|contactcenter_region3|apply_0_cases,"+54 5 76 8193 4127",19500
+"Doreen Perkoff",30,62146897722,"facebook leads",remove_of_source|special9,"+54 9 27 9014 4498",48382
+"Sharline Margret",43,97501933289,"Email response",source_dependant|treaty,"+54 7 36-4481 6614",97732
+"Emilie W. Bashuk",13,77238858855,"Facebook Leads",actionpending,"8 76 9095 6694",67977
+"Brenda S. Shaver",49,27720835016,"Manual registration",remove_of_source21|special19,"9 51 2068 6324",31698
+"Kial Burgess",70,66206624581,"Facebook Leads",limit|form_ui344,"9 86 3507 9959",35817
+"Gayle Hoban",62,34399777198,"google Forms",most_interested,"7 85 7898 9797",26414
+"Lurline O. Aphra",5,45231560834,"MANUAL REGistration",on_consideration|actionpending|contactcenter_region2,"2 97 6801-4978",68228
+"Xena H. Nieberg",12,43862884280,"google Forms",rangeof_action|actionpending|least_interested,"7-62 7972 2790",76066
+"Serena Caylor",90,97023415725,"Email RESPONSE",apply_0_cases11|source_dependant7|on_consideration30,"5 55-3651 6559",60550
+"Ceil G. Brewster",102,61159461585,"Email response",call_again|contactcenter_region3|never_call,"7-26 4775 5567",83155
+"Hinda Perry",7,85134623589,"facebook leads",actionable|techsource_29|any_applicant25,"8 99-6968 4727",87894
+"Aggi Shaughnessy",78,63595804948,"Manual registration",case1,"3 88-2918 9302",78926
+"Koralle Jacquenette",61,80703521622,"Email RESPONSE",client_only,"9 52 7237 5372",64240
+"Steffi A. Moorefield",2,94426405098,"Google forms",on_consideration6|contactcenter_region1,"2 76 1740-3752",90641
+"Catherin Winifield",35,24504504038,"Google forms",any_applicant,"+54 7-21 6607 7870",59443
+"Catlin Tai",90,87487012187,"Google forms",contactcenter_region1|contactcenter_region2,"6 57 8491 5590",41650
+"Corene Foskett",59,53500690425,"Manual registration",call_again2|least_interested|rangeof_action,"1 45 4137 1152",89012
+"Merilee C. Lai",66,99891033790,"Email RESPONSE",contactcenter_region3|call_again,"+54 3 78 1515 2701",17504
+"Jacquie E. Eliathan",21,97185659632,"Facebook Leads",least_interested24|rangeof_action25|any_applicant,"1 45 7910 1460",69800
+"Elga H. Gassman",75,60930387484,"MANUAL REGistration",limit|special15|on_consideration4,"9 86 9247 4643",48376
+"Malinda X. Verity",45,35007966637,"Google forms",contactcenter_region3,"2-86 8150 6738",36227
+"Harli D. Gati",73,36831857440,"Email RESPONSE",contactcenter_region1,"8-91 4867 7952",15266
+"Brita Penn",42,83831948960,"facebook leads",contactcenter_region1|actionpending2|any_applicant20,"4 99-8165 7430",82091
+"Pearle Blinnie",119,46550236033,"Manual registration",call_again,"3 42-2409-8674",82656
+"Ida Egerton",15,48262245875,"Google forms",techsource_29|never_call,"+54 6-56 6743 7212",66684
+"Leora Vogel",32,45788940988,"google Forms",limit11|most_interested7|remove_of_source,"3 10 1954 9172",80263
+"Rosalynd Sonnie",124,40811510753,"Email response",least_interested3|client_only,"9 59 3398 1496",24851
+"Inga Geanine",82,49116834474,"Facebook Leads",rangeof_action18|contactcenter_region4|case11,"+54 2 99 2756 3085",90775
+"Kettie D. Dremann",13,58312522171,"MANUAL REGistration",contactcenter_region1,"+54 5 32-9192 1078",94890
+"Raphaela Thirza",90,89595045144,"Facebook Leads",client_only|most_interested,"3-67 8851-1974",27613
+"Carry Merci",43,61301894669,"Manual registration",any_applicant|least_interested,"8 93 9067-8863",83051
+"Ashlee Lin",45,11566757325,"Google forms",contactondemand|contactcenter_region429|never_call,"2-84 9914 1332",71985
+"Tilly Wei",13,32731764013,"Facebook Leads",form_ui344|client_only,"9 70 1444-5974",98234
+"Mariel L. Trixi",107,73277353095,"Email RESPONSE",actionpending|form_ui344|contactondemand,"4 19 4416 7136",43087
+"Chantal Jacoba",87,56860641864,"MANUAL REGistration",remove_of_source|form_ui344|limit,"+54 5-13 6352-5690",68973
+"Bamby Kostival",12,37982173179,"Email response",never_call,"9 81 8658 6988",50409
+"Bill C. Gratia",97,96140532762,"Manual registration",contactcenter_region3|source_dependant,"2 30 5280-8941",11531
+"Zorine K. Alexandro",24,66507518582,"Facebook Leads",on_consideration|case1,"+54 4-13 6044 5501",35664
+"Bertina S. Socha",105,44248739352,"MANUAL REGistration",special26|techsource_2910,"+54 3-12 3617 9797",11575
+"Bea Nodarse",72,98801566080,"facebook leads",rangeof_action|special23|treaty,"+54 9-26 8265 1431",80846
+"Lorilyn Chilson",123,80047938063,"Email response",most_interested|contactcenter_region2|apply_0_cases,"2 37 7693 9327",91508
+"Nanni Benji",116,72894366126,"MANUAL REGistration",actionpending23,"1 72-4392 5745",98998
+"Helsa Hubie",38,79352519628,"Email RESPONSE",contactcenter_region4,"+54 5-18-9299 8754",87398
+"Cyndy Hornstein",77,12443121152,"Email RESPONSE",rangeof_action5,"9 62 4915 2682",84376
+"Wandis Urbana",45,62935072656,"google Forms",apply_0_cases,"7 75 9865-9088",99000
+"Emlynn Alidis",65,22973670514,"MANUAL REGistration",on_consideration30|possible_buyer17,"+54 2 56 2747 5727",67789
+"Cynthea Yvette",18,24141521913,"Google forms",actionable|most_interested,"+54 2 15-5063 2676",31163
+"Jannel Wilbur",105,30825433795,"facebook leads",possible_buyer|apply_0_cases28|apply_0_cases,"1 77-9815 1825",17752
+"Martita G. Berga",1,83244459680,"Email response",contactcenter_region320|remove_of_source,"5-97 9963 4916",34011
+"Nicki B. Uwton",78,41851756869,"Facebook Leads",least_interested|contactcenter_region48|contactcenter_region1,"6-30-7254 2018",15793
+"Raeann E. Porta",79,21272426408,"Email RESPONSE",source_dependant2|techsource_2924,"8-29 3807 6643",40332
+"Carey L. Lauryn",108,74952705371,"Google forms",actionable|source_dependant,"7 54 3443 4001",83478
+"Darci Alderman",62,51999150286,"Google forms",remove_of_source|on_consideration|never_call21,"1 97 8523 7465",48660
+"Jacqui Broadbent",118,42591292147,"Email RESPONSE",actionpending2|form_ui344,"+54 8-68-4339 4214",67860
+"Ada Feodora",71,19610070044,"google Forms",contactcenter_region44|most_interested|techsource_294,"7 67 4219 4640",72068
+"Vivyan E. Colby",119,11199777496,"MANUAL REGistration",contactcenter_region17|least_interested,"8-29-1824 6549",92517
+"Becki I. Martino",69,27957573901,"Google forms",on_consideration|never_call|actionable22,"4 65-5133 8816",58921
+"Cordey Symons",52,15349030788,"Email RESPONSE",remove_of_source|rangeof_action|least_interested,"3 24 3223 9991",62382
+"Mabel N. Sachiko",17,93378992730,"facebook leads",client_only,"2 95 3944 1601",59052
+"Harli Camile",35,60652623658,"Manual registration",possible_buyer|contactcenter_region2,"+54 2 70-9116 6169",56267
+"Hildegarde H. Molly",65,24199365734,"MANUAL REGistration",source_dependant7|apply_0_cases,"6 67 1622 8789",84351
+"Corey R. Schroer",81,14700576435,"MANUAL REGistration",limit16|form_ui344|actionpending,"4 32 4115-2398",27262
+"Evey Polik",18,54322855777,"Email RESPONSE",any_applicant1|contactcenter_region2|any_applicant,"2 97 2230 4937",78583
+"Catarina B. Palm",1,84798217412,"Email RESPONSE",remove_of_source|limit|treaty,"+54 3 17 7762 9230",46018
+"Glennie A. Montano",109,43701447853,"Manual registration",contactondemand5,"9 17 1180 3287",24578
+"Donielle S. Eldin",54,57064227553,"Manual registration",client_only|actionable17,"1 56 4102-6452",18955
+"Ronda I. Jenni",39,60151298565,"Google forms",contactcenter_region2|form_ui344,"9-19 3729 3950",40158
+"Tommi C. Whalen",87,81582419808,"Email RESPONSE",treaty|never_call,"2 45 1798 8580",54042
+"Juliet Cerallua",42,73870178456,"Facebook Leads",contactcenter_region114,"4 62 8940-8060",49333
+"Benedicta H. Quentin",61,45815452963,"Email response",any_applicant|contactcenter_region4|contactcenter_region1,"7 36-5213 1253",64387
+"Eda Nenney",4,43127452606,"Manual registration",contactcenter_region1|limit,"+54 4 62 8257 9261",56732
+"Christine Ramburt",66,83944437849,"Google forms",limit26|least_interested25,"5 95 3892 5214",74127
+"Venita Ethelyn",30,20650257711,"facebook leads",contactcenter_region2|treaty,"9-55 6440 9494",85455
+"Lia Gaulin",19,96179269390,"google Forms",contactcenter_region4,"5 95 6510 2132",22474
+"Betti Carri",60,16952704361,"Google forms",contactondemand|contactcenter_region16|contactcenter_region31,"+54 4-19 2363-4678",10783
+"Terza D. Wrench",79,45327304628,"Manual registration",actionpending,"8 76 9869 2717",94788
+"Candace S. Douville",11,74463078886,"Google forms",client_only|contactondemand|rangeof_action,"8-87 5835 2410",63991
+"Hanny Robena",79,52159098671,"Email response",contactcenter_region3|apply_0_cases2|special,"6 46 5898-7918",50869
+"Josefa Damiani",13,79227343447,"Email response",most_interested,"+54 1 51 5301 3484",56574
+"Oralia Sisson",121,15422543205,"facebook leads",apply_0_cases|contactcenter_region1,"+54 2 37-8604 8639",34442
+"Gretel D. Foskett",83,26793015933,"Email response",never_call|case1|rangeof_action,"3-94 9205 3740",15991
+"Lishe Gibb",76,68762391679,"google Forms",call_again,"1 19 7028-7017",67120
+"Erma A. Valley",112,15905489436,"Email response",remove_of_source,"+54 9 85 2599 8794",44120
+"Jena E. Kanter",24,23808611908,"Google forms",on_consideration,"2 31 9156 7860",85522
+"Papagena E. Swirsky",68,97288828793,"MANUAL REGistration",never_call|possible_buyer21,"8 72 6400 4162",11340
+"Josey Alecia",45,15580205820,"Google forms",case128|actionable,"7 46-9312 9126",58749
+"Marysa P. Ash",6,58278972596,"Google forms",any_applicant2|contactcenter_region2,"3 66 6066 2826",64350
+"Dorian D. Wolfort",34,36192152978,"google Forms",least_interested|contactcenter_region210|form_ui3442,"2 34-2873 2665",29419
+"Alyssa S. Jacobba",61,12736900734,"Email response",source_dependant18|client_only|form_ui34428,"2 43 7922 9883",64989
+"Alyss Ferd",72,47091034444,"facebook leads",case1|limit|client_only,"4-87-4277 6129",61013
+"Lindi Jahdai",107,41374928931,"Email RESPONSE",call_again|form_ui3441,"+54 3 66 5847 5397",55231
+"Sena Kaufman",51,62780025087,"Email RESPONSE",any_applicant|possible_buyer3,"7 60 2557 1473",49516
+"Doria I. Malynda",47,48821763375,"Email response",techsource_29|rangeof_action,"1-96 7468 1199",70393
+"Violetta Ketchum",73,37760273680,"Google forms",on_consideration|form_ui344,"9 82 1252-1903",95215
+"Margit Lewes",75,63213982565,"Email RESPONSE",most_interested|rangeof_action23|special,"+54 4 49 6212 7936",58233
+"Corabella C. Fauch",82,30053406285,"google Forms",remove_of_source|most_interested,"2 90-4134 9776",78079
+"Rivalee Renard",124,50494926171,"Google forms",on_consideration|any_applicant|special23,"7 75 3430-4188",12821
+"Antonetta S. Derwon",115,61191936158,"Facebook Leads",remove_of_source,"+54 9-93 6809 9501",12998
+"Bernadina Rudin",38,79352519628,"MANUAL REGistration",contactcenter_region312|contactcenter_region1|source_dependant21,"+54 5-18-9299 8754",86775
+"Feodora R. Recha",62,99774917695,"Email response",source_dependant7,"2 76 5683-2048",63055
+"Halimeda H. Madai",81,76735029248,"Google forms",contactondemand,"6 20 6737 9329",51192
+"Clementina L. Jyoti",82,13574719889,"facebook leads",client_only|least_interested,"6 80-4298 1997",22976
+"Anett A. Lannie",118,89940734244,"Email RESPONSE",any_applicant|source_dependant,"+54 5 57 6950 4430",91284
+"Alvera Garek",62,30841729588,"Google forms",rangeof_action9|source_dependant|rangeof_action,"3 76 2107 1185",23717
+"Constance Kristi",44,89750055547,"Google forms",actionable,"9 24 3421 1669",47501
+"Letty Maryann",44,12086169413,"Facebook Leads",actionable28|call_again18|client_only,"+54 7 99 5696 3699",42923
+"Erina J. Mossberg",78,38291602025,"Email response",contactcenter_region4|contactcenter_region1|on_consideration26,"3 84 5329 4633",72823
+"Gipsy Reneta",41,47837165756,"Facebook Leads",client_only|any_applicant|client_only,"+54 5-24 1437 1066",20036
+"Ginnifer Chaney",111,22300498613,"MANUAL REGistration",possible_buyer|any_applicant,"8 61 9510 1606",26138
+"Cherey B. Nate",65,11616589849,"Google forms",techsource_29,"3 16 5962 8431",30529
+"Modestia Emmalynne",109,38947351857,"Email response",form_ui3447|never_call,"4 53 5630 9320",60418
+"Kalila M. Ameline",47,45555324138,"Manual registration",most_interested|actionpending22|contactcenter_region3,"9 41 9014 5297",45080
+"Sandi H. Steffie",28,39848956997,"Email response",limit|client_only23|contactcenter_region13,"+54 5 56 6615 6944",81690
+"Sharia B. Massarelli",74,55319990940,"Email RESPONSE",form_ui34429,"1 18-9094-4959",27873
+"Jennine MacKay",66,35753848827,"MANUAL REGistration",contactcenter_region15|apply_0_cases|limit4,"7-16 9355-5895",86989
+"Roana Sachiko",59,97084268770,"google Forms",rangeof_action|contactcenter_region3|never_call,"+54 4-91 8720-2839",80723
+"Catarina Nesta",71,43771514317,"Email response",call_again30,"5 94-1324 6266",43266
+"George H. Dulla",22,70406735864,"MANUAL REGistration",remove_of_source1,"3 94 3670 3963",60214
+"Emili Gerdi",103,88420609599,"Email response",most_interested|call_again,"8-67 3376 4071",27479
+"Lanae Hindu",18,78487388595,"MANUAL REGistration",form_ui344|remove_of_source,"8-65 2979 5017",83426
+"Tana Hoy",116,86738671733,"Google forms",actionable|apply_0_cases,"3 15 2767 4933",88327
+"Jeanne Perry",123,85089159858,"google Forms",special11,"+54 9 49 7178 7884",62478
+"Corette Charlie",85,45492683555,"MANUAL REGistration",treaty22|special|techsource_2922,"+54 9 41 9539 9674",95171
+"Roselle W. Haymes",110,87417486396,"Facebook Leads",any_applicant,"2 35 5949 5461",58688
+"Melisandra F. Enos",37,54907126105,"Email response",least_interested23|contactondemand|contactcenter_region4,"1 28 8158 2973",92985
+"Aurelea Leonor",6,53070519595,"MANUAL REGistration",actionable|contactcenter_region3|on_consideration,"3 19 1811 4293",76302
+"Donia Tomlin",7,29653949638,"Email response",client_only|any_applicant,"7 86 2268 5021",77957
+"Kirsti Norita",43,87603900250,"Google forms",contactondemand,"8 72 4882-8704",27609
+"Gabrielle Sherye",124,98041271112,"google Forms",contactcenter_region23,"7 80 8980-7755",98091
+"Joanne Craw",88,31275163870,"facebook leads",special|any_applicant,"6 55 7740-3922",25217
+"Cristin Tronna",70,24359166900,"google Forms",actionable|special29,"8 25 7846 3901",74572
+"Yasmin Emmer",38,79352519628,"google Forms",limit|remove_of_source,"+54 5-18-9299 8754",27104
+"Marsha R. Stine",109,81787514445,"Manual registration",rangeof_action|remove_of_source19,"8-40 1641 9776",88198
+"Rici A. Theo",76,81275392442,"MANUAL REGistration",contactcenter_region4|least_interested25,"7 45 1119 3559",74572
+"Kelsy Seiter",114,92426109278,"Email response",contactcenter_region321|limit,"6 48 5372-4648",10008
+"Pierette F. Adur",40,50401602733,"Email RESPONSE",techsource_2914,"5 56-5063 1118",34690
+"Yelena H. Balthazar",5,36040691486,"google Forms",limit,"6 63 8441 6699",70255
+"Martina Sheeb",21,84397648105,"Facebook Leads",contactcenter_region211|contactcenter_region23|form_ui344,"+54 2 94 4124 6558",89855
+"Gaylene Huldah",118,30756196374,"Email RESPONSE",contactcenter_region3,"+54 6 14 6379-6085",53860
+"Billie Schaper",17,87604815466,"facebook leads",contactcenter_region2,"2 14 6361 8684",93690
+"Mellicent Lola",112,22885035065,"Google forms",actionable|remove_of_source21|apply_0_cases,"2-48 9122 2632",69605
+"Renae Nichols",109,81787514445,"google Forms",rangeof_action|on_consideration|on_consideration,"8-40 1641 9776",13017
+"Darb Harrow",110,84208685329,"facebook leads",call_again,"5-69-2837 4590",18289
+"Cristen S. Burty",117,88442589948,"Facebook Leads",never_call|remove_of_source|contactondemand,"+54 6 43 6042 3505",19431
+"Calla Hollah",62,79432433864,"facebook leads",contactcenter_region4,"+54 7 63 7962 9759",99371
+"Vittoria E. Hulda",79,47293393085,"Google forms",any_applicant|special,"7 75 5546-3656",99676
+"Cherilynn Pul",94,15640414037,"Manual registration",rangeof_action|least_interested7|most_interested,"9 37 9635-8839",93103
+"Constanta Gine",12,53049578851,"Manual registration",actionpending8|never_call,"2 83 2333 3644",64914
+"Olva Saunders",114,25634727718,"google Forms",contactcenter_region2|contactcenter_region2,"7 42-9935 1280",74904
+"Siusan Cochrane",12,98754805032,"facebook leads",call_again29,"+54 3 75 9444-1842",83568
+"Doloritas Laddie",96,18135057558,"google Forms",contactcenter_region3|least_interested|call_again,"6 63 1829 7864",90863
+"Rica D. Panaggio",32,41318812352,"Email response",source_dependant,"+54 7 29 6506 2821",94837
+"Blithe Disario",80,29425235941,"Manual registration",apply_0_cases,"7 66-8174 6919",87992
+"Marge R. Ros",32,16137584482,"google Forms",techsource_2914,"+54 9-55 2545 4197",66542
+"Fionna Winwaloe",21,84996731708,"facebook leads",least_interested16|treaty18|rangeof_action15,"+54 8 15 5667 5191",75993
+"Suzi Rhee",28,16586751254,"google Forms",contactcenter_region3|form_ui34425|on_consideration10,"4 66 9710 4794",92832
+"Joellyn L. Tamarah",11,77368270668,"Google forms",contactcenter_region3|contactcenter_region210|client_only,"4 52 7725 8276",44259
+"Flss Auburta",12,96494187212,"Facebook Leads",limit,"+54 8 49 5098 7250",30310
+"Magdalen F. Haase",49,94148300088,"google Forms",any_applicant|possible_buyer,"1 98 1249 1566",94517
+"Easter Mahala",23,67700150025,"Email RESPONSE",contactcenter_region26|special,"7 90 1801 9569",11856
+"Barrie Cohla",108,21651348479,"Email RESPONSE",call_again|limit18|rangeof_action,"5 52 4426 4532",69920
+"Dulcia Tabbitha",111,82228248478,"Manual registration",remove_of_source|treaty,"+54 9 16 9590 3976",98191
+"Tracee Forcier",2,93360958189,"Manual registration",possible_buyer15|on_consideration,"5 21 1445-4095",11220
+"Ingaberg Chancellor",10,91844779812,"Google forms",client_only|rangeof_action|contactcenter_region3,"+54 3 48-1416 8040",72739
+"Tova F. Odella",81,69135713847,"Email RESPONSE",contactcenter_region4,"+54 8 42 2291 2320",60087
+"Alina Sommer",35,36249644103,"Email response",call_again|on_consideration|contactcenter_region3,"+54 4-66 9028 6739",21040
+"Cara E. Antonin",46,63410882989,"Email RESPONSE",client_only|contactondemand,"5 54 4377 4097",49798
+"Ofella A. Susy",109,81787514445,"facebook leads",case1,"8-40 1641 9776",45076
+"Reeba V. Ehrenberg",123,19035674368,"google Forms",actionable|least_interested18|apply_0_cases30,"9 47 3084 3730",49361
+"Belia G. Spalla",11,70633973490,"google Forms",source_dependant,"9 29 8702 7252",66405
+"Helli Peltier",17,85126976060,"Google forms",possible_buyer25|never_call4,"+54 1 78 7178 6369",57258
+"Opaline C. Barby",39,54595509822,"Google forms",contactcenter_region1|most_interested25,"4 66 9895 5281",76079
+"Bettina Dacy",61,42199020081,"Manual registration",actionpending|actionpending,"+54 4 86 6276 8757",26471
+"Nicki Dosh",102,67321594915,"facebook leads",least_interested|contactcenter_region410|techsource_29,"7 19 3002 5079",28899
+"Allyce Marpet",45,52715380292,"Email RESPONSE",limit,"+54 2 47 7183 3028",25863
+"Christabella C. Orelie",1,61721162205,"Email RESPONSE",treaty|contactcenter_region3,"+54 5-41 2227 9003",77610
+"Row Dionisio",1,68995519922,"MANUAL REGistration",contactcenter_region4,"+54 4 30 1596 1216",78219
+"Judith Andromada",81,95797176465,"Manual registration",case115|treaty6|treaty12,"3 95 3800 8631",72870
+"Peggi Albric",119,86615335927,"Email response",contactondemand,"7-49 1266 5424",42943
+"Denise Beatrice",109,81787514445,"google Forms",possible_buyer|call_again,"8-40 1641 9776",87175
+"Maridel Stacie",116,75402685692,"Manual registration",contactcenter_region15|case1,"1 14 7678 3783",14844
+"Germaine Rosetta",27,72713724598,"Email response",rangeof_action9|apply_0_cases,"7 29 7774 8689",49484
+"Ardelia Youngman",112,18828923573,"facebook leads",any_applicant|contactcenter_region1|limit,"9-53 3308 8641",55664
+"Walliw R. Dyke",20,40490255237,"Manual registration",contactondemand,"9 97 7341 8057",53474
+"Norene Mor",113,61587567730,"Email response",treaty|limit,"7 14 9801 4285",27547
+"Opaline J. Leblanc",95,49908154729,"MANUAL REGistration",remove_of_source|treaty|most_interested,"6 82 8012 3559",15735
+"Harriet Tyler",19,90456512866,"Facebook Leads",apply_0_cases20|treaty|apply_0_cases,"+54 3 45 5925 2883",91764
+"Deni P. McGee",36,63687225658,"Email RESPONSE",techsource_2930,"7 44 6925 7076",66128
+"Bobinette J. Giavani",77,69606747258,"Email RESPONSE",most_interested,"6 88 9407-4519",34485
+"Franciska Goodrow",73,34314467912,"facebook leads",most_interested|possible_buyer,"4-83 1789 9037",36857
+"Kynthia Diandra",41,32499419233,"Email RESPONSE",never_call8|techsource_2917,"4-33 1032 1142",37764
+"Danyelle C. Yeh",40,32947189932,"Facebook Leads",form_ui344|case123,"5 48 2548 9897",39566
+"Theodosia Menell",107,75477986004,"Manual registration",form_ui344|never_call|remove_of_source,"5 40 1433 7241",47485
+"Leonie Galloway",121,56590681632,"Manual registration",contactondemand,"+54 3-21 5927 1233",14372
+"Mirabel Nonna",109,89796534593,"facebook leads",contactondemand|possible_buyer,"8 87-7110 9048",66128
+"Allie P. Gertrud",86,72906348831,"google Forms",contactondemand8|any_applicant22,"4-10-4029 8852",72397
+"Marya Thordis",78,67798322626,"facebook leads",apply_0_cases21,"9 52 2096 5221",73413
+"Ettie Rosco",38,44729170018,"Google forms",actionable|techsource_29,"5 93 9620-4513",92282
+"Shara Kane",70,48859160414,"Email response",actionable,"4 49 5349 4067",36850
+"Carlee T. Darcy",6,86437876575,"Google forms",special9|call_again,"+54 8 19 9044 4393",73413
+"Shara Adaurd",51,57152089815,"Email RESPONSE",actionpending21,"+54 8 17 5828-6977",90014
+"Jennifer Birdie",112,54889129754,"Facebook Leads",client_only15,"1-13 8418 4965",77191
+"Latia Isidoro",103,59532905835,"Facebook Leads",contactcenter_region4|contactcenter_region2,"+54 1 21 4959 3104",31584
+"Tally W. Krongold",117,35029799223,"MANUAL REGistration",least_interested,"7 42 9047 9107",75702
+"Mavis Bathilda",55,35742007029,"facebook leads",source_dependant|rangeof_action|special,"2 67 6580 9251",50943
+"Gray Annice",87,50428011053,"Email RESPONSE",form_ui34424|client_only|contactcenter_region2,"4 16 6909 7813",70989
+"Kiley Brigit",73,25801931554,"facebook leads",actionpending|contactondemand14,"6 50 3627 3996",77191
+"Ketti S. Massimo",43,89914155241,"Email RESPONSE",on_consideration25|call_again|form_ui34412,"8-33 8431 5089",88489
+"Moina B. Walton",16,99504869381,"Facebook Leads",special|source_dependant17|on_consideration,"2 88 1004 2214",72571
+"Bettye Doner",104,92908656270,"Google forms",contactcenter_region3|treaty|case1,"9-91 4050 8988",50461
+"Saree D. Sansen",17,42701693194,"Email RESPONSE",least_interested|treaty23,"4 67 8109 3292",45262
+"Brande K. Inman",90,66572635211,"Email response",any_applicant30|contactcenter_region3|on_consideration,"+54 5 91 4924 4014",69400
+"Lethia F. Brand",3,57916494022,"MANUAL REGistration",limit|contactcenter_region4|actionable28,"+54 1 77-4256-8422",93962
+"Rosamond Hakon",78,35442595436,"Google forms",client_only28|contactcenter_region1,"3 91 7021 8124",51333
+"Alyse Blanding",83,16661803338,"facebook leads",call_again15|least_interested22,"6 35 9579-4421",67933
+"Letizia M. Keithley",75,29236255966,"Email RESPONSE",on_consideration15|techsource_2924|possible_buyer30,"5 14 5301 5416",94361
+"Quintina P. Brittaney",33,87268759912,"google Forms",special7,"+54 6 87 8996 6710",33259
+"Wynne M. Willin",105,22226044714,"facebook leads",case1,"8 62-9123-9174",36186
+"Minna B. Beauregard",84,39104001401,"google Forms",remove_of_source21,"+54 7 88 4107-2305",34045
+"Tove E. Twila",59,56355629510,"Email response",limit29|contactcenter_region4|client_only,"1-33 7031-3430",40814
+"Roxanna Kathryne",28,85571897252,"Email RESPONSE",most_interested30|case122|never_call,"3-61 9809-9019",72111
+"Celestia Pren",122,48512975861,"Email RESPONSE",case1|contactondemand|apply_0_cases,"6-74 3175 7973",84145
+"Delia Stanislaw",84,59186824951,"Google forms",remove_of_source17|treaty|contactcenter_region3,"+54 3 95-8295-2472",33031
+"Randy D. Belayneh",107,85248390053,"Email RESPONSE",any_applicant,"5 64 2914 5469",94528
+"Kelsi Silver",9,97216392342,"MANUAL REGistration",contactcenter_region17,"7 84 5256 6376",79255
+"Diane Marketa",40,70909994667,"facebook leads",rangeof_action,"+54 1 74 5946 7909",31490
+"Aura Tavie",4,95925368010,"Facebook Leads",contactondemand21|case1,"7 91 4431 1755",73263
+"Sada Norvun",101,78715406250,"Email response",form_ui344,"4 94-5673 5566",70523
+"Cornelle H. Orford",15,67659914460,"Manual registration",treaty,"7 38 5943 2137",98984
+"Bobbee Matazzoni",94,26074708475,"Google forms",never_call9|contactcenter_region45,"+54 9 14 9487 9550",36205
+"Timmie Woodhouse",13,33919738069,"google Forms",contactcenter_region1|rangeof_action,"+54 5 93 8597-7471",39535
+"Josefina Kadner",39,59525139257,"Email RESPONSE",form_ui3441|limit,"+54 5 96 4969 6118",27842
+"Lulita S. Stanleigh",28,74799825630,"Manual registration",apply_0_cases9|apply_0_cases15|rangeof_action,"+54 8 22 5508-6912",64040
+"Clea Thom",48,27957008471,"Google forms",least_interested|source_dependant|contactcenter_region4,"1 31-6015-7507",29338
+"Damaris Rush",97,50360745290,"Manual registration",form_ui344|most_interested21,"8-23 5015 3849",70987
+"Philly Marienthal",31,47524829273,"Manual registration",case14|on_consideration4|limit,"9 92 3276 9302",67099
+"Lida Brogle",4,95017082764,"google Forms",actionpending,"8 69 1277-8861",40888
+"Glenda Ran",122,40131439484,"google Forms",case1|call_again,7-70-9626-2093,32763
+"Larissa Junius",113,84911517827,"facebook leads",most_interested|treaty,"2 86 8486 6974",77796
+"Bari A. Davenport",122,47011741246,"Email response",actionpending,"+54 9 76 5260 2369",24394
+"Almeria Fiora",78,74032962118,"Google forms",remove_of_source3,"2 93-6228 5872",58717
+"Brianne J. Fortin",122,50059756398,"Facebook Leads",never_call|source_dependant16,"+54 2 35 6514-6331",77603
+"Ranique Rothenberg",50,63463323066,"MANUAL REGistration",treaty|contactcenter_region2,"6 68 3514-8226",92771
+"Julia R. Skeie",20,43869095827,"facebook leads",remove_of_source|contactcenter_region1,"7 22-9300 1633",55969
+"Bertie Robert",47,16409600081,"Manual registration",special|special|source_dependant,"9 16 5555 6449",80834
+"Jacinthe Sigfrid",81,98873498261,"google Forms",possible_buyer,"8-91 6906 5997",55376
+"Morgan C. Drais",62,70702481465,"Facebook Leads",possible_buyer|actionpending,"5 61-4669 2539",38384
+"Maurene F. Bonns",91,89591811767,"MANUAL REGistration",rangeof_action,"+54 4 39 2024-9135",22312
+"Cherida Janey",37,97257811136,"google Forms",least_interested20|possible_buyer|most_interested,"2-21 7197 4947",75078
+"Koo C. Isia",88,46135083178,"MANUAL REGistration",least_interested,"4 42 6105 3529",45653
+"Emmeline C. Undine",65,13639880892,"Email RESPONSE",actionable,"3 66 7952 2507",51359
+"Jessy R. Angele",72,17876350133,"Email RESPONSE",most_interested11|actionpending,"1-87-3823 9692",72038
+"Gavrielle K. Massie",121,96511198459,"MANUAL REGistration",on_consideration,"+54 6 82-8631 1835",63166
+"Beverley Bilbe",92,91240433768,"MANUAL REGistration",never_call,"1-30 4700 4447",21486
+"Bennie Fawcett",98,34941644371,"google Forms",client_only|contactcenter_region1|contactcenter_region1,"1 52-7911 9620",26349
+"Jordan Z. Bicknell",36,25268299695,"Google forms",remove_of_source|client_only12|most_interested,"2 51 2826 8688",71730
+"Anastassia Lilac",19,46536750382,"Email RESPONSE",contactondemand|contactcenter_region4|actionable,"+54 4 15 7973 6766",50195
+"Hendrika J. Remy",68,53037777267,"Manual registration",actionpending,"9 62 1267 5347",90148
+"Katha Boar",64,16941220285,"Facebook Leads",contactcenter_region2,"8 58 7453 9898",31133
+"Davida Allwein",103,26676962089,"Email response",call_again,"3 81 3559 3910",29390
+"Natala Ruddy",113,24183383621,"facebook leads",possible_buyer|call_again13|remove_of_source,"5-90 7328-3306",74603
+"Minette Ocker",25,90092330622,"google Forms",contactondemand,"8 65 4315 4569",30667
+"Jacqueline Plusch",5,40750317860,"Email RESPONSE",most_interested,"9-77-8363 5765",38203
+"Stefania D. Hackney",14,93225554459,"google Forms",contactondemand,"5-82 2251 3932",32908
+"Philippe Vivi",29,43255948352,"google Forms",never_call30,"+54 8 66 1113 7790",93901
+"Wendy H. Merrill",99,66445524695,"Email RESPONSE",on_consideration|contactcenter_region3|form_ui3442,"8 13-6691 6903",74765
+"Brittany Arundel",11,14630756288,"facebook leads",treaty24|most_interested|apply_0_cases,"3-85 1959 1259",24499
+"Bambi Piers",89,30664951025,"Email RESPONSE",rangeof_action3|call_again|limit,"8-87 2645 1046",45747
+"Jehanna Bourne",46,80468233286,"google Forms",techsource_29,"+54 9 48-5186-7911",19509
+"Cheslie D. Narine",18,82042459241,"Google forms",never_call3|call_again,"+54 3 12-7432 1952",77191
+"Maiga Dallas",69,64801249175,"google Forms",any_applicant|contactcenter_region117|remove_of_source,"2-27 4912-8578",12298
+"Doreen Peer",38,60994983133,"Email RESPONSE",possible_buyer7|any_applicant5|case120,"4 67-8221 7709",32747
+"Cara Munt",43,18284405737,"Facebook Leads",least_interested,"2 69 1579 4686",99122
+"Olga Rabassa",58,80257811607,"Email response",limit12|actionable8|special,"+54 5 68 8500 7158",73861
+"Antonia A. Maxima",43,35943811657,"Facebook Leads",treaty|source_dependant|source_dependant,"5 37 6835 7672",32473
+"Lizette B. Hanus",26,62425552829,"facebook leads",call_again,"+54 7 26 2669 5308",22835
+"Ianthe Lacagnia",77,63802542477,"Facebook Leads",any_applicant|contactcenter_region3,"1-83 2892 8497",16106
+"Hedwig Melborn",58,46310362223,"Facebook Leads",form_ui344,"4 47 5919 9730",61625
+"Teena Roch",91,60452044018,"Facebook Leads",source_dependant|special|contactondemand,"3 12-5013 5595",69877
+"Ardeen S. Lietman",58,71318570812,"MANUAL REGistration",client_only17|contactcenter_region423,"6 46 8024 4065",36705
+"Loralyn Wahl",4,84403756361,"Manual registration",most_interested|most_interested,"4-30 1574 6268",31638
+"Kassey W. LeMay",55,15846518906,"Google forms",case123|case1|treaty,"+54 2 58 6397 5225",89337
+"Geraldine Fredrika",20,94298764946,"MANUAL REGistration",possible_buyer,"2 46-9070-1137",46757
+"Maitilde Pirbhai",105,15425026364,"Email RESPONSE",never_call|never_call,"7-18-2497 4615",89286
+"Marietta Tarrance",20,80574183933,"Google forms",least_interested29,"+54 9 20-4461 9920",16454
+"Libbey H. Hiett",100,39737885826,"Facebook Leads",most_interested|techsource_29|contactcenter_region2,"6-32 4359-1961",19954
+"Jennifer Dallon",68,77718293548,"Email RESPONSE",on_consideration|never_call15,"1 82 3050 4612",89944
+"Maudie Etana",77,26926819495,"Google forms",client_only|limit,"+54 3-53 8561-7913",58651
+"Myrna Ongun",38,24221936207,"Email RESPONSE",limit,"6-93 3567 4648",27526
+"Missie C. Serica",101,41149367897,"MANUAL REGistration",source_dependant,"5 20 7159 5143",56990
+"Juli D. Joung",29,18541027613,"Google forms",source_dependant,"1 33 1103-9149",29059
+"Bryna Camila",25,15127797304,"Google forms",actionpending|contactcenter_region2,"3 68 2959 9271",80899
+"Latisha M. Carol",17,43363856778,"google Forms",case1|form_ui344,"2 55 2885 3298",36705
+"Andriette Una",29,89430542239,"MANUAL REGistration",client_only|form_ui344,"3 65-2956 8743",48749
+"Opaline Tempa",41,79559143908,"Email response",any_applicant,"7 34 8728 5924",54285
+"Delphine G. Fairfax",60,25569833068,"Email RESPONSE",rangeof_action3|most_interested5,"+54 2 67 2858 7657",73007
+"Vallie Custer",123,75375454679,"Google forms",any_applicant,"+54 8 66 7942 2128",13707
+"Talia Q. Thomsen",90,26243186796,"facebook leads",on_consideration|contactondemand,"5 73-1485 8503",54760
+"Waneta Jackie",55,89902320954,"MANUAL REGistration",actionable|remove_of_source|contactcenter_region317,"5 38 6474 2083",52416
+"Legra Shifra",77,19264066527,"Email response",contactcenter_region2,"8 11 9874 3798",19829
+"Mirabella A. Hausner",54,52570441685,"Facebook Leads",limit22|remove_of_source10,"7 57 4169 5000",74454
+"Ginnifer N. Gerrit",38,20029673977,"Email response",techsource_29|special|special,"9 55-9822 7777",27376
+"Fran H. Otis",108,96559502487,"facebook leads",form_ui344,"8 58 9764-2355",18294
+"Sylvia G. Gavrila",66,55044352561,"MANUAL REGistration",contactondemand|source_dependant,"+54 5 39 7075 6747",36690
+"Marcile R. Charleton",91,25217766451,"Email RESPONSE",least_interested|contactcenter_region46,"+54 3 60 8953 3163",38434
+"Dolly R. Lianne",5,13985191355,"facebook leads",least_interested2|special,"1 45 9508 5091",26700
+"Keriann H. LeDoux",108,23877861283,"Google forms",any_applicant4,"+54 9 12 5493 1052",28559
+"Marcellina Artimas",46,89102160655,"google Forms",never_call,1-70-4571-1783,39870
+"Merola Premer",61,57081120525,"Manual registration",actionpending,"2 92 2781 2279",17116
+"Flossi W. Chapman",13,36920454375,"Google forms",actionpending18|remove_of_source|special,"+54 9 69 4435 9968",72217
+"Ray S. Ashbaugh",9,41041477149,"Google forms",client_only|on_consideration15,"5 40-2127 7845",39274
+"Nessa Goodman",7,47121636945,"Google forms",client_only|rangeof_action|on_consideration,"6 92 5534-9467",35877
+"Una Margarethe",37,11680804611,"facebook leads",on_consideration24,"5 51-4143 6406",62898
+"Kaia Vivl",23,46443383254,"Google forms",techsource_29|contactcenter_region411,"8 32 6469-9906",45507
+"Laurene A. Ban",44,23936602564,"google Forms",contactcenter_region11|contactcenter_region4|contactcenter_region4,"3 89 3271 1312",17046
+"Janeva L. Schilt",68,99545070840,"Email RESPONSE",possible_buyer13|contactcenter_region2,"7 49 4028 9158",79396
+"Elisa E. Bach",124,15265222210,"google Forms",source_dependant,"+54 9-41 3927 8806",74070
+"Raeann B. Nava",70,20292830704,"MANUAL REGistration",never_call|never_call,"4 83 2316 4137",19140
+"Tilda Levina",44,23936602564,"Email response",treaty,"3 89 3271 1312",85298
+"Ardra Olen",73,55885432947,"Manual registration",contactondemand,"4 23 8395 6070",41433
+"Tate Kenay",42,88147695059,"Manual registration",case121,"2-10 5456 1427",40516
+"Hynda L. Him",81,41381461122,"Email RESPONSE",possible_buyer1|contactondemand|on_consideration,"1 19-1942 4476",73389
+"Jacinthe C. Hedi",72,50598929292,"Facebook Leads",treaty|contactondemand|contactcenter_region4,"4-82 2589 1277",53084
+"Rozella Bessy",35,16743814542,"facebook leads",rangeof_action,"4-23 3467 5050",46771
+"Gayleen Romonda",122,55241290759,"Facebook Leads",never_call|apply_0_cases3,"+54 2-76-8002 8135",32192
+"Lexis A. Fulcher",108,67038158593,"Email response",least_interested,"3 88 4785 8406",53331
+"Brandea Ranchod",78,29907748809,"Email response",contactcenter_region2|rangeof_action,"8 42 4182 2989",39211
+"Ashia W. Tressia",40,64350176467,"Email RESPONSE",contactondemand|apply_0_cases27|contactcenter_region4,"9-31 7599 8495",33037
+"Judie Niven",23,68996314784,"google Forms",limit,"2 56 5906 7259",82669
+"Saloma Taub",113,75835057838,"Email response",any_applicant,"+54 5-35 5736 1497",52383
+"Amil K. Jenkins",46,72292374974,"Google forms",any_applicant|special3|any_applicant15,"2 39 2865-3778",62768
+"Glenda B. Tate",46,84501040228,"Email response",special|on_consideration|techsource_29,"1 71 4075 2240",57889
+"Edythe R. Kiona",8,85015910240,"Manual registration",treaty|contactondemand14,"5 78 3197 5405",11352
+"Gabrielle A. Birkle",119,90802710373,"MANUAL REGistration",rangeof_action5,"+54 2-83 3042 9587",70592
+"Margeaux Micky",80,39443250510,"Email RESPONSE",call_again,"5 59 2075 4020",56868
+"Gwenny B. Genesa",88,80920295964,"Facebook Leads",possible_buyer,"+54 4 72-2339 8555",71272
+"Blaire Katerine",78,63429267899,"Email RESPONSE",apply_0_cases,"2 91 6354 2392",46943
+"Anestassia Yumuk",117,96644392108,"facebook leads",remove_of_source|on_consideration24|contactcenter_region1,"3 47-2484 9980",80960
+"Donna L. Hippel",99,93284756436,"Manual registration",contactondemand|treaty15|call_again,"1 89 2956 7087",75868
+"Carolina H. Rumpf",96,97772692986,"Email response",call_again|techsource_29,"5 42-7140 1387",91202
+"Martynne H. Sigrid",110,39634067703,"google Forms",treaty|apply_0_cases|remove_of_source,"+54 8-55 8073 8671",55410
+"Jackquelin F. Julee",92,49040301477,"Google forms",any_applicant|possible_buyer|on_consideration,"6 27-8991 9493",74160
+"Analise R. Elenore",23,68996314784,"Google forms",contactcenter_region2|actionpending27,"2 56 5906 7259",12127
+"Gunilla Suzy",15,11691651286,"Email response",form_ui34418|never_call23,"+54 4 68 7604-3148",74869
+"Bell C. Blodgett",16,90625988313,"Google forms",most_interested|form_ui344|remove_of_source,"2 16 3196 3170",87915
+"Alexandrina E. Ribaudo",119,98656844420,"Email response",source_dependant|on_consideration5|apply_0_cases,"+54 8-76-2715 1863",40516
+"Binni Medor",109,55109151198,"Email response",client_only|possible_buyer12,"7-50 4649 5838",12244
+"Becka Rocco",68,39507235214,"Email RESPONSE",techsource_2922|rangeof_action|on_consideration1,"3 34 2956 2795",27030
+"May R. Streeter",118,65840178632,"Email response",any_applicant,"+54 4 12 5169-6248",16545
+"Meredith S. Richter",63,41898296399,"Email response",never_call|special,"4 57 7903 6520",50966
+"Fern Nicolina",38,22432362568,"Manual registration",client_only|form_ui344,"2 42 1887 4172",85569
+"Rikki D. Eckhardt",84,46394604657,"Email RESPONSE",possible_buyer,"6 46 2668 5271",68964
+"Ellie Wendel",7,85022324464,"Manual registration",contactondemand|case1,"8 30 2899-1868",41289
+"Ivonne Zakarias",15,46213521507,"MANUAL REGistration",contactcenter_region1,"4 14 5531-2116",94232
+"Rennie Ishmul",89,18895148610,"facebook leads",actionpending|contactcenter_region217,"4 33-2507 6032",76731
+"Charis A. Barthold",3,43377699118,"Facebook Leads",possible_buyer21,"+54 8-36 8839 1551",22868
+"Lenora Courtund",124,77469108248,"MANUAL REGistration",contactcenter_region2|client_only,"8-40 3213 6957",82527
+"Jaymee Sorilda",105,29556183977,"MANUAL REGistration",never_call|least_interested,"2 47 2096 4375",34818
+"Leona Reese",54,85038404792,"Email RESPONSE",special|special|contactcenter_region3,"4 93 5417 6431",60925
+"Dulcy T. Estey",30,25022633753,"Google forms",case1|actionable29,"3 37-2134 4901",85569
+"Nora Biddick",24,59436043267,"facebook leads",limit12,"+54 5 40 6379 3210",78289
+"Marilee McKenna",92,89792986864,"Facebook Leads",least_interested|contactcenter_region3,"5 57 2836-7769",47536
+"Corine L. Ulysses",17,12310094628,"google Forms",on_consideration|contactondemand,"+54 4 38 4013-8401",16958
+"Paola Braeunig",69,13609669201,"Google forms",source_dependant|contactcenter_region1,"1 58 2246 8808",63827
+"Eddi Hal",122,81278810813,"MANUAL REGistration",contactcenter_region4|remove_of_source,"2 71 4173 9210",96394
+"Reeva Konstantin",4,51643977630,"Manual registration",call_again|source_dependant|case1,"2 57 3276-1962",84348
+"Melinde Northey",62,96014698734,"Email response",apply_0_cases5|contactcenter_region314,"+54 3 44 5200 8016",14803
+"Jessika H. Bryce",82,51447395585,"Email RESPONSE",on_consideration9|special,"2-80-7334 6335",41461
+"Floris G. Blumenthal",37,14210419323,"Facebook Leads",actionpending|actionable|source_dependant,"2 58 8093 7620",13688
+"Yetty W. Glovsky",88,83169466739,"Email RESPONSE",actionpending,"2 88 1625 5493",82556
+"Lesly A. Hepzi",109,42824440484,"Facebook Leads",contactcenter_region2|form_ui3446,"+54 6 91 8629 4583",61400
+"Ulrike C. Tonl",45,16390018981,"google Forms",possible_buyer13,"1 35 9161-2865",22106
+"Beilul B. Hut",60,15089193397,"Email response",contactondemand|contactcenter_region420,"+54 4 20 9799 2124",92648
+"Heddie Baskett",115,32007525265,"google Forms",actionpending13|client_only|actionpending,"7 66 1720-7491",78276
+"Geralda Vivienne",81,40964867969,"MANUAL REGistration",any_applicant|least_interested,"+54 1 12 6563 5266",53715
+"Heidi Baalbeer",23,68996314784,"MANUAL REGistration",form_ui344,"2 56 5906 7259",44112
+"Birgitta P. Body",13,21292115313,"facebook leads",rangeof_action|contactcenter_region2,"5 99 4653-4876",29636
+"Rowena Ondine",12,59019680551,"Email response",call_again30,"3 53 1418-6026",45435
+"Aura F. Kati",13,44743682923,"Email RESPONSE",call_again|actionable|contactondemand,"+54 7 62-3146 5694",38628
+"Agatha Gordan",52,99208455729,"Manual registration",contactcenter_region21|any_applicant,"5-30-8590 7302",49556
+"Quinta Belia",48,76236419202,"facebook leads",contactcenter_region3|form_ui344|actionpending,"9 22 2505 2189",44112
+"Lisha Meneau",92,71881686356,"MANUAL REGistration",apply_0_cases|contactcenter_region229|on_consideration,"1 91 5564 2219",66722
+"Laureen H. Webber",94,54452408222,"facebook leads",rangeof_action|limit,"1 50-9246 7955",46168
+"Brenda Jerz",23,68996314784,"facebook leads",treaty12,"2 56 5906 7259",31035
+"Kellen S. Montana",114,36316792515,"Email RESPONSE",actionpending|least_interested,"4 48 4787 2785",10329
+"Natalina Aholla",76,62843443410,"Email RESPONSE",limit,"8 31 1733 8827",68210
+"Cate C. Tchao",41,17928129908,"Google forms",contactcenter_region1|rangeof_action|least_interested,"+54 9 75 8573 8653",64376
+"Fey Burt",79,52331607424,"MANUAL REGistration",source_dependant|on_consideration|apply_0_cases12,"6-58 3701 3132",32326
+"Giulia A. Ruggiero",92,79317657971,"Email RESPONSE",actionable10,"3-88 7705-6537",60351
+"Liliane T. Seka",77,30654697373,"Manual registration",source_dependant|contactcenter_region4|contactondemand,"6-25 4039 7040",52238
+"Ondrea Ettinger",41,17928129908,"Facebook Leads",contactcenter_region2|most_interested26,"+54 9 75 8573 8653",97892
+"Kippy C. Main",64,54698553551,"Google forms",contactcenter_region27|most_interested|apply_0_cases11,"+54 9 36-5029 1349",13741
+"Jasmin Kosse",120,41518132983,"Email RESPONSE",rangeof_action|rangeof_action26,"+54 9 46 7672 4777",55205
+"Carole Maletta",97,22658268220,"google Forms",client_only24|contactcenter_region4|actionable23,"+54 6 86 4551 8541",30559
+"Cosetta B. Orban",19,72164143938,"facebook leads",any_applicant|limit,"5 37-2826-5535",26926
+"Annabela Bradstreet",5,18784604010,"Facebook Leads",contactcenter_region1,"+54 7-36 9409 7644",65334
+"Genvieve N. Guarino",24,54091032222,"facebook leads",apply_0_cases|actionpending10|contactcenter_region17,"1 68-1629 8150",41514
+"Tobe Irvine",67,56010177371,"Email RESPONSE",on_consideration,"6-83 1760 1038",68753
+"Therese Hendry",61,55883913879,"Manual registration",contactcenter_region49|form_ui344,"+54 6-96 4917 9789",83265
+"Klara K. Oringas",18,76583551400,"Facebook Leads",most_interested24,"7 29 6422 6014",42914
+"Valerye Davide",19,72164143938,"Manual registration",never_call|source_dependant,"5 37-2826-5535",51759
+"Anica Bello",91,98468994522,"Facebook Leads",techsource_292|apply_0_cases,"4 49 2625-9960",81923
+"Aurora N. Devona",117,87936917207,"MANUAL REGistration",apply_0_cases|actionpending4|contactcenter_region428,"+54 4-52 8088 1151",86623
+"Jillane I. Atalante",19,72164143938,"Facebook Leads",any_applicant|treaty,"5 37-2826-5535",61883
+"Jo Cyrus",61,56461383952,"Email response",actionable1|actionable,"+54 2 87-4673 3667",71371
+"Clarissa B. Olly",112,48886118092,"Email response",contactcenter_region2,"8 20-6989 3039",86479
+"Cleo C. Micro",6,62899488906,"Manual registration",any_applicant23,"6 46 8901 5517",46168
+"Livia Golda",114,79183642155,"facebook leads",on_consideration|source_dependant25,"2 25-8958 6048",29616
+"Betteanne Zebapda",101,61002367180,"facebook leads",rangeof_action|contactcenter_region111|treaty,"4 93 5931 8516",22761
+"Leese P. Ponton",10,75764152426,"facebook leads",never_call|special|actionpending,"+54 8-67 6359-6658",88812
+"Britte M. Colan",85,80061966466,"Email RESPONSE",limit,"+54 9 73 8306 1101",99785
+"Adriane B. Verger",8,21009410929,"Email RESPONSE",possible_buyer,"9 49 6261 2204",73613
+"Merry H. Merrill",32,83374943347,"MANUAL REGistration",special|remove_of_source|possible_buyer15,"4 21 5263 7371",39946
+"Del Wilhide",1,65482875476,"Manual registration",actionpending|contactondemand11,"1 67 4488-9060",75857
+"Ida Pharaoh",25,39679815293,"facebook leads",contactcenter_region2|possible_buyer,"3 42-6913 8144",53069
+"Willamina Abrahan",123,67171350884,"Google forms",form_ui34419|on_consideration19|special16,"5 53 2646-4466",29796
+"Christin E. Hillery",15,92380359970,"google Forms",least_interested|client_only,"2 45 4548 2420",26428
+"Christian Leod",9,50439403795,"Google forms",rangeof_action|contactcenter_region3,"2 88 2185 8482",55636
+"Carmen Lisabet",107,94992142196,"Email RESPONSE",contactcenter_region4|source_dependant30,"5 53 2267 3206",24066
+"Anabal Olympias",8,92035779201,"Facebook Leads",on_consideration|never_call12|actionpending,"+54 4 90 5439 1796",26822
+"Tatiana Kory",59,69372806539,"Email RESPONSE",on_consideration18,"4-39 5044-3495",56124
+"Aleece Plumbo",87,37123316980,"Facebook Leads",techsource_29,"+54 6-19 4959 1040",60438
+"Nicoli Zipah",85,78209846722,"Email RESPONSE",client_only|contactcenter_region4|contactcenter_region3,"4 25 7628 9785",11734
+"Alexandra Kimbra",120,91478189673,"Manual registration",never_call,"7 80 1859-4782",26936
+"Cloris P. Maryellen",16,56821957719,"Email RESPONSE",form_ui34410|most_interested19|rangeof_action1,"3 50-9033-6933",45481
+"Kathe Malory",2,51371961898,"MANUAL REGistration",actionpending,"2-41 9067-2038",74828
+"Genni E. Ocko",25,14811796290,"Google forms",client_only22|never_call,"+54 6 18-1991 3497",58935
+"Evvy Tani",73,49311208686,"Manual registration",contactcenter_region219|any_applicant,"+54 7 93 7425-2656",37736
+"Maren Fidole",40,94751733557,"Google forms",form_ui344,"1 43 6957-8073",96885
+"Cathleen Noe",19,72164143938,"Facebook Leads",never_call,"5 37-2826-5535",42111
+"Cornela Barram",94,66388856547,"Facebook Leads",most_interested6,"6 72-2946 3500",73649
+"Joeann Schlessinger",110,51171110935,"Facebook Leads",any_applicant12,"2 48 3636 9073",96410
+"Coraline Africa",21,83124588857,"Facebook Leads",call_again|contactcenter_region1,"1 92-4090 4270",77984
+"Latashia E. Nicoline",58,39914798686,"Manual registration",case1,"1 60 9116 8827",18636
+"Brandise W. Norby",77,17938495125,"facebook leads",on_consideration|client_only13|contactcenter_region31,"+54 8 37 4345-9100",25870
+"Rafaelita Calva",80,34380868310,"Email response",contactcenter_region421|on_consideration,"+54 3 77 5697-3308",16494
+"Jere H. Fermin",19,72164143938,"Facebook Leads",remove_of_source,"5 37-2826-5535",36456
+"Morena Jairia",100,29322557040,"Google forms",contactcenter_region3,"9 63 9995 9881",85181
+"Dix Blinny",35,76318526652,"Google forms",remove_of_source,"+54 6 42 2956-4442",82873
+"Kimmi R. Panayiotis",115,36594424906,"MANUAL REGistration",contactcenter_region3|techsource_2929,"8 68-8641 2068",51967
+"Maryl Oech",38,17021754342,"Email RESPONSE",limit|any_applicant|limit,"+54 4 94 9003 8503",37677
+"Ceil Sybille",14,22284960096,"MANUAL REGistration",techsource_29|never_call|case15,"9 51 1016 4773",83277
+"Danna Estus",57,76270922216,"Email response",most_interested,"9 34 9939 9195",95719
+"Julia Pollitt",15,84203885836,"Facebook Leads",contactcenter_region3|case129|actionpending,"5 25 8823 8517",80898
+"Oriana C. Zeitler",64,28285439982,"MANUAL REGistration",least_interested2,"+54 1 27 8213 6771",54163
+"Tommy Maitund",114,30762894652,"Facebook Leads",least_interested25|special,"+54 3-21-4795-2203",34655
+"Joletta Bristow",113,69004339578,"Manual registration",techsource_29,"2 30 4489 2102",43553
+"Ceciley Vyse",49,48905472650,"Email response",techsource_298|possible_buyer|form_ui344,"5 33 2041 5173",75820
+"Theresa H. Mihalco",34,30599539761,"Facebook Leads",actionable21,"+54 5 51-3781-3879",39599
+"Agace Meghann",19,49943687722,"MANUAL REGistration",call_again|possible_buyer15,"3 35 8712-9647",55131
+"Cam Juliane",97,92791663371,"facebook leads",contactondemand22|possible_buyer,"4 58 4905 7457",84149
+"Suki R. Jonie",79,40640932355,"facebook leads",form_ui3449|client_only,"3-45 5176-8203",55961
+"Ambur K. Dosi",3,85728899445,"google Forms",treaty,"+54 4 48 7258 1586",35030
+"Vita O. Stoller",87,44941228676,"google Forms",possible_buyer14|client_only28,"2 23 9909 6268",55636
+"Ashla Crispin",99,22012624750,"Facebook Leads",source_dependant,"+54 4 55 5856 8877",46050
+"Freda D. Leahey",26,52910950256,"MANUAL REGistration",possible_buyer10,"1 85 1665-5111",49028
+"Adriane Kelcie",92,42179573882,"Manual registration",actionpending30|rangeof_action|actionable8,"9 56-9521 8159",35925
+"Thekla V. Hoisch",56,55372239617,"Email response",possible_buyer,"+54 3 15 6169 7336",99618
+"Patricia Vasya",122,31442256325,"Email response",actionpending2|on_consideration12,"1 35 1112 6713",42420
+"Edyth G. Ithnan",4,86574802469,"Email RESPONSE",least_interested|rangeof_action16,"4 22 9114 1812",39235
+"Kaitlin N. Aubarta",74,73820474956,"google Forms",on_consideration29|limit|contactcenter_region2,"4 52 8687 3307",51143
+"Valery S. Pharaoh",33,94658840078,"Google forms",contactcenter_region1,"8 10 5706 9756",44380
+"Rosene G. Modesty",89,19610905722,"Facebook Leads",case1|case1,"3-37 7146 9370",97441
+"Orel L. Tedra",22,64817376893,"Facebook Leads",actionable|actionable|form_ui34430,"8 80 3270-7714",28603
+"Jessalyn B. Gaut",44,85341246364,"Manual registration",never_call|possible_buyer|case1,"+54 7 49-5172 1777",29755
+"Karolina Maddalena",111,49263983193,"Manual registration",rangeof_action18|client_only|special15,"1 59 4994-9579",50620
+"Alicia Winonah",102,68006713808,"Facebook Leads",treaty12|source_dependant|on_consideration19,"+54 8 51 4888 2459",46050
+"Suzann Carole",76,68673182379,"Email RESPONSE",call_again20|on_consideration,"3-89 7453 4731",69700
+"Vicky Gamber",69,45621148812,"facebook leads",call_again16|actionpending,"+54 2 45 8610 8751",13397
+"Marget G. Milano",23,81351853950,"Manual registration",call_again|contactcenter_region28|techsource_29,"5 80 9282 1670",64784
+"Gabbi Philender",4,15276375129,"Google forms",actionpending20|least_interested20|source_dependant,"+54 1 47 4582 4386",73656
+"Greer Hedgcock",104,31531559910,"MANUAL REGistration",special8|least_interested|least_interested,"5-50-2159 7936",49663
+"Thia L. Nixon",12,92953462334,"Email RESPONSE",rangeof_action13|limit|special5,"1 25-1391 6351",16686
+"Trudie C. Dorran",109,61643073678,"Email response",source_dependant|source_dependant|remove_of_source26,"6 10 3798 2419",55502
+"Gwynne Grove",85,30645533045,"MANUAL REGistration",contactcenter_region117,"3 16-6721 2045",86266
+"Isidora R. Junie",88,22689560614,"Google forms",call_again3,"5-88 5477 8395",41790
+"Joeann R. Reinhold",122,62552250923,"Email RESPONSE",contactcenter_region1|call_again2,"+54 3 89 2403 3997",95988
+"Tiffie Stella",19,94105167452,"Manual registration",treaty|form_ui344|limit27,"5-33 5778-6153",44879
+"Thomasine O. Holbrooke",100,56497127183,"Manual registration",call_again28,"8 29 6347-2699",26991
+"Dorian C. Gallagher",53,20338591526,"Facebook Leads",form_ui344|any_applicant16|actionpending1,"3 48 2749 5238",22679
+"Shanta R. Ormand",109,59157990714,"Email response",actionpending|form_ui344,"2 51 8008 9649",27402
+"Marge E. Rosen",27,85713897641,"MANUAL REGistration",contactcenter_region110|form_ui344,"+54 4 73 2062 4191",41351
+"Margaretha J. Jackquelin",50,38025743646,"Manual registration",any_applicant27|possible_buyer16,"5 49 7211 8521",65163
+"Frances Taylor",13,13812651861,"Email RESPONSE",contactondemand|limit22|actionable,"+54 7 38 9869 5937",15083
+"Abigale Sekyere",91,45482278864,"Google forms",client_only,"2 74 1950 5749",67205
+"Farica Michaella",75,81746768250,"Manual registration",possible_buyer|limit|form_ui344,"+54 9-29-1321 3925",86098
+"Selma M. Ludeman",27,81637214618,"facebook leads",any_applicant,"+54 9 76 4176 5204",95142
+"Reine D. Samson",69,45621148812,"google Forms",least_interested,"+54 2 45 8610 8751",97768
+"Kris Line",2,55800152812,"Email response",contactondemand,"+54 6 26 3105-9827",17090
+"Andrea F. Paget",10,26596040060,"Manual registration",contactcenter_region46|possible_buyer|possible_buyer4,"5 73 3081-6910",67293
+"Corina A. Edelsten",69,84624463931,"Google forms",possible_buyer|actionable,"4-92 2019 6713",86698
+"Josey Arnie",2,60357655752,"facebook leads",apply_0_cases|case1,"+54 5 53 6456 5553",39079
+"Domini S. Charry",38,31799428656,"google Forms",limit|treaty|actionpending2,"1-42 5523 9474",96183
+"Liz Ferne",25,83547565903,"Facebook Leads",treaty|contactondemand12|apply_0_cases,"2 81 9452 1416",38512
+"Nomi Jodoin",38,60679846043,"MANUAL REGistration",contactcenter_region4,"+54 6 68 4597 3619",29312
+"Lyndell A. Obediah",118,64483051265,"Email response",special|contactcenter_region4,"8 63 6863 3647",79779
+"Allegra Weissberg",19,56667929584,"Email RESPONSE",rangeof_action|rangeof_action,"6 19-5499 7556",81878
+"Honor Talley",86,49051950005,"Email response",contactcenter_region2,"+54 1 77 9493 4588",45292
+"Carlee Giguere",39,26721754858,"google Forms",never_call|actionpending|contactcenter_region3,"1 32 7288 5799",79754
+"Cicily F. Carline",26,75755066423,"Google forms",form_ui344|limit|any_applicant,"7 44 9949 7971",90584
+"Cornie P. Dusa",2,98270293188,"Google forms",contactondemand18|treaty|any_applicant4,"5 25 2481 4598",72902
+"Murielle Z. Isidro",76,28835667439,"facebook leads",possible_buyer|possible_buyer|actionpending,"7 79-4196 8367",58775
+"Scarlet Baruch",70,82652935110,"Facebook Leads",contactondemand|source_dependant,"5-72 8824-4791",65700
+"Josi M. Beora",39,72149848721,"MANUAL REGistration",case1,"8-92 7107 5101",90664
+"Daisy Loredo",6,34057397450,"MANUAL REGistration",techsource_2922,"+54 8 26-8286 5636",63335
+"Clarisse Harlan",41,19493083301,"MANUAL REGistration",remove_of_source23,"6 93-1904 8062",99515
+"Malorie J. Jaylene",16,17749396440,"facebook leads",least_interested24,"8-81 6691-4414",27225
+"Vanessa O. Schiro",54,37285223894,"Email response",actionpending|special|limit,"6 61 9302 6350",21178
+"Theodora Claudette",56,20430149115,"Email response",any_applicant|rangeof_action,"+54 6 15 2467 7392",87902
+"Cissy Dani",123,45224962103,"Email response",techsource_29,"7 46 8777-3767",80570
+"Kayle L. Kirst",14,24318789864,"Email RESPONSE",limit,"4 56-9499 8467",54858
+"Bel Darton",21,22968488488,"Email response",possible_buyer|call_again|form_ui344,"+54 5 21-1150 4040",81008
+"Karon S. Sarge",25,93339097984,"Manual registration",apply_0_cases|form_ui344,"6 56 1794 9395",34433
+"Natividad H. Revkah",8,35621292341,"Email RESPONSE",contactcenter_region4|apply_0_cases,"9 46 7233-5370",11094
+"Gerty A. Avie",56,77666432174,"MANUAL REGistration",treaty8|case1,"1-31 8814 2827",23892
+"Margalo Darcee",114,34930634953,"google Forms",techsource_29,"+54 3-98 5273 3452",78334
+"Sandi Herriott",25,97442222197,"google Forms",case113|actionpending|call_again,"1 60 1408 1871",60188
+"Fania S. Kitty",31,47469737957,"google Forms",form_ui344|most_interested|least_interested,"1 57-3397 9337",37790
+"Tallie Monk",93,82494539291,"Email RESPONSE",techsource_29,"1-78-3766 6639",12098
+"Elenore E. Tersina",118,87408973494,"facebook leads",special7|contactcenter_region3|contactcenter_region2,"2 31 5969 8269",62980
+"Roseanna Alansen",66,54716726827,"MANUAL REGistration",any_applicant18,"+54 6 78 6640 6819",79224
+"Karrie Odine",97,23114704280,"google Forms",contactcenter_region26,"+54 8-68-5263 4115",29363
+"Geralda J. Tadd",55,87106023600,"google Forms",rangeof_action|treaty|most_interested,"8 42-6124-3012",93844
+"Benetta B. Evadne",113,86033883945,"Email response",on_consideration21,"1-11 7315-7124",31135
+"Hally Arluene",111,77135582843,"Manual registration",contactcenter_region1|contactcenter_region3,"4 57 6443-7763",73650
+"Sayre Eberto",28,21665509457,"MANUAL REGistration",rangeof_action|actionable13|actionable,"1 48-1160 9678",56160
+"Aurelia Calabresi",120,97491692636,"Google forms",contactcenter_region228,"6-39 7527 5169",92421
+"Lizzie C. Scarface",68,60718661309,"Google forms",limit|on_consideration20,"7-95 2102 9250",70582
+"Terrye D. Madai",17,52190686303,"Google forms",remove_of_source|apply_0_cases,"+54 3 35-2573-9864",71215
+"Vanessa Tolmann",62,92004301094,"google Forms",on_consideration29|contactondemand,"9 36 2715 4850",53910
+"Kathi Atthia",119,71966082211,"Email response",call_again,"1 64 6915 1348",17182

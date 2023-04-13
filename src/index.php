@@ -77,7 +77,7 @@ class CSVValidator {
             $this->errors[$this->counter] = $lineErrors;
         }
 
-        return !empty($lineErrors);
+        return empty($lineErrors);
     }
 
     private function checkNumber(int $val, int $min, int $max) {
