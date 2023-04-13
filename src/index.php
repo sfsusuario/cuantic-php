@@ -18,16 +18,14 @@ class CSVValidator {
         $this->counter = 0;
         $this->errors = [];
 
-        if($reader) {
-            while (($line = fgetcsv($reader,10000,",")) !== false) {
-                ++$this->counter;
-                if($this->counter == 1) {
-                    fputcsv($writter, $line, ",");
-                    continue;
-                }
-                if($this->checkLine($line)) {
-                    fputcsv($writter, $line, ",");
-                }
+        while (($line = fgetcsv($reader,10000,",")) !== false) {
+            ++$this->counter;
+            if($this->counter == 1) {
+                fputcsv($writter, $line, ",");
+                continue;
+            }
+            if($this->checkLine($line)) {
+                fputcsv($writter, $line, ",");
             }
         }
         
