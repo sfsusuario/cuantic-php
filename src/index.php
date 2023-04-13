@@ -54,7 +54,7 @@ class CSVValidator {
         }
 
         if(is_numeric($dni) && strlen($dni) != 11) {
-            $lineErrors["dni"] = $dni;// . "_" . strlen($dni);
+            $lineErrors["dni"] = $dni;
         }
 
         if(!$this->checkNumber($externalId, 10000, 99999)) {
