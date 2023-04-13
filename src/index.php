@@ -21,9 +21,6 @@ class CSVValidator {
         if($reader) {
             while (($line = fgetcsv($reader,10000,",")) !== false) {
                 ++$this->counter;
-                if(!$line) {
-                    break;
-                }
                 if($this->counter == 1) {
                     fputcsv($writter, $line, ",");
                     continue;
