@@ -10,13 +10,17 @@ class CSVValidator {
     public function loadCSV($path, $destiny) {
         $reader = fopen($path, 'r');
         $writter = fopen($destiny, 'w');
+
+        if($reader === false || $writter === false) {
+            throw new Exception("Open/Writte files errors");
+        }
+
         $this->counter = 0;
         $this->errors = [];
 
         if($reader) {
-            while(true) {
+            while (($line = fgetcsv($reader,10000,",")) !== false) {
                 ++$this->counter;
-                $line = fgetcsv($reader,10000,",");
                 if(!$line) {
                     break;
                 }
